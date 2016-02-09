@@ -21,7 +21,7 @@
         <itunes:explicit>clean</itunes:explicit>
         <itunes:author>Vitality Records</itunes:author>
         <itunes:subtitle>Vitality Records Podcast - Episode 1</itunes:subtitle>
-        <description>Welcome to the Vitality Records Podcast!
+        <description><![CDATA[Welcome to the Vitality Records Podcast!
 
 -Tracklist-
 
@@ -33,7 +33,7 @@
 6. AVA - Existential [AVA]
 7. Botnek &amp; I See Monstas - Deeper Love [Monstercat]
 
-Thanks for tuning in to this week's podcast! See you next week!</description>
+Thanks for tuning in to this week's podcast! See you next week!]]></description>
         <itunes:summary><![CDATA[Welcome to the Vitality Records Podcast!
 
 -Tracklist-
