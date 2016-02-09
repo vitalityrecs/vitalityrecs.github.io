@@ -2,7 +2,7 @@
   <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
     <title>Vitality Records Podcast</title>
-    <link>https://soundcloud.com/vitalityrecs</link>
+    <link>http://soundcloud.com/vitalityrecs</link>
     <language>en</language>
     <copyright>All rights belong to their respective owners.</copyright>
     <itunes:subtitle>Welcome to the Vitality Records podcast! A weekly podcast featuring ~30 minutes of the best drum &amp; bass releases from us and others!</itunes:subtitle>
@@ -12,7 +12,7 @@
       <itunes:name>Vitality Records</itunes:name>
       <itunes:email>vitalityrecs@gmail.com</itunes:email>
     </itunes:owner>
-    <itunes:image href="https://vitalityrecs.github.io/cover.jpg" />
+    <itunes:image href="http://vitalityrecs.github.io/cover.jpg" />
     <itunes:category text="Music"/>
 
       <item>
@@ -30,12 +30,12 @@
 4. AVA - Everlasting [Vitality Records]
 5. Ownglow - All Black [Hospital Records]
 6. AVA - Existential [AVA]
-7. Botnek &amp; I See Monstas - Deeper Love [Monstercat]
+7. Botnek & I See Monstas - Deeper Love [Monstercat]
 
-Thanks for tuning in to this week&#x27;s podcast! See you next week!]]></itunes:summary>
-        <itunes:image href="https://vitalityrecs.github.io/cover.jpg" />
-        <enclosure url="https://vitalityrecs.github.io/episodes/vrpodcast1.mp3" length="30372327" type="audio/mpeg"/>
-        <guid></guid>
+Thanks for tuning in to this week's podcast! See you next week!]]></itunes:summary>
+        <itunes:image href="http://vitalityrecs.github.io/cover.jpg" />
+        <enclosure url="http://vitalityrecs.github.io/episodes/vrpodcast1.mp3" length="30372327" type="audio/mpeg"/>
+        <guid>http://vitalityrecs.github.io/episodes/vrpodcast1.mp3</guid>
         <pubDate>Mon Feb 08 2016 19:14:47 GMT-0500 (Eastern Standard Time)</pubDate>
         <itunes:duration>00:31:38</itunes:duration>
         <category>Music</category>
