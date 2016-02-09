@@ -4,10 +4,11 @@
     <title>Vitality Records Podcast</title>
     <link>http://soundcloud.com/vitalityrecs</link>
     <language>en</language>
+    <description>Welcome to the Vitality Records podcast! A weekly podcast featuring ~30 minutes of the best drum & bass releases from us and others!</description>
     <copyright>All rights belong to their respective owners.</copyright>
-    <itunes:subtitle>Welcome to the Vitality Records podcast! A weekly podcast featuring ~30 minutes of the best drum &amp; bass releases from us and others!</itunes:subtitle>
+    <itunes:subtitle>Welcome to the Vitality Records podcast! A weekly podcast featuring ~30 minutes of the best drum & bass releases from us and others!</itunes:subtitle>
     <itunes:author>Vitality Records</itunes:author>
-    <itunes:summary>Welcome to the Vitality Records podcast! A weekly podcast featuring ~30 minutes of the best drum &amp; bass releases from us and others!</itunes:summary>  
+    <itunes:summary>Welcome to the Vitality Records podcast! A weekly podcast featuring ~30 minutes of the best drum & bass releases from us and others!</itunes:summary>  
     <itunes:owner>
       <itunes:name>Vitality Records</itunes:name>
       <itunes:email>vitalityrecs@gmail.com</itunes:email>
@@ -20,6 +21,19 @@
         <itunes:explicit>clean</itunes:explicit>
         <itunes:author>Vitality Records</itunes:author>
         <itunes:subtitle>Vitality Records Podcast - Episode 1</itunes:subtitle>
+        <description>Welcome to the Vitality Records Podcast!
+
+-Tracklist-
+
+1. AVA - Serene [Vitality Records]
+2. Deccies - Morph [Deccies]
+3. The Prototypes - Pop It Off (feat. Mad Hed City) [Viper Recordings]
+4. AVA - Everlasting [Vitality Records]
+5. Ownglow - All Black [Hospital Records]
+6. AVA - Existential [AVA]
+7. Botnek & I See Monstas - Deeper Love [Monstercat]
+
+Thanks for tuning in to this week's podcast! See you next week!</description>
         <itunes:summary><![CDATA[Welcome to the Vitality Records Podcast!
 
 -Tracklist-
@@ -36,7 +50,7 @@ Thanks for tuning in to this week's podcast! See you next week!]]></itunes:summa
         <itunes:image href="http://vitalityrecs.github.io/cover.jpg" />
         <enclosure url="http://vitalityrecs.github.io/episodes/vrpodcast1.mp3" length="30372327" type="audio/mpeg"/>
         <guid>http://vitalityrecs.github.io/episodes/vrpodcast1.mp3</guid>
-        <pubDate>Mon Feb 08 2016 19:14:47 GMT-0500 (Eastern Standard Time)</pubDate>
+        <pubDate>Mon, 08 Feb 2016 17:00:00 EST</pubDate>
         <itunes:duration>00:31:38</itunes:duration>
         <category>Music</category>
       </item>
