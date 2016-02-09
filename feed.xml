@@ -1,0 +1,45 @@
+
+  <?xml version="1.0" encoding="UTF-8"?>
+  <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+  <!--iTunes Channel Data. Do not change!-->
+    <title>Vitality Records Podcast</title>
+    <link>https://soundcloud.com/vitalityrecs</link>
+    <language></language>
+    <copyright>© All rights belong to their respective owners.</copyright>
+    <itunes:subtitle>Welcome to the Vitality Records podcast! A weekly podcast featuring ~30 minutes of the best drum &amp; bass releases from us and others!</itunes:subtitle>
+    <itunes:author>Vitality Records</itunes:author>
+    <itunes:summary>Welcome to the Vitality Records podcast! A weekly podcast featuring ~30 minutes of the best drum &amp; bass releases from us and others!</itunes:summary>  
+    <itunes:owner>
+      <itunes:name>Vitality Records</itunes:name>
+      <itunes:email>vitalityrecs@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:image href="https://vitalityrecs.github.io/cover.jpg" />
+    <itunes:category text="Music"/>
+    <!--Start of Episode-->
+      <item>
+        <title>Vitality Records Podcast - Episode 1</title>
+        <itunes:author>Vitality Records</itunes:author>
+        <itunes:subtitle>Vitality Records Podcast - Episode 1</itunes:subtitle>
+        <itunes:summary>Welcome to the Vitality Records Podcast!
+
+-Tracklist-
+
+1. AVA - Serene [Vitality Records]
+2. Deccies - Morph [Deccies]
+3. The Prototypes - Pop It Off (feat. Mad Hed City) [Viper Recordings]
+4. AVA - Everlasting [Vitality Records]
+5. Ownglow - All Black [Hospital Records]
+6. AVA - Existential [AVA]
+7. Botnek &amp; I See Monstas - Deeper Love [Monstercat]
+
+Thanks for tuning in to this week&#x27;s podcast! See you next week!</itunes:summary>
+        <itunes:image href="https://vitalityrecs.github.io/cover.jpg" />
+        <enclosure url="https://cf-media.sndcdn.com/UIURR2ZLMoMh.128.mp3?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiKjovL2NmLW1lZGlhLnNuZGNkbi5jb20vVUlVUlIyWkxNb01oLjEyOC5tcDMiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE0NTQ5ODA3NzZ9fX1dfQ__&amp;Signature=rwUNguBFfrbC0ADwFmKhF~4IR11QrpuwRkwa2SoMG98J3l2-eB02MYnoSzh0WWlIZF8kwEogRpylBrnKMyjvK7I9Pt1oKq2li8fMFlUDIkgG-ecNqAVcYI5I3gjtSinaXkicLHHVXricULJJNaYAEtBVFoTv~Kh4YywDxXR54e7H8n8RgeQqCVmuZGHrpc7YLIOOXdPaRl1uxSL2ilzh47y1P7GixQFBXgxXaL68Xqbxa3QGXKZNoJU1IPLOXPlN1jXbfKHBMJhjSr8PTM7ifpPzba7JVVM4xVUmIHqaAxHOkPOca8o4zTcQZTGSefDFH2FkUDI8VFsdNARahavs4w__&amp;Key-Pair-Id=APKAJAGZ7VMH2PFPW6UQ" length="30372327" type="audio/mpeg"/>
+        <guid></guid>
+        <pubDate>Mon Feb 08 2016 19:14:47 GMT-0500 (Eastern Standard Time)</pubDate>
+        <itunes:duration>00:31:38</itunes:duration>
+      </item>
+    <!--End of Episode-->
+  </channel>
+  </rss>
