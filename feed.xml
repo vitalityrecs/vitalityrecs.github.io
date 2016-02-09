@@ -16,12 +16,13 @@
     </itunes:owner>
     <itunes:image href="https://vitalityrecs.github.io/cover.jpg" />
     <itunes:category text="Music"/>
-    <!--Start of Episode-->
+
       <item>
         <title>Vitality Records Podcast - Episode 1</title>
+        <itunes:explicit>clean</itunes:explicit>
         <itunes:author>Vitality Records</itunes:author>
         <itunes:subtitle>Vitality Records Podcast - Episode 1</itunes:subtitle>
-        <itunes:summary>Welcome to the Vitality Records Podcast!
+        <itunes:summary><![CDATA[Welcome to the Vitality Records Podcast!
 
 -Tracklist-
 
@@ -33,13 +34,14 @@
 6. AVA - Existential [AVA]
 7. Botnek &amp; I See Monstas - Deeper Love [Monstercat]
 
-Thanks for tuning in to this week&#x27;s podcast! See you next week!</itunes:summary>
+Thanks for tuning in to this week&#x27;s podcast! See you next week!]]></itunes:summary>
         <itunes:image href="https://vitalityrecs.github.io/cover.jpg" />
-        <enclosure url="https://3df3c135b7a135b0c70d5018de3a99cf0805d513.googledrive.com/secure/ABCTMEgUxktxY1OBt5yT_6jlQM7eUjMEQXUZiusANF5vmh7ZF1EBo-Bolun80zi2vI9OTl2jkfRSprCLrSTTsJ-rtwHV62tmQ25RvxGxmnnpW1wHR_Y2nc0Ej5MKf7rOM8i0XWM714Tqm9sta0vwhCZAQ61mYmHxqCFM8nocpr0otZbivkKLBs1cbCXrg6KRAyAObv7lQxGRb2shgIFlnko0PjS8FX7Dr8gKLhjRnfRwGLXqOqnWwXAWM26eRhZC9TnZMVmzdE5LHmNK6BP7D1eHaWCSPj69sH1W87m5jscyBXsN2denmrafAmx6pIAUFHG4lDpP8K7P_idvW58x-cApLz4btJ-4_hEWYuzRiNabDPLjo-VZ37YAfkC8Z7ZI15jefSsI6zd7VQMzsuMVR1WJfc6DpplrtQ5sRCBF0gZ3aRtmb-hIrBWF6SgpcLFCc4Eaaj_4CXQsZsduhNIn73Xy2YedceSwWmg2FIoj5VjoQ9PsWG-Mpi_HJKsKsrcIW8VtYhebnHTHzM4dT6DJbESO6mhlXA0p1dVZYRAKc5Tmpzkvf0b5u7aA_xwRuY-O7MKmF8p96GAw/host/0B7nqaZGhY5sycmxaeXV2R3hnN3c" length="30372327" type="audio/mpeg"/>
-        <guid></guid>
+        <enclosure url="https://vitalityrecs.github.io/vrpodcast1.mp3" length="30372327" type="audio/mpeg"/>
+        <guid>776d7716-3678-425a-bdbb-d9b60eb2fbfa</guid>
         <pubDate>Mon Feb 08 2016 19:14:47 GMT-0500 (Eastern Standard Time)</pubDate>
         <itunes:duration>00:31:38</itunes:duration>
+        <category>Music</category>
       </item>
-    <!--End of Episode-->
+
   </channel>
   </rss>
