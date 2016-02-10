@@ -71,6 +71,7 @@
     <lastmod>2016-02-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-device-width: 370px)" href="http://vitalityrecs.com/phone/index.html"/>
   </url>
   <url>
     <loc>http://vitalityrecs.com/artists.html</loc>
@@ -89,6 +90,7 @@
     <lastmod>2016-02-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-device-width: 370px)" href="http://vitalityrecs.com/phone/contact.html"/>
   </url>
   <url>
     <loc>http://vitalityrecs.com/demos.html</loc>
@@ -107,11 +109,13 @@
     <lastmod>2016-02-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-device-width: 370px)" href="http://vitalityrecs.com/phone/licence.html"/>
   </url>
   <url>
     <loc>http://vitalityrecs.com/404.html</loc>
     <lastmod>2016-02-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-device-width: 370px)" href="http://vitalityrecs.com/phone/404.html"/>
   </url>
 </urlset>

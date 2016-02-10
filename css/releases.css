@@ -4,8 +4,8 @@
 
 .version.releases /* version checker */
 {
-	color: #0000E4;
-	background-color: #4DFC32;
+	color: #0000ED;
+	background-color: #B8C245;
 }
 
 .html
@@ -82,9 +82,9 @@
 	border-style: solid;
 	border-color: #000000;
 	background-color: transparent;
+	line-height: 22px;
 	font-size: 18px;
 	text-align: center;
-	line-height: 22px;
 	font-family: '__Montserrat_5';
 	font-weight: 600;
 	position: relative;
@@ -348,9 +348,9 @@
 	border-style: solid;
 	border-color: #000000;
 	background-color: transparent;
+	line-height: 22px;
 	font-size: 18px;
 	text-align: center;
-	line-height: 22px;
 	font-family: '__Montserrat_5';
 	font-weight: 600;
 	position: relative;
@@ -390,10 +390,10 @@
 	width: 227px;
 	min-height: 26px;
 	background-color: transparent;
+	line-height: 29px;
 	color: #ED1C24;
 	font-size: 24px;
 	text-align: center;
-	line-height: 29px;
 	font-family: '__Montserrat_5';
 	font-weight: 600;
 	-webkit-transform: matrix(0.9744,-0.225,0.225,0.9744,0,26);
