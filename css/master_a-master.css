@@ -1,6 +1,6 @@
 #u612
 {
-	background-color: #0E0E0E;
+	background-color: #030303;
 	position: fixed;
 }
 
@@ -51,8 +51,8 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	text-align: center;
 	color: #000000;
+	text-align: center;
 	font-family: '__Montserrat_5';
 	font-weight: 600;
 	position: relative;
@@ -82,8 +82,8 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	text-align: center;
 	color: #000000;
+	text-align: center;
 	font-family: '__Montserrat_5';
 	font-weight: 600;
 	position: relative;
@@ -113,8 +113,8 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	text-align: center;
 	color: #000000;
+	text-align: center;
 	font-family: '__Montserrat_5';
 	font-weight: 600;
 	position: relative;
@@ -144,8 +144,8 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	text-align: center;
 	color: #000000;
+	text-align: center;
 	font-family: '__Montserrat_5';
 	font-weight: 600;
 	position: relative;
@@ -183,8 +183,8 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	text-align: center;
 	color: #000000;
+	text-align: center;
 	font-family: '__Montserrat_5';
 	font-weight: 600;
 	position: relative;
@@ -213,6 +213,11 @@
 	opacity: 0.55;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=55.00000000000001)";
 	filter: alpha(opacity=55.00000000000001);
+	position: relative;
+}
+
+#u1004
+{
 	position: relative;
 }
 

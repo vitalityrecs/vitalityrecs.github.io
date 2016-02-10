@@ -4,13 +4,13 @@
 
 .version.contact /* version checker */
 {
-	color: #0000F4;
-	background-color: #7FF1A2;
+	color: #0000E9;
+	background-color: #0A9EC7;
 }
 
 .html
 {
-	background: #FFFFFF url("../images/webbg.jpg") repeat center top fixed;
+	background: #030303 url("../images/webbg.jpg") repeat left center fixed;
 }
 
 #page
@@ -28,19 +28,17 @@
 
 #u612
 {
-	z-index: 63;
+	z-index: 64;
+	width: 950px;
 	height: 13px;
 	top: 0px;
-}
-
-#u612-bw
-{
-	z-index: 63;
+	left: 50%;
+	margin-left: -475px;
 }
 
 #u543
 {
-	z-index: 27;
+	z-index: 28;
 	width: 950px;
 	height: 75px;
 	top: 13px;
@@ -50,7 +48,7 @@
 
 #u551
 {
-	z-index: 29;
+	z-index: 30;
 	width: 207px;
 	top: 41px;
 	left: 50%;
@@ -59,7 +57,7 @@
 
 #u557
 {
-	z-index: 31;
+	z-index: 32;
 	width: 910px;
 	height: 5px;
 	top: 79px;
@@ -69,12 +67,12 @@
 
 #u471-23
 {
-	z-index: 4;
+	z-index: 5;
 	width: 840px;
 	min-height: 274px;
 	background-color: transparent;
-	font-size: 24px;
 	line-height: 29px;
+	font-size: 24px;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 62px;
@@ -122,7 +120,7 @@
 
 #menuu571
 {
-	z-index: 32;
+	z-index: 33;
 	width: 577px;
 	top: 33px;
 	left: 50%;
@@ -351,23 +349,45 @@
 	margin: 0px -10000px 0px 0px;
 }
 
-#pu952
+#ppu952
 {
 	width: 0.01px;
 	margin-right: -10000px;
 	margin-top: 443px;
 }
 
+#pu952
+{
+	width: 0.01px;
+	margin-left: 300px;
+}
+
 #u952
 {
 	z-index: 2;
 	width: 349px;
-	margin-left: 300px;
+	margin-right: -10000px;
+}
+
+#u1004
+{
+	z-index: 4;
+	width: 349px;
+	height: 35px;
+	margin-right: -10000px;
+}
+
+.ie #u1004
+{
+	background-color: #FFFFFF;
+	opacity: 0.01;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=1)";
+	filter: alpha(opacity=1);
 }
 
 #u550
 {
-	z-index: 28;
+	z-index: 29;
 	width: 950px;
 	padding-bottom: 11px;
 	margin-top: 13px;
@@ -375,7 +395,7 @@
 
 #u616-4
 {
-	z-index: 64;
+	z-index: 65;
 	width: 257px;
 	min-height: 13px;
 	margin-right: -10000px;
@@ -385,7 +405,7 @@
 
 #u617-11
 {
-	z-index: 68;
+	z-index: 69;
 	width: 287px;
 	min-height: 17px;
 	margin-right: -10000px;

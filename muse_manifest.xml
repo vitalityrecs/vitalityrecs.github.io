@@ -1,15 +1,15 @@
-<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="vitalityrecs.com" resolutions="1x" timestamp="1455114794153">
+<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="vitalityrecs.com" resolutions="1x" timestamp="1455121855429">
   <folder name="css">
-    <file name="site_global.css" crc="348491611"/>
-    <file name="master_a-master.css" crc="336572810" ref="press:releases:demos:404:index:artists:contact:licence"/>
-    <file name="press.css" crc="4203182054" ref="press"/>
-    <file name="releases.css" crc="339336106" ref="releases"/>
-    <file name="demos.css" crc="74706985" ref="demos"/>
-    <file name="404.css" crc="3868692256" ref="404"/>
-    <file name="index.css" crc="218059901" ref="index"/>
-    <file name="artists.css" crc="285320972" ref="artists"/>
-    <file name="contact.css" crc="4102025634" ref="contact"/>
-    <file name="licence.css" crc="3975031377" ref="licence"/>
+    <file name="site_global.css" crc="3779142938"/>
+    <file name="master_a-master.css" crc="463718388" ref="press:releases:demos:404:index:artists:contact:licence"/>
+    <file name="press.css" crc="457646362" ref="press"/>
+    <file name="releases.css" crc="3988308549" ref="releases"/>
+    <file name="demos.css" crc="107605464" ref="demos"/>
+    <file name="404.css" crc="318242264" ref="404"/>
+    <file name="index.css" crc="3967358198" ref="index"/>
+    <file name="artists.css" crc="479847130" ref="artists"/>
+    <file name="contact.css" crc="3909787335" ref="contact"/>
+    <file name="licence.css" crc="3768507750" ref="licence"/>
   </folder>
   <folder name="fonts">
     <file name="montserrat-semibold.woff" crc="4209658121"/>
@@ -39,7 +39,7 @@
   </folder>
   <folder name="images">
     <file name="favicon.ico" crc="3841252599" ref="index"/>
-    <file name="webbg.jpg" crc="177388241" ref="index:artists:releases:contact:demos:press:licence:404"/>
+    <file name="webbg.jpg" crc="3949571415" ref="index:artists:releases:contact:demos:press:licence:404"/>
     <file name="black_text.png" crc="4078265564" seo="true" ref="index:artists:releases:contact:demos:press:licence:404"/>
     <file name="1.jpg" crc="375588613" seo="true" ref="index"/>
     <file name="2.jpg" crc="3980095473" seo="true" ref="index"/>
@@ -50,12 +50,12 @@
     <file name="full_blackbg_logo.jpg" crc="462347768" seo="true" ref="press"/>
     <file name="twitchex.jpg" crc="521959610" seo="true" ref="licence"/>
   </folder>
-  <file name="index.html" crc="4107139761" seo="true" mt="1455114784935" redirect="true"/>
-  <file name="artists.html" crc="346964555" seo="true" mt="1455114784935" redirect="true"/>
-  <file name="releases.html" crc="3980131888" seo="true" mt="1455114784935" redirect="true"/>
-  <file name="contact.html" crc="425501669" seo="true" mt="1455114784935" redirect="true"/>
-  <file name="demos.html" crc="3888755965" seo="true" mt="1455114784935" redirect="true"/>
-  <file name="press.html" crc="296842966" seo="true" mt="1455114784935" redirect="true"/>
-  <file name="licence.html" crc="3907403966" seo="true" mt="1455114784935" redirect="true"/>
-  <file name="404.html" crc="3819147395" seo="true" mt="1455114784935" redirect="true"/>
+  <file name="index.html" crc="350590317" seo="true" mt="1455121845243" redirect="true"/>
+  <file name="artists.html" crc="244711826" seo="true" mt="1455121845243" redirect="true"/>
+  <file name="releases.html" crc="12016601" seo="true" mt="1455121845243" redirect="true"/>
+  <file name="contact.html" crc="3876224003" seo="true" mt="1455121845243" redirect="true"/>
+  <file name="demos.html" crc="4070402143" seo="true" mt="1455121845243" redirect="true"/>
+  <file name="press.html" crc="4065791272" seo="true" mt="1455121845243" redirect="true"/>
+  <file name="licence.html" crc="307095103" seo="true" mt="1455121845243" redirect="true"/>
+  <file name="404.html" crc="4098736802" seo="true" mt="1455121845243" redirect="true"/>
 </manifest>
