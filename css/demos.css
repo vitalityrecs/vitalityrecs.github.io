@@ -4,8 +4,8 @@
 
 .version.demos /* version checker */
 {
-	color: #000006;
-	background-color: #69EDD8;
+	color: #00001E;
+	background-color: #DB589D;
 }
 
 .html
@@ -315,9 +315,9 @@
 	width: 757px;
 	min-height: 98px;
 	background-color: transparent;
-	line-height: 22px;
 	color: #000000;
 	font-size: 18px;
+	line-height: 22px;
 	font-family: '__Montserrat_5';
 	font-weight: 400;
 	margin-left: 96px;

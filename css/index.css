@@ -4,8 +4,8 @@
 
 .version.index /* version checker */
 {
-	color: #0000EC;
-	background-color: #7914F6;
+	color: #00000E;
+	background-color: #00B868;
 }
 
 .html
@@ -120,9 +120,9 @@
 	min-height: 25px;
 	background-color: #7F7F7F;
 	background-color: rgba(0,0,0,0.5);
-	line-height: 43px;
 	color: #1ECAB4;
 	font-size: 36px;
+	line-height: 43px;
 	font-family: '__Montserrat_5';
 	font-weight: 600;
 	position: relative;
@@ -139,9 +139,9 @@
 	min-height: 25px;
 	background-color: #7F7F7F;
 	background-color: rgba(0,0,0,0.5);
-	line-height: 22px;
 	color: #FFFFFF;
 	font-size: 18px;
+	line-height: 22px;
 	font-family: '__Montserrat_5';
 	font-weight: 400;
 	position: relative;
@@ -186,9 +186,9 @@
 	min-height: 25px;
 	background-color: #7F7F7F;
 	background-color: rgba(0,0,0,0.5);
-	line-height: 29px;
 	color: #1ECAB4;
 	font-size: 24px;
+	line-height: 29px;
 	font-family: '__Montserrat_5';
 	font-weight: 600;
 	position: relative;
@@ -205,9 +205,9 @@
 	min-height: 25px;
 	background-color: #7F7F7F;
 	background-color: rgba(0,0,0,0.5);
-	line-height: 22px;
 	color: #FFFFFF;
 	font-size: 18px;
+	line-height: 22px;
 	font-family: '__Montserrat_5';
 	font-weight: 400;
 	position: relative;
@@ -328,9 +328,9 @@
 	width: 20px;
 	min-height: 20px;
 	background-color: transparent;
-	line-height: 20px;
 	color: #FFFFFF;
 	text-align: center;
+	line-height: 20px;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 }
 
@@ -385,9 +385,9 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	line-height: 20px;
 	color: #FFFFFF;
 	text-align: center;
+	line-height: 20px;
 	font-family: '__Montserrat_5';
 	font-weight: 400;
 }
@@ -447,9 +447,9 @@
 	border-style: solid;
 	border-color: #000000;
 	background-color: transparent;
-	line-height: 29px;
 	color: #000000;
 	font-size: 24px;
+	line-height: 29px;
 	font-family: '__Montserrat_5';
 	font-weight: 600;
 	position: relative;
@@ -462,6 +462,8 @@
 	width: 640px;
 	min-height: 171px;
 	background-color: transparent;
+	font-family: '__Montserrat_5';
+	font-weight: 400;
 	margin-top: 16px;
 	position: relative;
 }
@@ -474,12 +476,12 @@
 	border-style: solid;
 	border-color: #000000;
 	background-color: transparent;
-	line-height: 29px;
 	color: #000000;
 	font-size: 24px;
+	line-height: 29px;
 	font-family: '__Montserrat_5';
 	font-weight: 600;
-	margin-top: 56px;
+	margin-top: 40px;
 	position: relative;
 	border-width: 0px 0px 3px;
 }
@@ -504,9 +506,9 @@
 	border-style: solid;
 	border-color: #000000;
 	background-color: transparent;
-	line-height: 29px;
 	color: #000000;
 	font-size: 24px;
+	line-height: 29px;
 	font-family: '__Montserrat_5';
 	font-weight: 600;
 	margin-top: 55px;
@@ -774,9 +776,9 @@
 	border-style: solid;
 	border-color: #000000;
 	background-color: transparent;
-	line-height: 29px;
 	color: #000000;
 	font-size: 24px;
+	line-height: 29px;
 	font-family: '__Montserrat_5';
 	font-weight: 600;
 	margin-left: 1px;
