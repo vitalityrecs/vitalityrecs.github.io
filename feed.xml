@@ -4,6 +4,7 @@
     <title>Vitality Records Podcast</title>
     <link>http://soundcloud.com/vitalityrecs</link>
     <language>en</language>
+    <explicit>no</explicit>
     <description>Welcome to the Vitality Records podcast! A weekly podcast featuring ~30 minutes of the best drum &amp; bass releases from us and others!</description>
     <copyright>All rights belong to their respective owners.</copyright>
     <itunes:subtitle>Welcome to the Vitality Records podcast! A weekly podcast featuring ~30 minutes of the best drum &amp; bass releases from us and others!</itunes:subtitle>
@@ -17,7 +18,7 @@
     <itunes:category text="Music"/>
 
       <item>
-        <title>Vitality Records Podcast - Episode 1</title>
+        <title>Episode #01</title>
         <itunes:explicit>clean</itunes:explicit>
         <itunes:author>Vitality Records</itunes:author>
         <itunes:subtitle>Vitality Records Podcast - Episode 1</itunes:subtitle>
