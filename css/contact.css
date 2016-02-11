@@ -4,8 +4,8 @@
 
 .version.contact /* version checker */
 {
-	color: #00001F;
-	background-color: #6F125A;
+	color: #00000E;
+	background-color: #2D604F;
 }
 
 .html
@@ -71,8 +71,8 @@
 	width: 840px;
 	min-height: 274px;
 	background-color: transparent;
-	font-size: 24px;
 	line-height: 29px;
+	font-size: 24px;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 62px;
@@ -389,7 +389,7 @@
 {
 	z-index: 29;
 	width: 950px;
-	padding-bottom: 11px;
+	padding-bottom: 8px;
 	margin-top: 13px;
 }
 
@@ -403,23 +403,24 @@
 	left: 20px;
 }
 
-#u617-11
+#u1317-5
+{
+	z-index: 83;
+	width: 202px;
+	min-height: 7px;
+	margin-right: -10000px;
+	margin-top: 19px;
+	left: 374px;
+}
+
+#u617-14
 {
 	z-index: 69;
 	width: 287px;
-	min-height: 17px;
+	min-height: 2px;
 	margin-right: -10000px;
 	margin-top: 12px;
-	left: 642px;
-}
-
-@font-face
-{
-	font-family: '__Montserrat_5';
-	src: url('../fonts/montserrat-extrabold.eot');
-	src: local('☺'), url('../fonts/montserrat-extrabold.woff') format('woff');
-	font-weight: 800;
-	font-style: normal;
+	left: 643px;
 }
 
 @font-face
@@ -437,6 +438,15 @@
 	src: url('../fonts/montserrat-semibold.eot');
 	src: local('☺'), url('../fonts/montserrat-semibold.woff') format('woff');
 	font-weight: 600;
+	font-style: normal;
+}
+
+@font-face
+{
+	font-family: '__Montserrat_5';
+	src: url('../fonts/montserrat-extrabold.eot');
+	src: local('☺'), url('../fonts/montserrat-extrabold.woff') format('woff');
+	font-weight: 800;
 	font-style: normal;
 }
 

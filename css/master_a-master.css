@@ -236,9 +236,29 @@
 	position: relative;
 }
 
-#u617-11
+#u1317-5
 {
 	background-color: transparent;
+	text-align: center;
+	position: relative;
+}
+
+#u1317-3
+{
+	line-height: 0px;/* 0 for mixed font sized paras; applied on spans instead */
+}
+
+#u1317
+{
+	font-size: 11px;
+	line-height: 13px;
+}
+
+#u617-14
+{
+	background-color: transparent;
+	line-height: 14px;
+	font-size: 12px;
 	font-family: '__Montserrat_5';
 	font-weight: 400;
 	position: relative;

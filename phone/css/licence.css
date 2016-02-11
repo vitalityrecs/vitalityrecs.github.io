@@ -4,8 +4,8 @@
 
 .version.licence /* version checker */
 {
-	color: #00001A;
-	background-color: #DCEF5F;
+	color: #00000D;
+	background-color: #574A4B;
 }
 
 @-ms-viewport
@@ -77,9 +77,9 @@
 	width: 370px;
 	min-height: 95px;
 	background-color: transparent;
+	line-height: 22px;
 	color: #000000;
 	font-size: 18px;
-	line-height: 22px;
 	font-family: '__Montserrat_5';
 	font-weight: 400;
 	position: relative;
@@ -263,8 +263,8 @@
 	width: 370px;
 	min-height: 605px;
 	background-color: transparent;
-	font-size: 18px;
 	line-height: 22px;
+	font-size: 18px;
 	font-family: '__Montserrat_5';
 	font-weight: 400;
 	position: relative;
