@@ -1,16 +1,16 @@
-<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="vitalityrecs.com" resolutions="1x" timestamp="1455215518801">
+<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="vitalityrecs.com" resolutions="1x" timestamp="1455217031287">
   <folder name="phone">
     <folder name="css">
-      <file name="master_a-master.css" crc="4165964599" ref="phone>contact:phone>404:phone>index:phone>licence"/>
-      <file name="contact.css" crc="195993214" ref="phone>contact"/>
-      <file name="404.css" crc="4201837721" ref="phone>404"/>
-      <file name="index.css" crc="253060026" ref="phone>index"/>
-      <file name="licence.css" crc="223824459" ref="phone>licence"/>
+      <file name="master_a-master.css" crc="4235089535" ref="phone>contact:phone>404:phone>index:phone>licence"/>
+      <file name="contact.css" crc="324716613" ref="phone>contact"/>
+      <file name="404.css" crc="4161740826" ref="phone>404"/>
+      <file name="index.css" crc="4278493349" ref="phone>index"/>
+      <file name="licence.css" crc="69161751" ref="phone>licence"/>
     </folder>
-    <file name="index.html" crc="3823653680" seo="true" mt="1455215397801" redirect="true"/>
-    <file name="contact.html" crc="77942786" seo="true" mt="1455215397801" redirect="true"/>
-    <file name="licence.html" crc="116694472" seo="true" mt="1455215397801" redirect="true"/>
-    <file name="404.html" crc="170356683" seo="true" mt="1455215397801" redirect="true"/>
+    <file name="index.html" crc="16248380" seo="true" mt="1455217019301" redirect="true"/>
+    <file name="contact.html" crc="282174557" seo="true" mt="1455217019301" redirect="true"/>
+    <file name="licence.html" crc="233956277" seo="true" mt="1455217019301" redirect="true"/>
+    <file name="404.html" crc="214780166" seo="true" mt="1455217019301" redirect="true"/>
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="348491611"/>

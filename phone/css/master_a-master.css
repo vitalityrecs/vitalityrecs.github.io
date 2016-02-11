@@ -18,10 +18,10 @@
 #u1172-3
 {
 	border-color: #FFFFFF;
-	line-height: 45px;
 	color: #999999;
 	font-size: 20px;
 	text-align: right;
+	line-height: 45px;
 	font-family: sansita-one, sans-serif;
 	font-weight: 400;
 	background: transparent url("../../images/mobilemenu.png") no-repeat right center;
@@ -45,10 +45,10 @@
 {
 	color: #4F4F4F;
 	visibility: inherit;
+	padding-right: 83px;
 	padding-left: 0px;
 	font-size: 20px;
 	text-align: right;
-	padding-right: 83px;
 	font-family: sansita-one, sans-serif;
 	font-weight: 400;
 	font-style: normal;
@@ -88,8 +88,8 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	color: #FFFFFF;
 	text-align: center;
+	color: #FFFFFF;
 	font-family: '__Montserrat_5';
 	font-weight: 400;
 	position: relative;
@@ -111,8 +111,8 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	color: #FFFFFF;
 	text-align: center;
+	color: #FFFFFF;
 	font-family: '__Montserrat_5';
 	font-weight: 400;
 	position: relative;
@@ -139,8 +139,8 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	color: #FFFFFF;
 	text-align: center;
+	color: #FFFFFF;
 	font-family: '__Montserrat_5';
 	font-weight: 400;
 	position: relative;
@@ -156,10 +156,21 @@
 	background-color: #000000;
 }
 
-#u1146-4
+#u1146-4,#u1340-5
 {
 	background-color: transparent;
 	text-align: center;
 	color: #FFFFFF;
+}
+
+#u1340-3
+{
+	line-height: 0px;/* 0 for mixed font sized paras; applied on spans instead */
+}
+
+#u1340
+{
+	font-size: 11px;
+	line-height: 13px;
 }
 

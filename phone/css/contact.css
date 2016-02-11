@@ -4,8 +4,8 @@
 
 .version.contact /* version checker */
 {
-	color: #00000B;
-	background-color: #AE9E7E;
+	color: #000013;
+	background-color: #5AC845;
 }
 
 @-ms-viewport
@@ -64,7 +64,7 @@
 
 #u1158
 {
-	z-index: 31;
+	z-index: 36;
 	width: 207px;
 	margin-right: -10000px;
 	margin-top: 21px;
@@ -79,12 +79,12 @@
 
 #u1278-23
 {
-	z-index: 8;
+	z-index: 13;
 	width: 339px;
 	min-height: 274px;
 	background-color: transparent;
-	line-height: 29px;
 	font-size: 24px;
+	line-height: 29px;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 89px;
@@ -133,18 +133,18 @@
 #accordionu1161wrapper
 {
 	min-height: 263px;
-	z-index: 33;
+	z-index: 38;
 	margin-right: -10000px;
 }
 
 #u1162
 {
-	z-index: 34;
+	z-index: 39;
 }
 
 #u1172-3
 {
-	z-index: 35;
+	z-index: 40;
 	min-height: 51px;
 	padding-left: 10px;
 	padding-top: 10px;
@@ -169,13 +169,13 @@
 
 #u1163
 {
-	z-index: 38;
+	z-index: 43;
 	padding-bottom: 7px;
 }
 
 #menuu1164
 {
-	z-index: 39;
+	z-index: 44;
 	min-height: 178px;
 }
 
@@ -278,14 +278,14 @@
 
 #menuu1164-bw
 {
-	z-index: 39;
+	z-index: 44;
 	min-height: 178px;
 	margin-top: 7px;
 }
 
 #accordionu1161,#accordionu1161-bw
 {
-	z-index: 33;
+	z-index: 38;
 }
 
 #pu1145
@@ -314,13 +314,17 @@
 	margin-top: 27px;
 }
 
-@font-face
+#u1340-5
 {
-	font-family: '__Montserrat_5';
-	src: url('../../fonts/montserrat-regular.eot');
-	src: local('☺'), url('../../fonts/montserrat-regular.woff') format('woff');
-	font-weight: 400;
-	font-style: normal;
+	z-index: 8;
+	min-height: 12px;
+}
+
+#u1340-5-bw
+{
+	z-index: 8;
+	min-height: 12px;
+	margin-top: 52px;
 }
 
 @font-face
@@ -329,6 +333,15 @@
 	src: url('../../fonts/montserrat-extrabold.eot');
 	src: local('☺'), url('../../fonts/montserrat-extrabold.woff') format('woff');
 	font-weight: 800;
+	font-style: normal;
+}
+
+@font-face
+{
+	font-family: '__Montserrat_5';
+	src: url('../../fonts/montserrat-regular.eot');
+	src: local('☺'), url('../../fonts/montserrat-regular.woff') format('woff');
+	font-weight: 400;
 	font-style: normal;
 }
 
