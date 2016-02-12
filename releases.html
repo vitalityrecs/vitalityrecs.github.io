@@ -3,7 +3,7 @@
  <head>
 
   <script type="text/javascript">
-   if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required":["jquery-1.8.3.min.js", "museutils.js", "jquery.watch.js", "jquery.musemenu.js", "releases.css"], "outOfDate":[]};
+   if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required":["jquery-1.8.3.min.js", "museutils.js", "jquery.musemenu.js", "webpro.js", "musewpslideshow.js", "jquery.museoverlay.js", "touchswipe.js", "jquery.watch.js", "releases.css"], "outOfDate":[]};
 </script>
   
   <meta http-equiv="Content-type" content="text/html;charset=UTF-8"/>
@@ -12,8 +12,8 @@
   <title>Releases</title>
   <!-- CSS -->
   <link rel="stylesheet" type="text/css" href="css/site_global.css?348491611"/>
-  <link rel="stylesheet" type="text/css" href="css/master_a-master.css?123526559"/>
-  <link rel="stylesheet" type="text/css" href="css/releases.css?202652873" id="pagesheet"/>
+  <link rel="stylesheet" type="text/css" href="css/master_a-master.css?100177599"/>
+  <link rel="stylesheet" type="text/css" href="css/releases.css?324846513" id="pagesheet"/>
   <!-- Other scripts -->
   <script type="text/javascript">
    document.documentElement.className += ' js';
@@ -29,46 +29,94 @@
  </head>
  <body>
 
-  <div class="clearfix" id="page"><!-- group -->
-   <div id="u612"><!-- simple frame --></div>
-   <div id="u543"><!-- simple frame --></div>
-   <a class="nonblock nontext clip_frame" id="u551" href="index.html"><!-- image --><img class="block" id="u551_img" src="images/black_text.png" alt="" width="207" height="30"/></a>
-   <div id="u557"><!-- simple frame --></div>
-   <div class="clearfix grpelem" id="pu900-4"><!-- column -->
-    <div class="clearfix colelem" id="u900-4"><!-- content -->
-     <p>AVA - SERENE</p>
+  <div class="clearfix" id="page"><!-- column -->
+   <div class="position_content" id="page_position_content">
+    <div class="clearfix colelem" id="pu612"><!-- group -->
+     <div id="u612"><!-- simple frame --></div>
+     <div id="u543"><!-- simple frame --></div>
     </div>
-    <a class="nonblock nontext clip_frame colelem" id="u894" href="https://soundcloud.com/vitalityrecs/vis001"><!-- image --><img class="block" id="u894_img" src="images/cover.jpg" alt="" width="249" height="249"/></a>
-   </div>
-   <nav class="MenuBar clearfix" id="menuu571"><!-- horizontal box -->
-    <div class="MenuItemContainer clearfix grpelem" id="u579"><!-- vertical box -->
-     <a class="nonblock nontext MenuItem MenuItemWithSubMenu clearfix colelem" id="u580" href="index.html"><!-- horizontal box --><div class="MenuItemLabel NoWrap clearfix grpelem" id="u581-4"><!-- content --><p>Home</p></div></a>
+    <nav class="MenuBar clearfix pinned-colelem" id="menuu571"><!-- horizontal box -->
+     <div class="MenuItemContainer clearfix grpelem" id="u579"><!-- vertical box -->
+      <a class="nonblock nontext MenuItem MenuItemWithSubMenu clearfix colelem" id="u580" href="index.html"><!-- horizontal box --><div class="MenuItemLabel NoWrap clearfix grpelem" id="u581-4"><!-- content --><p>Home</p></div></a>
+     </div>
+     <div class="MenuItemContainer clearfix grpelem" id="u572"><!-- vertical box -->
+      <a class="nonblock nontext MenuItem MenuItemWithSubMenu clearfix colelem" id="u575" href="artists.html"><!-- horizontal box --><div class="MenuItemLabel NoWrap clearfix grpelem" id="u577-4"><!-- content --><p>Artists</p></div></a>
+     </div>
+     <div class="MenuItemContainer clearfix grpelem" id="u587"><!-- vertical box -->
+      <a class="nonblock nontext MenuItem MenuItemWithSubMenu MuseMenuActive clearfix colelem" id="u588" href="releases.html"><!-- horizontal box --><div class="MenuItemLabel NoWrap clearfix grpelem" id="u590-4"><!-- content --><p>Releases</p></div></a>
+     </div>
+     <div class="MenuItemContainer clearfix grpelem" id="u594"><!-- vertical box -->
+      <a class="nonblock nontext MenuItem MenuItemWithSubMenu clearfix colelem" id="u595" href="contact.html"><!-- horizontal box --><div class="MenuItemLabel NoWrap clearfix grpelem" id="u596-4"><!-- content --><p>Contact</p></div></a>
+     </div>
+     <div class="MenuItemContainer clearfix grpelem" id="u601"><!-- vertical box -->
+      <a class="nonblock nontext MenuItem MenuItemWithSubMenu clearfix colelem" id="u602" href="licence.html"><!-- horizontal box --><div class="MenuItemLabel NoWrap clearfix grpelem" id="u604-4"><!-- content --><p>Music Usage</p></div></a>
+     </div>
+    </nav>
+    <a class="nonblock nontext clip_frame pinned-colelem" id="u551" href="index.html"><!-- image --><img class="block" id="u551_img" src="images/black_text.png" alt="" width="207" height="30"/></a>
+    <div class="pinned-colelem" id="u557"><!-- simple frame --></div>
+    <div class="clearfix colelem" id="u1518-4"><!-- content -->
+     <p>Most Recent Releases:</p>
     </div>
-    <div class="MenuItemContainer clearfix grpelem" id="u572"><!-- vertical box -->
-     <a class="nonblock nontext MenuItem MenuItemWithSubMenu clearfix colelem" id="u575" href="artists.html"><!-- horizontal box --><div class="MenuItemLabel NoWrap clearfix grpelem" id="u577-4"><!-- content --><p>Artists</p></div></a>
+    <div class="clearfix colelem" id="pu1512"><!-- group -->
+     <div class="grpelem" id="u1512"><!-- simple frame --></div>
+     <div class="SlideShowWidget clearfix grpelem" id="slideshowu1437"><!-- none box -->
+      <div class="popup_anchor" id="u1440popup">
+       <div class="SlideShowContentPanel clearfix" id="u1440"><!-- stack box -->
+        <a class="nonblock nontext SSSlide clip_frame grpelem" id="u1445" href="https://soundcloud.com/vitalityrecs/vis002"><!-- image --><img class="block ImageInclude" id="u1445_img" data-src="images/cover.jpg" src="images/blank.gif" alt="" data-width="360" data-height="360"/></a>
+        <a class="nonblock nontext SSSlide invi clip_frame grpelem" id="u1491" href="https://soundcloud.com/vitalityrecs/vis001"><!-- image --><img class="block ImageInclude" id="u1491_img" data-src="images/cover2.jpg" src="images/blank.gif" alt="" data-width="360" data-height="360"/></a>
+       </div>
+      </div>
+      <div class="popup_anchor" id="u1448popup">
+       <div class="SSSlideLinks clearfix" id="u1448"><!-- horizontal-rows box -->
+        <div class="SSSlideLink shadow clip_frame grpelem" id="u1449"><!-- image -->
+         <img class="block" id="u1449_img" src="images/cover60x60.jpg" alt="" width="60" height="60"/>
+        </div>
+        <div class="SSSlideLink shadow clip_frame grpelem" id="u1494"><!-- image -->
+         <img class="block" id="u1494_img" src="images/cover60x602.jpg" alt="" width="60" height="60"/>
+        </div>
+       </div>
+      </div>
+      <div class="popup_anchor" id="u1455popup">
+       <div class="SlideShowCaptionPanel clearfix" id="u1455"><!-- stack box -->
+        <div class="SSSlideCaption rgba-background clearfix grpelem" id="u1456-4"><!-- content -->
+         <p>AVA - Everlasting (VIS002)</p>
+        </div>
+        <div class="SSSlideCaption invi rgba-background clearfix grpelem" id="u1497-4"><!-- content -->
+         <p>AVA - Serene (VIS001)</p>
+        </div>
+       </div>
+      </div>
+      <div class="popup_anchor" id="u1461-12popup">
+       <div class="SSPreviousButton clearfix" id="u1461-12"><!-- content -->
+        <p>&nbsp;</p>
+        <p>&nbsp;</p>
+        <p>&nbsp;</p>
+        <p>&nbsp;</p>
+        <p>&nbsp;</p>
+        <p>&nbsp;</p>
+        <p>&nbsp;</p>
+        <p>&nbsp;</p>
+        <p><span id="u1461-9">&lt;</span></p>
+       </div>
+      </div>
+      <div class="popup_anchor" id="u1438-14popup">
+       <div class="SSNextButton clearfix" id="u1438-14"><!-- content -->
+        <p>&nbsp;</p>
+        <p>&nbsp;</p>
+        <p>&nbsp;</p>
+        <p>&nbsp;</p>
+        <p>&nbsp;</p>
+        <p>&nbsp;</p>
+        <p>&nbsp;</p>
+        <p>&nbsp;</p>
+        <p>&gt;</p>
+        <p>&nbsp;</p>
+        <p>&nbsp;</p>
+       </div>
+      </div>
+     </div>
     </div>
-    <div class="MenuItemContainer clearfix grpelem" id="u587"><!-- vertical box -->
-     <a class="nonblock nontext MenuItem MenuItemWithSubMenu MuseMenuActive clearfix colelem" id="u588" href="releases.html"><!-- horizontal box --><div class="MenuItemLabel NoWrap clearfix grpelem" id="u590-4"><!-- content --><p>Releases</p></div></a>
-    </div>
-    <div class="MenuItemContainer clearfix grpelem" id="u594"><!-- vertical box -->
-     <a class="nonblock nontext MenuItem MenuItemWithSubMenu clearfix colelem" id="u595" href="contact.html"><!-- horizontal box --><div class="MenuItemLabel NoWrap clearfix grpelem" id="u596-4"><!-- content --><p>Contact</p></div></a>
-    </div>
-    <div class="MenuItemContainer clearfix grpelem" id="u601"><!-- vertical box -->
-     <a class="nonblock nontext MenuItem MenuItemWithSubMenu clearfix colelem" id="u602" href="licence.html"><!-- horizontal box --><div class="MenuItemLabel NoWrap clearfix grpelem" id="u604-4"><!-- content --><p>Music Usage</p></div></a>
-    </div>
-   </nav>
-   <div class="clearfix grpelem" id="pu907-4"><!-- column -->
-    <div class="clearfix colelem" id="u907-4"><!-- content -->
-     <p>AVA - EVERLASTING</p>
-    </div>
-    <div class="clearfix colelem" id="pu901"><!-- group -->
-     <a class="nonblock nontext clip_frame grpelem" id="u901" href="https://soundcloud.com/vitalityrecs/vis002clip"><!-- image --><img class="block" id="u901_img" src="images/cover2.jpg" alt="" width="249" height="249"/></a>
-     <a class="nonblock nontext rgba-background grpelem" id="u912" href="https://soundcloud.com/vitalityrecs/vis002clip"><!-- simple frame --></a>
-     <a class="nonblock nontext clearfix grpelem" id="u911-4" href="https://soundcloud.com/vitalityrecs/vis002clip" data-mu-ie-matrix="progid:DXImageTransform.Microsoft.Matrix(M11=0.9744,M12=0.225,M21=-0.225,M22=0.9744,SizingMethod='auto expand')" data-mu-ie-matrix-dx="0" data-mu-ie-matrix-dy="-25"><!-- content --><p>COMING SOON...</p></a>
-    </div>
-   </div>
-   <div class="verticalspacer"></div>
-   <div class="clearfix grpelem" id="ppu952"><!-- column -->
+    <div class="verticalspacer"></div>
     <div class="clearfix colelem" id="pu952"><!-- group -->
      <div class="clip_frame grpelem" id="u952"><!-- image -->
       <img class="block" id="u952_img" src="images/sepimg.jpg" alt="" width="349" height="35"/>
@@ -97,6 +145,10 @@
 </script>
   <script src="scripts/museutils.js?275725342" type="text/javascript"></script>
   <script src="scripts/jquery.musemenu.js?4042164668" type="text/javascript"></script>
+  <script src="scripts/webpro.js?3883484123" type="text/javascript"></script>
+  <script src="scripts/musewpslideshow.js?360574455" type="text/javascript"></script>
+  <script src="scripts/jquery.museoverlay.js?342093292" type="text/javascript"></script>
+  <script src="scripts/touchswipe.js?4218319045" type="text/javascript"></script>
   <script src="scripts/jquery.watch.js?3999102769" type="text/javascript"></script>
   <!-- Other scripts -->
   <script type="text/javascript">
@@ -107,6 +159,7 @@ typeof $!="undefined"?Muse.assets.required.splice(d,1):d++;break;default:throw E
 Muse.Utils.transformMarkupToFixBrowserProblemsPreInit();/* body */
 Muse.Utils.prepHyperlinks(true);/* body */
 Muse.Utils.initWidget('.MenuBar', function(elem) { return $(elem).museMenu(); });/* unifiedNavBar */
+Muse.Utils.initWidget('#slideshowu1437', function(elem) { $(elem).data('widget', new WebPro.Widget.ContentSlideShow(elem, {autoPlay:true,displayInterval:3500,slideLinkStopsSlideShow:false,transitionStyle:'fading',lightboxEnabled_runtime:false,shuffle:false,transitionDuration:500,enableSwipe:true,elastic:'off',resumeAutoplay:true,resumeAutoplayInterval:3000,playOnce:false,autoActivate_runtime:false})); });/* #slideshowu1437 */
 Muse.Utils.fullPage('#page');/* 100% height page */
 Muse.Utils.showWidgetsWhenReady();/* body */
 Muse.Utils.transformMarkupToFixBrowserProblems();/* body */
