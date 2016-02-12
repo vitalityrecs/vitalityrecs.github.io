@@ -3,7 +3,7 @@
  <head>
 
   <script type="text/javascript">
-   if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required":["jquery-1.8.3.min.js", "museutils.js", "jquery.watch.js", "jquery.musemenu.js", "webpro.js", "museredirect.js", "musewpslideshow.js", "jquery.museoverlay.js", "touchswipe.js", "index.css"], "outOfDate":[]};
+   if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required":["museredirect.js", "jquery-1.8.3.min.js", "museutils.js", "webpro.js", "musewpslideshow.js", "jquery.museoverlay.js", "touchswipe.js", "jquery.musemenu.js", "jquery.watch.js", "index.css"], "outOfDate":[]};
 </script>
   
   <script src="scripts/museredirect.js?3899419633" type="text/javascript"></script>
@@ -18,9 +18,9 @@
   <title>Home</title>
   <link media="only screen and (max-device-width: 370px)" rel="alternate" href="http://vitalityrecs.com/phone/index.html"/>
   <!-- CSS -->
-  <link rel="stylesheet" type="text/css" href="css/site_global.css?348491611"/>
-  <link rel="stylesheet" type="text/css" href="css/master_a-master.css?123526559"/>
-  <link rel="stylesheet" type="text/css" href="css/index.css?360515658" id="pagesheet"/>
+  <link rel="stylesheet" type="text/css" href="css/site_global.css?3779142938"/>
+  <link rel="stylesheet" type="text/css" href="css/master_a-master.css?6115909"/>
+  <link rel="stylesheet" type="text/css" href="css/index.css?3768689030" id="pagesheet"/>
   <!-- Other scripts -->
   <script type="text/javascript">
    document.documentElement.className += ' js';
@@ -138,6 +138,9 @@
     <div class="MenuItemContainer clearfix grpelem" id="u601"><!-- vertical box -->
      <a class="nonblock nontext MenuItem MenuItemWithSubMenu clearfix colelem" id="u602" href="licence.html"><!-- horizontal box --><div class="MenuItemLabel NoWrap clearfix grpelem" id="u604-4"><!-- content --><p>Music Usage</p></div></a>
     </div>
+    <div class="MenuItemContainer clearfix grpelem" id="u1528"><!-- vertical box -->
+     <a class="nonblock nontext MenuItem MenuItemWithSubMenu clearfix colelem" id="u1529" href="shop.html"><!-- horizontal box --><div class="MenuItemLabel NoWrap clearfix grpelem" id="u1531-4"><!-- content --><p>Shop</p></div></a>
+    </div>
    </nav>
    <div class="clearfix grpelem" id="pu857-4"><!-- column -->
     <div class="clearfix colelem" id="u857-4"><!-- content -->
@@ -163,8 +166,8 @@
      <div class="clearfix grpelem" id="u616-4"><!-- content -->
       <p>Copyright © Vitality Records 2016</p>
      </div>
-     <div class="clearfix grpelem" id="u1317-5"><!-- content -->
-      <p id="u1317-3"><a class="nonblock" href="phone/index.html?devicelock=phone"><span id="u1317">Switch to Mobile site.</span></a></p>
+     <div class="clearfix grpelem" id="u1317-8"><!-- content -->
+      <p id="u1317-6"><a class="nonblock" href="phone/index.html?devicelock=phone"><span id="u1317">Switch to Mobile site.</span></a><span id="u1317-3">&nbsp;&nbsp; </span><a class="nonblock" href="cookie-policy.html"><span id="u1317-4">Cookie Policy.</span></a></p>
      </div>
      <div class="clearfix grpelem" id="u617-14"><!-- content -->
       <p><a class="nonblock" href="http://feeds.feedburner.com/vitalityrecs">Podcast. </a>&nbsp; <a class="nonblock" href="contact.html">Contact Us.</a>&nbsp;&nbsp; <a class="nonblock" href="demos.html">Submit a Demo.</a>&nbsp;&nbsp; <a class="nonblock" href="press.html">Press.</a></p>
@@ -186,5 +189,20 @@
   <script src="scripts/touchswipe.js?4218319045" type="text/javascript"></script>
   <script src="scripts/jquery.musemenu.js?4042164668" type="text/javascript"></script>
   <script src="scripts/jquery.watch.js?3999102769" type="text/javascript"></script>
+  <!-- Other scripts -->
+  <script type="text/javascript">
+   $(document).ready(function() { try {
+(function(){var a={},b=function(a){if(a.match(/^rgb/))return a=a.replace(/\s+/g,"").match(/([\d\,]+)/gi)[0].split(","),(parseInt(a[0])<<16)+(parseInt(a[1])<<8)+parseInt(a[2]);if(a.match(/^\#/))return parseInt(a.substr(1),16);return 0};(function(){$('link[type="text/css"]').each(function(){var b=($(this).attr("href")||"").match(/\/?css\/([\w\-]+\.css)\?(\d+)/);b&&b[1]&&b[2]&&(a[b[1]]=b[2])})})();(function(){$("body").append('<div class="version" style="display:none; width:1px; height:1px;"></div>');
+for(var c=$(".version"),d=0;d<Muse.assets.required.length;){var f=Muse.assets.required[d],g=f.match(/([\w\-\.]+)\.(\w+)$/),k=g&&g[1]?g[1]:null,g=g&&g[2]?g[2]:null;switch(g.toLowerCase()){case "css":k=k.replace(/\W/gi,"_").replace(/^([^a-z])/gi,"_$1");c.addClass(k);var g=b(c.css("color")),h=b(c.css("background-color"));g!=0||h!=0?(Muse.assets.required.splice(d,1),"undefined"!=typeof a[f]&&(g!=a[f]>>>24||h!=(a[f]&16777215))&&Muse.assets.outOfDate.push(f)):d++;c.removeClass(k);break;case "js":k.match(/^jquery-[\d\.]+/gi)&&
+typeof $!="undefined"?Muse.assets.required.splice(d,1):d++;break;default:throw Error("Unsupported file type: "+g);}}c.remove();if(Muse.assets.outOfDate.length||Muse.assets.required.length)c="Some files on the server may be missing or incorrect. Clear browser cache and try again. If the problem persists please contact website author.",(d=location&&location.search&&location.search.match&&location.search.match(/muse_debug/gi))&&Muse.assets.outOfDate.length&&(c+="\nOut of date: "+Muse.assets.outOfDate.join(",")),d&&Muse.assets.required.length&&(c+="\nMissing: "+Muse.assets.required.join(",")),alert(c)})()})();/* body */
+Muse.Utils.transformMarkupToFixBrowserProblemsPreInit();/* body */
+Muse.Utils.prepHyperlinks(true);/* body */
+Muse.Utils.initWidget('#pamphletu817', function(elem) { new WebPro.Widget.ContentSlideShow(elem, {contentLayout_runtime:'stack',event:'click',deactivationEvent:'none',autoPlay:false,displayInterval:3000,transitionStyle:'horizontal',transitionDuration:500,hideAllContentsFirst:false,shuffle:false,enableSwipe:true,resumeAutoplay:true,resumeAutoplayInterval:3000,playOnce:false,autoActivate_runtime:false}); });/* #pamphletu817 */
+Muse.Utils.initWidget('.MenuBar', function(elem) { return $(elem).museMenu(); });/* unifiedNavBar */
+Muse.Utils.fullPage('#page');/* 100% height page */
+Muse.Utils.showWidgetsWhenReady();/* body */
+Muse.Utils.transformMarkupToFixBrowserProblems();/* body */
+} catch(e) { if (e && 'function' == typeof e.notify) e.notify(); else Muse.Assert.fail('Error calling selector function:' + e); }});
+</script>
    </body>
 </html>

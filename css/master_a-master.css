@@ -13,6 +13,18 @@
 	border-width: 10px 0px 0px;
 }
 
+#u551
+{
+	background-color: transparent;
+	position: fixed;
+}
+
+#u557
+{
+	background-color: #000000;
+	position: fixed;
+}
+
 #menuu571
 {
 	border-style: none;
@@ -39,8 +51,8 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	text-align: center;
 	color: #000000;
+	text-align: center;
 	font-family: '__Montserrat_5';
 	font-weight: 600;
 	position: relative;
@@ -70,8 +82,8 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	text-align: center;
 	color: #000000;
+	text-align: center;
 	font-family: '__Montserrat_5';
 	font-weight: 600;
 	position: relative;
@@ -101,8 +113,8 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	text-align: center;
 	color: #000000;
+	text-align: center;
 	font-family: '__Montserrat_5';
 	font-weight: 600;
 	position: relative;
@@ -132,8 +144,8 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	text-align: center;
 	color: #000000;
+	text-align: center;
 	font-family: '__Montserrat_5';
 	font-weight: 600;
 	position: relative;
@@ -158,21 +170,13 @@
 	background-color: #000000;
 }
 
-#u580.MuseMenuActive,#u575.MuseMenuActive,#u588.MuseMenuActive,#u595.MuseMenuActive,#u602.MuseMenuActive
-{
-	border-style: solid;
-	border-color: #000000;
-	background-color: transparent;
-	border-width: 2px 2px 0px;
-}
-
 #u604-4
 {
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	text-align: center;
 	color: #000000;
+	text-align: center;
 	font-family: '__Montserrat_5';
 	font-weight: 600;
 	position: relative;
@@ -184,7 +188,46 @@
 	visibility: inherit;
 }
 
-#u580.MuseMenuActive #u581-4 p,#u575.MuseMenuActive #u577-4 p,#u588.MuseMenuActive #u590-4 p,#u595.MuseMenuActive #u596-4 p,#u602.MuseMenuActive #u604-4 p
+#u1528,#u1529
+{
+	background-color: transparent;
+	position: relative;
+}
+
+#u1529:hover
+{
+	border-style: none;
+	border-color: #000000;
+	background-color: #000000;
+}
+
+#u580.MuseMenuActive,#u575.MuseMenuActive,#u588.MuseMenuActive,#u595.MuseMenuActive,#u602.MuseMenuActive,#u1529.MuseMenuActive
+{
+	border-style: solid;
+	border-color: #000000;
+	background-color: transparent;
+	border-width: 2px 2px 0px;
+}
+
+#u1531-4
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	color: #000000;
+	text-align: center;
+	font-family: '__Montserrat_5';
+	font-weight: 600;
+	position: relative;
+}
+
+#u1529:hover #u1531-4 p
+{
+	color: #FFFFFF;
+	visibility: inherit;
+}
+
+#u580.MuseMenuActive #u581-4 p,#u575.MuseMenuActive #u577-4 p,#u588.MuseMenuActive #u590-4 p,#u595.MuseMenuActive #u596-4 p,#u602.MuseMenuActive #u604-4 p,#u1529.MuseMenuActive #u1531-4 p
 {
 	color: #000000;
 	visibility: inherit;
@@ -193,18 +236,6 @@
 .MenuItem /* unifiedNavBar */
 {
 	cursor: pointer;
-}
-
-#u551
-{
-	background-color: transparent;
-	position: fixed;
-}
-
-#u557
-{
-	background-color: #000000;
-	position: fixed;
 }
 
 #u952
@@ -236,19 +267,19 @@
 	position: relative;
 }
 
-#u1317-5
+#u1317-8
 {
 	background-color: transparent;
 	text-align: center;
 	position: relative;
 }
 
-#u1317-3
+#u1317-6
 {
 	line-height: 0px;/* 0 for mixed font sized paras; applied on spans instead */
 }
 
-#u1317
+#u1317,#u1317-3,#u1317-4
 {
 	font-size: 11px;
 	line-height: 13px;

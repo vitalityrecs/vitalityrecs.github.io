@@ -2,10 +2,10 @@
 
 */
 
-.version.press /* version checker */
+.version.cookie_policy /* version checker */
 {
-	color: #00000D;
-	background-color: #6C0A66;
+	color: #000008;
+	background-color: #3AFCB8;
 }
 
 .html
@@ -28,7 +28,7 @@
 
 #u612
 {
-	z-index: 59;
+	z-index: 122;
 	width: 950px;
 	height: 13px;
 	top: 0px;
@@ -38,7 +38,7 @@
 
 #u543
 {
-	z-index: 17;
+	z-index: 80;
 	width: 950px;
 	height: 75px;
 	top: 13px;
@@ -48,7 +48,7 @@
 
 #u551
 {
-	z-index: 19;
+	z-index: 82;
 	width: 207px;
 	top: 41px;
 	left: 50%;
@@ -57,7 +57,7 @@
 
 #u557
 {
-	z-index: 21;
+	z-index: 84;
 	width: 910px;
 	height: 5px;
 	top: 79px;
@@ -65,91 +65,70 @@
 	margin-left: -455px;
 }
 
-#pu541-4
+#pu1810-74
 {
 	width: 0.01px;
 	margin-right: -10000px;
-	margin-top: 83px;
+	margin-top: 73px;
 	margin-left: 20px;
 }
 
-#u541-4
+#u1810-74
 {
 	z-index: 5;
 	width: 910px;
-	min-height: 37px;
-	border-color: #000000;
+	min-height: 349px;
 	background-color: transparent;
-	color: #000000;
-	font-size: 30px;
-	text-align: center;
-	line-height: 36px;
 	font-family: '__Montserrat_5';
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u1810-2
+{
+	font-size: 24px;
+	text-align: center;
+	line-height: 29px;
+	font-weight: 400;
+}
+
+#u1810-7,#u1810-18,#u1810-24,#u1810-30,#u1810-36,#u1810-56,#u1810-67,#u1810-68
+{
+	text-align: center;
 	font-weight: 700;
-	font-style: normal;
+}
+
+#u1810-70
+{
+	text-align: left;
+	font-weight: 400;
+}
+
+#u1810-71
+{
+	font-weight: 700;
+}
+
+#u1810-3,#u1810-4,#u1810-5,#u1810-8,#u1810-10,#u1810-11,#u1810-15,#u1810-16,#u1810-19,#u1810-21,#u1810-22,#u1810-25,#u1810-27,#u1810-28,#u1810-31,#u1810-33,#u1810-34,#u1810-37,#u1810-39,#u1810-40,#u1810-42,#u1810-43,#u1810-45,#u1810-46,#u1810-48,#u1810-49,#u1810-51,#u1810-52,#u1810-53,#u1810-54,#u1810-57,#u1810-59,#u1810-60,#u1810-64,#u1810-65,#u1810-72
+{
+	font-weight: 400;
+}
+
+#u1811
+{
+	z-index: 79;
+	width: 398px;
+	height: 2px;
+	background-color: #000000;
 	position: relative;
 	margin-right: -10000px;
-}
-
-#u542-4
-{
-	z-index: 9;
-	width: 204px;
-	min-height: 20px;
-	border-width: 3px;
-	border-style: solid;
-	border-color: #000000;
-	background-color: transparent;
-	line-height: 22px;
-	color: #000000;
-	font-size: 18px;
-	text-align: center;
-	font-family: '__Montserrat_5';
-	font-weight: 600;
-	position: relative;
-	margin-right: -10000px;
-	margin-top: 70px;
-	left: 351px;
-}
-
-#u542-4:hover
-{
-	background-color: #FFFFFF;
-	padding-top: 0px;
-	padding-bottom: 0px;
-	min-height: 20px;
-	width: 204px;
-	margin: 70px -10000px 0px 0px;
-}
-
-#u542-4:hover p
-{
-	color: #000000;
-	visibility: inherit;
-}
-
-#u759
-{
-	z-index: 13;
-	width: 236px;
-	background-color: transparent;
-	position: relative;
-	margin-right: -10000px;
-}
-
-#u918
-{
-	z-index: 15;
-	width: 236px;
-	background-color: transparent;
-	position: relative;
-	margin-right: -10000px;
-	left: 674px;
+	margin-top: 31px;
+	left: 256px;
 }
 
 #menuu571
 {
-	z-index: 22;
+	z-index: 85;
 	width: 625px;
 	top: 33px;
 	left: 50%;
@@ -419,7 +398,7 @@
 {
 	width: 0.01px;
 	margin-right: -10000px;
-	margin-top: 443px;
+	margin-top: 1258px;
 }
 
 #pu952
@@ -453,7 +432,7 @@
 
 #u550
 {
-	z-index: 18;
+	z-index: 81;
 	width: 950px;
 	padding-bottom: 11px;
 	margin-top: 13px;
@@ -461,7 +440,7 @@
 
 #u616-4
 {
-	z-index: 60;
+	z-index: 123;
 	width: 257px;
 	min-height: 13px;
 	margin-right: -10000px;
@@ -471,7 +450,7 @@
 
 #u1317-8
 {
-	z-index: 78;
+	z-index: 141;
 	width: 202px;
 	min-height: 7px;
 	margin-right: -10000px;
@@ -481,7 +460,7 @@
 
 #u617-14
 {
-	z-index: 64;
+	z-index: 127;
 	width: 287px;
 	min-height: 2px;
 	margin-right: -10000px;
@@ -526,6 +505,6 @@ body
 #page .verticalspacer
 {
 	clear: both;
-	margin-bottom: -443px;
+	margin-bottom: -1258px;
 }
 
