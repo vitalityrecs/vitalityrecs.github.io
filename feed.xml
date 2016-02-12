@@ -16,6 +16,47 @@
     </itunes:owner>
     <itunes:image href="http://vitalityrecs.github.io/cover.jpg" />
     <itunes:category text="Music"/>
+	
+	<item>
+        <title>Episode #02</title>
+        <itunes:explicit>clean</itunes:explicit>
+        <itunes:author>Vitality Records</itunes:author>
+        <itunes:subtitle>Vitality Records Podcast - Episode 2</itunes:subtitle>
+        <description><![CDATA[Welcome to this week's episode of the Vitality Records podcast!
+
+-Tracklist-
+1. Code 23 - Girls [UKF]
+2. GLXY - Lonely [Soulvent Records]
+3. 1991 - Sprites [MTA Records]
+4. AVA - ??? [Vitality Records]
+5. B. Aperio - Reflections [Liquid Tones]
+6. S.P.Y. - Bass Terror [Hospital Records]
+7. GLXY - Midnight [Free Download]
+8. Logistics - Jungle Music [Hospital Records]
+9. Rameses B - Dream Catcher (feat. Charlotte Haining) [Monstercat]
+
+Thanks for tuning in to this week's podcast! See you again soon!]]></description>
+        <itunes:summary><![CDATA[Welcome to this week's episode of the Vitality Records podcast!
+
+-Tracklist-
+1. Code 23 - Girls [UKF]
+2. GLXY - Lonely [Soulvent Records]
+3. 1991 - Sprites [MTA Records]
+4. AVA - ??? [Vitality Records]
+5. B. Aperio - Reflections [Liquid Tones]
+6. S.P.Y. - Bass Terror [Hospital Records]
+7. GLXY - Midnight [Free Download]
+8. Logistics - Jungle Music [Hospital Records]
+9. Rameses B - Dream Catcher (feat. Charlotte Haining) [Monstercat]
+
+Thanks for tuning in to this week's podcast! See you again soon!]]></itunes:summary>
+        <itunes:image href="http://vitalityrecs.github.io/cover.jpg" />
+        <enclosure url="http://vitalityrecs.github.io/episodes/vrpodcast2.mp3" length="41089637" type="audio/mpeg"/>
+        <guid>http://vitalityrecs.github.io/episodes/vrpodcast2.mp3</guid>
+        <pubDate>Fri, 12 Feb 2016 17:00:00 EST</pubDate>
+        <itunes:duration>00:41:48</itunes:duration>
+        <category>Music</category>
+      </item>
 
       <item>
         <title>Episode #01</title>
