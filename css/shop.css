@@ -4,8 +4,8 @@
 
 .version.shop /* version checker */
 {
-	color: #0000F1;
-	background-color: #EA3496;
+	color: #0000FC;
+	background-color: #AA3DCE;
 }
 
 .html
@@ -510,7 +510,7 @@
 
 #u1317-8
 {
-	z-index: 79;
+	z-index: 81;
 	width: 202px;
 	min-height: 7px;
 	margin-right: -10000px;
@@ -518,7 +518,7 @@
 	left: 374px;
 }
 
-#u617-14
+#u617-16
 {
 	z-index: 65;
 	width: 287px;

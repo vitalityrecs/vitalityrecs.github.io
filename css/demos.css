@@ -4,8 +4,8 @@
 
 .version.demos /* version checker */
 {
-	color: #0000F6;
-	background-color: #8927C4;
+	color: #000016;
+	background-color: #CBCF62;
 }
 
 .html
@@ -352,9 +352,9 @@
 	width: 757px;
 	min-height: 98px;
 	background-color: transparent;
-	color: #000000;
-	font-size: 18px;
 	line-height: 22px;
+	font-size: 18px;
+	color: #000000;
 	font-family: '__Montserrat_5';
 	font-weight: 400;
 	margin-left: 96px;
@@ -453,7 +453,7 @@
 
 #u1317-8
 {
-	z-index: 76;
+	z-index: 78;
 	width: 202px;
 	min-height: 7px;
 	margin-right: -10000px;
@@ -461,7 +461,7 @@
 	left: 374px;
 }
 
-#u617-14
+#u617-16
 {
 	z-index: 62;
 	width: 287px;

@@ -4,8 +4,8 @@
 
 .version.artists /* version checker */
 {
-	color: #000016;
-	background-color: #32F738;
+	color: #000013;
+	background-color: #F5EDCE;
 }
 
 .html
@@ -353,9 +353,9 @@
 	border-style: solid;
 	border-color: #000000;
 	background-color: transparent;
-	color: #000000;
-	font-size: 24px;
 	line-height: 29px;
+	font-size: 24px;
+	color: #000000;
 	font-family: '__Montserrat_5';
 	font-weight: 600;
 	margin-left: 20px;
@@ -625,7 +625,7 @@
 
 #u1317-8
 {
-	z-index: 110;
+	z-index: 112;
 	width: 202px;
 	min-height: 7px;
 	margin-right: -10000px;
@@ -633,7 +633,7 @@
 	left: 374px;
 }
 
-#u617-14
+#u617-16
 {
 	z-index: 96;
 	width: 287px;

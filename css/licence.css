@@ -4,8 +4,8 @@
 
 .version.licence /* version checker */
 {
-	color: #0000E1;
-	background-color: #F50A26;
+	color: #00000E;
+	background-color: #119C42;
 }
 
 .html
@@ -351,9 +351,9 @@
 	width: 910px;
 	min-height: 95px;
 	background-color: transparent;
-	color: #000000;
-	font-size: 18px;
 	line-height: 22px;
+	font-size: 18px;
+	color: #000000;
 	font-family: '__Montserrat_5';
 	font-weight: 400;
 	margin-left: 20px;
@@ -377,8 +377,8 @@
 	width: 795px;
 	min-height: 605px;
 	background-color: transparent;
-	font-size: 18px;
 	line-height: 22px;
+	font-size: 18px;
 	font-family: '__Montserrat_5';
 	font-weight: 400;
 	position: relative;
@@ -508,7 +508,7 @@
 
 #u1317-8
 {
-	z-index: 109;
+	z-index: 111;
 	width: 202px;
 	min-height: 7px;
 	margin-right: -10000px;
@@ -516,7 +516,7 @@
 	left: 374px;
 }
 
-#u617-14
+#u617-16
 {
 	z-index: 95;
 	width: 287px;
@@ -538,18 +538,18 @@
 @font-face
 {
 	font-family: '__Montserrat_5';
-	src: url('../fonts/montserrat-regular.eot');
-	src: local('☺'), url('../fonts/montserrat-regular.woff') format('woff');
-	font-weight: 400;
+	src: url('../fonts/montserrat-bold.eot');
+	src: local('☺'), url('../fonts/montserrat-bold.woff') format('woff');
+	font-weight: 700;
 	font-style: normal;
 }
 
 @font-face
 {
 	font-family: '__Montserrat_5';
-	src: url('../fonts/montserrat-bold.eot');
-	src: local('☺'), url('../fonts/montserrat-bold.woff') format('woff');
-	font-weight: 700;
+	src: url('../fonts/montserrat-regular.eot');
+	src: local('☺'), url('../fonts/montserrat-regular.woff') format('woff');
+	font-weight: 400;
 	font-style: normal;
 }
 
