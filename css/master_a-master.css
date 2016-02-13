@@ -1,61 +1,39 @@
-#u612
-{
-	background-color: #030303;
-	position: fixed;
-}
-
 #u543
 {
 	border-style: solid;
 	border-color: #1ECAB4;
 	background-color: #FFFFFF;
-	position: fixed;
 	border-width: 10px 0px 0px;
-}
-
-#u551
-{
-	background-color: transparent;
-	position: fixed;
-}
-
-#u557
-{
-	background-color: #000000;
-	position: fixed;
 }
 
 #menuu571
 {
-	border-style: none;
+	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
-	position: fixed;
 }
 
-#u579,#u580
+#u551,#u579,#u580
 {
 	background-color: transparent;
-	position: relative;
 }
 
 #u580:hover
 {
-	border-style: none;
+	border-width: 0px;
 	border-color: #000000;
 	background-color: #000000;
 }
 
 #u581-4
 {
-	border-style: none;
+	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
 	text-align: center;
 	color: #000000;
 	font-family: '__Montserrat_5';
 	font-weight: 600;
-	position: relative;
 }
 
 #u580:hover #u581-4 p
@@ -67,26 +45,24 @@
 #u572,#u575
 {
 	background-color: transparent;
-	position: relative;
 }
 
 #u575:hover
 {
-	border-style: none;
+	border-width: 0px;
 	border-color: #000000;
 	background-color: #000000;
 }
 
 #u577-4
 {
-	border-style: none;
+	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
 	text-align: center;
 	color: #000000;
 	font-family: '__Montserrat_5';
 	font-weight: 600;
-	position: relative;
 }
 
 #u575:hover #u577-4 p
@@ -98,26 +74,24 @@
 #u587,#u588
 {
 	background-color: transparent;
-	position: relative;
 }
 
 #u588:hover
 {
-	border-style: none;
+	border-width: 0px;
 	border-color: #000000;
 	background-color: #000000;
 }
 
 #u590-4
 {
-	border-style: none;
+	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
 	text-align: center;
 	color: #000000;
 	font-family: '__Montserrat_5';
 	font-weight: 600;
-	position: relative;
 }
 
 #u588:hover #u590-4 p
@@ -129,26 +103,24 @@
 #u594,#u595
 {
 	background-color: transparent;
-	position: relative;
 }
 
 #u595:hover
 {
-	border-style: none;
+	border-width: 0px;
 	border-color: #000000;
 	background-color: #000000;
 }
 
 #u596-4
 {
-	border-style: none;
+	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
 	text-align: center;
 	color: #000000;
 	font-family: '__Montserrat_5';
 	font-weight: 600;
-	position: relative;
 }
 
 #u595:hover #u596-4 p
@@ -160,26 +132,24 @@
 #u601,#u602
 {
 	background-color: transparent;
-	position: relative;
 }
 
 #u602:hover
 {
-	border-style: none;
+	border-width: 0px;
 	border-color: #000000;
 	background-color: #000000;
 }
 
 #u604-4
 {
-	border-style: none;
+	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
 	text-align: center;
 	color: #000000;
 	font-family: '__Montserrat_5';
 	font-weight: 600;
-	position: relative;
 }
 
 #u602:hover #u604-4 p
@@ -191,12 +161,11 @@
 #u1528,#u1529
 {
 	background-color: transparent;
-	position: relative;
 }
 
 #u1529:hover
 {
-	border-style: none;
+	border-width: 0px;
 	border-color: #000000;
 	background-color: #000000;
 }
@@ -211,14 +180,13 @@
 
 #u1531-4
 {
-	border-style: none;
+	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
 	text-align: center;
 	color: #000000;
 	font-family: '__Montserrat_5';
 	font-weight: 600;
-	position: relative;
 }
 
 #u1529:hover #u1531-4 p
@@ -238,24 +206,22 @@
 	cursor: pointer;
 }
 
+#u612
+{
+	background-color: #030303;
+}
+
 #u952
 {
 	background-color: transparent;
 	opacity: 0.55;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=55.00000000000001)";
 	filter: alpha(opacity=55.00000000000001);
-	position: relative;
 }
 
-#u1004
-{
-	position: relative;
-}
-
-#u550
+#u557,#u550
 {
 	background-color: #000000;
-	position: relative;
 }
 
 #u616-4
@@ -264,14 +230,12 @@
 	color: #FFFFFF;
 	font-family: '__Montserrat_5';
 	font-weight: 400;
-	position: relative;
 }
 
 #u1317-8
 {
 	background-color: transparent;
 	text-align: center;
-	position: relative;
 }
 
 #u1317-6
@@ -292,6 +256,6 @@
 	font-size: 12px;
 	font-family: '__Montserrat_5';
 	font-weight: 400;
-	position: relative;
 }
+
 

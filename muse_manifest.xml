@@ -1,33 +1,20 @@
-<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="vitalityrecs.com" resolutions="1x" timestamp="1455296483533">
-  <folder name="phone">
-    <folder name="css">
-      <file name="master_a-master.css" crc="4235089535" ref="phone>contact:phone>404:phone>index:phone>licence"/>
-      <file name="contact.css" crc="324716613" ref="phone>contact"/>
-      <file name="404.css" crc="4161740826" ref="phone>404"/>
-      <file name="index.css" crc="4278493349" ref="phone>index"/>
-      <file name="licence.css" crc="69161751" ref="phone>licence"/>
-    </folder>
-    <file name="index.html" crc="16248380" seo="true" mt="1455217019301" redirect="true"/>
-    <file name="contact.html" crc="282174557" seo="true" mt="1455217019301" redirect="true"/>
-    <file name="licence.html" crc="233956277" seo="true" mt="1455217019301" redirect="true"/>
-    <file name="404.html" crc="214780166" seo="true" mt="1455217019301" redirect="true"/>
-  </folder>
+<manifest alg="2" build="2015.1.0.342" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="vitalityrecs.com" resolutions="1x" timestamp="1455369113844">
   <folder name="css">
-    <file name="site_global.css" crc="348491611"/>
-    <file name="master_a-master.css" crc="368149706" ref="press:releases:demos:404:index:artists:contact:licence:vitality-records-text-hoodie:shop:vitality-records-cdj-and-vinyl-tee:vitality-records-seal-of-vitality-tee:cookie-policy"/>
-    <file name="press.css" crc="3859397934" ref="press"/>
-    <file name="releases.css" crc="4273051470" ref="releases"/>
-    <file name="demos.css" crc="382455650" ref="demos"/>
-    <file name="404.css" crc="4259313156" ref="404"/>
-    <file name="index.css" crc="4161127387" ref="index"/>
-    <file name="artists.css" crc="334884302" ref="artists"/>
-    <file name="contact.css" crc="271270339" ref="contact"/>
-    <file name="licence.css" crc="236035138" ref="licence"/>
-    <file name="vitality-records-text-hoodie.css" crc="4132928755" ref="vitality-records-text-hoodie"/>
-    <file name="shop.css" crc="4239015374" ref="shop"/>
-    <file name="vitality-records-cdj-and-vinyl-tee.css" crc="506064959" ref="vitality-records-cdj-and-vinyl-tee"/>
-    <file name="vitality-records-seal-of-vitality-tee.css" crc="3972920207" ref="vitality-records-seal-of-vitality-tee"/>
-    <file name="cookie-policy.css" crc="4159713973" ref="cookie-policy"/>
+    <file name="site_global.css" crc="67204917"/>
+    <file name="master_a-master.css" crc="94606441" ref="vitality-records-cdj-and-vinyl-tee:shop:licence:demos:index:vitality-records-seal-of-vitality-tee:vitality-records-text-hoodie:cookie-policy:404:contact:releases:artists:press"/>
+    <file name="vitality-records-cdj-and-vinyl-tee.css" crc="229968287" ref="vitality-records-cdj-and-vinyl-tee"/>
+    <file name="shop.css" crc="3984883630" ref="shop"/>
+    <file name="licence.css" crc="261579997" ref="licence"/>
+    <file name="demos.css" crc="377929825" ref="demos"/>
+    <file name="index.css" crc="3940081610" ref="index"/>
+    <file name="vitality-records-seal-of-vitality-tee.css" crc="58629476" ref="vitality-records-seal-of-vitality-tee"/>
+    <file name="vitality-records-text-hoodie.css" crc="290195198" ref="vitality-records-text-hoodie"/>
+    <file name="cookie-policy.css" crc="47955513" ref="cookie-policy"/>
+    <file name="404.css" crc="4221320211" ref="404"/>
+    <file name="contact.css" crc="463185824" ref="contact"/>
+    <file name="releases.css" crc="9012126" ref="releases"/>
+    <file name="artists.css" crc="3791472570" ref="artists"/>
+    <file name="press.css" crc="3848672119" ref="press"/>
   </folder>
   <folder name="fonts">
     <file name="montserrat-semibold.woff" crc="4209658121"/>
@@ -36,47 +23,118 @@
     <file name="montserrat-regular.eot" crc="520803618"/>
     <file name="montserrat-extrabold.woff" crc="3782053790"/>
     <file name="montserrat-extrabold.eot" crc="4180740724"/>
+    <file name="montserrat-regular.woff" crc="505943310"/>
+    <file name="montserrat-regular.eot" crc="520803618"/>
     <file name="montserrat-bold.woff" crc="180081525"/>
     <file name="montserrat-bold.eot" crc="167882739"/>
-  </folder>
-  <folder name="assets">
-    <file name="press-kit.rar" crc="4078573" seo="true" mt="1454715562000"/>
-    <file name="twitchcredit.png" crc="4251222286" seo="true" mt="1454778791000"/>
-    <file name="1perview.png" crc="350839808" seo="true" mt="1455293249000"/>
+    <file name="montserrat-regular.woff" crc="505943310"/>
+    <file name="montserrat-regular.eot" crc="520803618"/>
+    <file name="montserrat-semibold.woff" crc="4209658121"/>
+    <file name="montserrat-semibold.eot" crc="177927149"/>
+    <file name="montserrat-regular.woff" crc="505943310"/>
+    <file name="montserrat-regular.eot" crc="520803618"/>
+    <file name="montserrat-semibold.woff" crc="4209658121"/>
+    <file name="montserrat-semibold.eot" crc="177927149"/>
+    <file name="montserrat-regular.woff" crc="505943310"/>
+    <file name="montserrat-regular.eot" crc="520803618"/>
+    <file name="montserrat-semibold.woff" crc="4209658121"/>
+    <file name="montserrat-semibold.eot" crc="177927149"/>
+    <file name="montserrat-regular.woff" crc="505943310"/>
+    <file name="montserrat-regular.eot" crc="520803618"/>
+    <file name="montserrat-semibold.woff" crc="4209658121"/>
+    <file name="montserrat-semibold.eot" crc="177927149"/>
+    <file name="montserrat-regular.woff" crc="505943310"/>
+    <file name="montserrat-regular.eot" crc="520803618"/>
+    <file name="montserrat-extrabold.woff" crc="3782053790"/>
+    <file name="montserrat-extrabold.eot" crc="4180740724"/>
+    <file name="montserrat-regular.woff" crc="505943310"/>
+    <file name="montserrat-regular.eot" crc="520803618"/>
+    <file name="montserrat-semibold.woff" crc="4209658121"/>
+    <file name="montserrat-semibold.eot" crc="177927149"/>
+    <file name="montserrat-semibold.woff" crc="4209658121"/>
+    <file name="montserrat-semibold.eot" crc="177927149"/>
+    <file name="montserrat-regular.woff" crc="505943310"/>
+    <file name="montserrat-regular.eot" crc="520803618"/>
+    <file name="montserrat-bold.woff" crc="180081525"/>
+    <file name="montserrat-bold.eot" crc="167882739"/>
+    <file name="montserrat-regular.woff" crc="505943310"/>
+    <file name="montserrat-regular.eot" crc="520803618"/>
+    <file name="montserrat-semibold.woff" crc="4209658121"/>
+    <file name="montserrat-semibold.eot" crc="177927149"/>
+    <file name="montserrat-bold.woff" crc="180081525"/>
+    <file name="montserrat-bold.eot" crc="167882739"/>
+    <file name="montserrat-regular.woff" crc="505943310"/>
+    <file name="montserrat-regular.eot" crc="520803618"/>
+    <file name="montserrat-semibold.woff" crc="4209658121"/>
+    <file name="montserrat-semibold.eot" crc="177927149"/>
+    <file name="montserrat-semibold.woff" crc="4209658121"/>
+    <file name="montserrat-semibold.eot" crc="177927149"/>
+    <file name="montserrat-regular.woff" crc="505943310"/>
+    <file name="montserrat-regular.eot" crc="520803618"/>
+    <file name="montserrat-semibold.woff" crc="4209658121"/>
+    <file name="montserrat-semibold.eot" crc="177927149"/>
+    <file name="montserrat-regular.woff" crc="505943310"/>
+    <file name="montserrat-regular.eot" crc="520803618"/>
+    <file name="montserrat-bold.woff" crc="180081525"/>
+    <file name="montserrat-bold.eot" crc="167882739"/>
+    <file name="montserrat-regular.woff" crc="505943310"/>
+    <file name="montserrat-regular.eot" crc="520803618"/>
+    <file name="montserrat-semibold.woff" crc="4209658121"/>
+    <file name="montserrat-semibold.eot" crc="177927149"/>
+    <file name="montserrat-bold.woff" crc="180081525"/>
+    <file name="montserrat-bold.eot" crc="167882739"/>
+    <file name="montserrat-regular.woff" crc="505943310"/>
+    <file name="montserrat-regular.eot" crc="520803618"/>
+    <file name="montserrat-semibold.woff" crc="4209658121"/>
+    <file name="montserrat-semibold.eot" crc="177927149"/>
+    <file name="montserrat-bold.woff" crc="180081525"/>
+    <file name="montserrat-bold.eot" crc="167882739"/>
+    <file name="montserrat-regular.woff" crc="505943310"/>
+    <file name="montserrat-regular.eot" crc="520803618"/>
+    <file name="montserrat-semibold.woff" crc="4209658121"/>
+    <file name="montserrat-semibold.eot" crc="177927149"/>
+    <file name="montserrat-regular.woff" crc="505943310"/>
+    <file name="montserrat-regular.eot" crc="520803618"/>
+    <file name="montserrat-bold.woff" crc="180081525"/>
+    <file name="montserrat-bold.eot" crc="167882739"/>
+    <file name="montserrat-semibold.woff" crc="4209658121"/>
+    <file name="montserrat-semibold.eot" crc="177927149"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="196614522" ref="index:artists:releases:contact:demos:press:licence:404:phone>index:phone>contact:phone>licence:phone>404:shop:vitality-records-text-hoodie:vitality-records-cdj-and-vinyl-tee:vitality-records-seal-of-vitality-tee:cookie-policy"/>
-    <file name="museutils.js" crc="275725342" ref="index:artists:releases:contact:demos:press:licence:404:phone>index:phone>contact:phone>licence:phone>404:shop:vitality-records-text-hoodie:vitality-records-cdj-and-vinyl-tee:vitality-records-seal-of-vitality-tee:cookie-policy"/>
-    <file name="pie.js" crc="3827607177" ref="index:artists:releases:vitality-records-text-hoodie:vitality-records-cdj-and-vinyl-tee:vitality-records-seal-of-vitality-tee"/>
-    <file name="webpro.js" crc="3883484123" ref="index:phone>index:phone>contact:phone>licence:phone>404:releases"/>
-    <file name="musewpslideshow.js" crc="360574455" ref="index:releases"/>
-    <file name="jquery.museoverlay.js" crc="342093292" ref="index:releases"/>
-    <file name="touchswipe.js" crc="4218319045" ref="index:releases"/>
-    <file name="jquery.musemenu.js" crc="4042164668" ref="index:artists:releases:contact:demos:press:licence:404:phone>index:phone>contact:phone>licence:phone>404:shop:vitality-records-text-hoodie:vitality-records-cdj-and-vinyl-tee:vitality-records-seal-of-vitality-tee:cookie-policy"/>
-    <file name="jquery.watch.js" crc="3999102769" ref="index:artists:releases:contact:demos:press:licence:404:phone>index:phone>contact:phone>licence:phone>404:shop:vitality-records-text-hoodie:vitality-records-cdj-and-vinyl-tee:vitality-records-seal-of-vitality-tee:cookie-policy"/>
-    <file name="html5shiv.js" crc="4241844378" ref="index:artists:releases:contact:demos:press:licence:404:phone>index:phone>contact:phone>licence:phone>404:shop:vitality-records-text-hoodie:vitality-records-cdj-and-vinyl-tee:vitality-records-seal-of-vitality-tee:cookie-policy"/>
-    <file name="musewpdisclosure.js" crc="404074387" ref="phone>index:phone>contact:phone>licence:phone>404"/>
-    <file name="museredirect.js" crc="3899419633" ref="index:contact:licence:404"/>
+    <file name="jquery-1.8.3.min.js" crc="409338010" ref="phone>index:phone>contact:phone>licence:phone>404:index:artists:releases:contact:demos:press:licence:404:shop:vitality-records-text-hoodie:vitality-records-cdj-and-vinyl-tee:vitality-records-seal-of-vitality-tee:cookie-policy"/>
+    <file name="museutils.js" crc="4190794036" ref="phone>index:phone>contact:phone>licence:phone>404:index:artists:releases:contact:demos:press:licence:404:shop:vitality-records-text-hoodie:vitality-records-cdj-and-vinyl-tee:vitality-records-seal-of-vitality-tee:cookie-policy"/>
+    <file name="whatinput.js" crc="84559013" ref="phone>index:phone>contact:phone>licence:phone>404:index:artists:releases:contact:demos:press:licence:404:shop:vitality-records-text-hoodie:vitality-records-cdj-and-vinyl-tee:vitality-records-seal-of-vitality-tee:cookie-policy"/>
+    <file name="jquery.watch.js" crc="349565855" ref="phone>index:phone>contact:phone>licence:phone>404:index:artists:releases:contact:demos:press:licence:404:shop:vitality-records-text-hoodie:vitality-records-cdj-and-vinyl-tee:vitality-records-seal-of-vitality-tee:cookie-policy"/>
+    <file name="jquery.musemenu.js" crc="3866264083" ref="phone>index:phone>contact:phone>licence:phone>404:index:artists:releases:contact:demos:press:licence:404:shop:vitality-records-text-hoodie:vitality-records-cdj-and-vinyl-tee:vitality-records-seal-of-vitality-tee:cookie-policy"/>
+    <file name="webpro.js" crc="488283310" ref="phone>index:phone>contact:phone>licence:phone>404:index:releases"/>
+    <file name="musewpdisclosure.js" crc="3898505244" ref="phone>index:phone>contact:phone>licence:phone>404"/>
+    <file name="html5shiv.js" crc="4241844378" ref="phone>index:phone>contact:phone>licence:phone>404:index:artists:releases:contact:demos:press:licence:404:shop:vitality-records-text-hoodie:vitality-records-cdj-and-vinyl-tee:vitality-records-seal-of-vitality-tee:cookie-policy"/>
+    <file name="museredirect.js" crc="3985760531" ref="index:contact:licence:404"/>
+    <file name="pie.js" crc="3827607177" ref="index:artists:releases:contact:demos:press:licence:404:shop:vitality-records-text-hoodie:vitality-records-cdj-and-vinyl-tee:vitality-records-seal-of-vitality-tee:cookie-policy"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="3792042506" ref="index"/>
+    <file name="musewpslideshow.js" crc="248860441" ref="index:releases"/>
+    <file name="jquery.museoverlay.js" crc="3898476799" ref="index:releases"/>
+    <file name="touchswipe.js" crc="4191887251" ref="index:releases"/>
   </folder>
   <folder name="images">
-    <file name="favicon.ico" crc="3841252599" ref="phone>index:index"/>
-    <file name="webbg.jpg" crc="79919078" ref="index:artists:releases:contact:demos:press:licence:404:phone>index:phone>contact:phone>licence:phone>404:shop:vitality-records-text-hoodie:vitality-records-cdj-and-vinyl-tee:vitality-records-seal-of-vitality-tee:cookie-policy"/>
-    <file name="black_text.png" crc="4078265564" seo="true" ref="index:artists:releases:contact:demos:press:licence:404:phone>index:phone>contact:phone>licence:phone>404:shop:vitality-records-text-hoodie:vitality-records-cdj-and-vinyl-tee:vitality-records-seal-of-vitality-tee:cookie-policy"/>
-    <file name="1.jpg" crc="375588613" seo="true" ref="index"/>
+    <file name="favicon.ico" crc="3841252599" ref="phone>index"/>
+    <file name="black_text.png" crc="4078265564" seo="true" ref="phone>index:phone>contact:phone>licence:phone>404:index:artists:releases:contact:demos:press:licence:404:shop:vitality-records-text-hoodie:vitality-records-cdj-and-vinyl-tee:vitality-records-seal-of-vitality-tee:cookie-policy"/>
+    <file name="mobilemenu.png" crc="4283888078" ref="phone>index"/>
+    <file name="mobilemenuclose.png" crc="229882702" ref="phone>index"/>
+    <file name="webbg.jpg" crc="79919078" ref="phone>index:phone>contact:phone>licence:phone>404:index:artists:releases:contact:demos:press:licence:404:shop:vitality-records-text-hoodie:vitality-records-cdj-and-vinyl-tee:vitality-records-seal-of-vitality-tee:cookie-policy"/>
+    <file name="twitchex-crop-u1284.jpg" crc="3773932727" ref="phone>licence"/>
+    <file name="facebookpromo.jpg" crc="4293868586" ref="index"/>
     <file name="2.jpg" crc="3980095473" seo="true" ref="index"/>
     <file name="sepimg.jpg" crc="3828001298" seo="true" ref="index:artists:releases:contact:demos:press:licence:404:shop:vitality-records-text-hoodie:vitality-records-cdj-and-vinyl-tee:vitality-records-seal-of-vitality-tee:cookie-policy"/>
     <file name="cover.jpg" crc="413047403" seo="true" ref="releases"/>
-    <file name="cover2.jpg" crc="3873657333" seo="true" ref="releases"/>
-    <file name="full_whitebg_logo.jpg" crc="4108586754" seo="true" ref="press"/>
-    <file name="full_blackbg_logo.jpg" crc="462347768" seo="true" ref="press"/>
-    <file name="twitchex.jpg" crc="521959610" seo="true" ref="licence"/>
-    <file name="mobilemenu.png" crc="4283888078" ref="phone>index"/>
-    <file name="mobilemenuclose.png" crc="229882702" ref="phone>index"/>
-    <file name="twitchex-crop-u1284.jpg" crc="3773932727" ref="phone>licence"/>
     <file name="blank.gif" crc="4208392903" ref="releases"/>
+    <file name="cover2.jpg" crc="3873657333" seo="true" ref="releases"/>
     <file name="cover60x60.jpg" crc="3770421345" seo="true" ref="releases"/>
     <file name="cover60x602.jpg" crc="4069380850" seo="true" ref="releases"/>
     <file name="loading.gif" crc="3815509949" ref="releases"/>
+    <file name="full_whitebg_logo.jpg" crc="4108586754" seo="true" ref="press"/>
+    <file name="full_blackbg_logo.jpg" crc="462347768" seo="true" ref="press"/>
+    <file name="twitchex.jpg" crc="521959610" seo="true" ref="licence"/>
     <file name="2preview206x206.jpg" crc="3837245885" seo="true" ref="shop"/>
     <file name="1perview206x206.jpg" crc="4342036" seo="true" ref="shop"/>
     <file name="3preview206x206.jpg" crc="3829640144" seo="true" ref="shop"/>
@@ -85,17 +143,30 @@
     <file name="1perview.jpg" crc="361504504" seo="true" ref="vitality-records-cdj-and-vinyl-tee"/>
     <file name="2preview.jpg" crc="275177013" seo="true" ref="vitality-records-seal-of-vitality-tee"/>
   </folder>
-  <file name="index.html" crc="4140043332" seo="true" mt="1455296463146" redirect="true"/>
-  <file name="artists.html" crc="526997188" seo="true" mt="1455296463146" redirect="true"/>
-  <file name="releases.html" crc="28061979" seo="true" mt="1455296463146" redirect="true"/>
-  <file name="contact.html" crc="4020015344" seo="true" mt="1455296463146" redirect="true"/>
-  <file name="demos.html" crc="327580459" seo="true" mt="1455296463146" redirect="true"/>
-  <file name="press.html" crc="454191091" seo="true" mt="1455296463146" redirect="true"/>
-  <file name="licence.html" crc="4285484589" seo="true" mt="1455296463146" redirect="true"/>
-  <file name="404.html" crc="449616869" seo="true" mt="1455296463146" redirect="true"/>
-  <file name="shop.html" crc="453431556" seo="true" mt="1455296463146" redirect="true"/>
-  <file name="vitality-records-text-hoodie.html" crc="4127440836" seo="true" mt="1455296463146" redirect="true"/>
-  <file name="vitality-records-cdj-and-vinyl-tee.html" crc="254499215" seo="true" mt="1455296463146" redirect="true"/>
-  <file name="vitality-records-seal-of-vitality-tee.html" crc="475721694" seo="true" mt="1455296463146" redirect="true"/>
-  <file name="cookie-policy.html" crc="3872369091" seo="true" mt="1455296463146" redirect="true"/>
+  <folder name="phone">
+    <folder name="css">
+      <file name="master_a-master.css" crc="529634913" ref="phone>index:phone>404:phone>contact:phone>licence"/>
+      <file name="index.css" crc="76827977" ref="phone>index"/>
+      <file name="404.css" crc="204131370" ref="phone>404"/>
+      <file name="contact.css" crc="3778242344" ref="phone>contact"/>
+      <file name="licence.css" crc="483328996" ref="phone>licence"/>
+    </folder>
+    <file name="index.html" crc="4294677192" seo="true" mt="1455368607227" redirect="true"/>
+    <file name="contact.html" crc="289016020" seo="true" mt="1455368607227" redirect="true"/>
+    <file name="licence.html" crc="4019202873" seo="true" mt="1455368607227" redirect="true"/>
+    <file name="404.html" crc="3930356151" seo="true" mt="1455368607227" redirect="true"/>
+  </folder>
+  <file name="index.html" crc="289229201" seo="true" mt="1455369106958" redirect="true"/>
+  <file name="artists.html" crc="224098893" seo="true" mt="1455368936270" redirect="true"/>
+  <file name="releases.html" crc="3873910270" seo="true" mt="1455368936270" redirect="true"/>
+  <file name="contact.html" crc="76583199" seo="true" mt="1455368936270" redirect="true"/>
+  <file name="demos.html" crc="255538913" seo="true" mt="1455368936270" redirect="true"/>
+  <file name="press.html" crc="4191969293" seo="true" mt="1455368936270" redirect="true"/>
+  <file name="licence.html" crc="3778753896" seo="true" mt="1455368936270" redirect="true"/>
+  <file name="404.html" crc="4209047" seo="true" mt="1455368936270" redirect="true"/>
+  <file name="shop.html" crc="3803989891" seo="true" mt="1455368936270" redirect="true"/>
+  <file name="vitality-records-text-hoodie.html" crc="4268508708" seo="true" mt="1455368936270" redirect="true"/>
+  <file name="vitality-records-cdj-and-vinyl-tee.html" crc="4038973111" seo="true" mt="1455368936270" redirect="true"/>
+  <file name="vitality-records-seal-of-vitality-tee.html" crc="453678572" seo="true" mt="1455368936270" redirect="true"/>
+  <file name="cookie-policy.html" crc="4202664200" seo="true" mt="1455368936270" redirect="true"/>
 </manifest>

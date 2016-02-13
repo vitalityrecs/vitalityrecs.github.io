@@ -3,12 +3,6 @@
 	background-color: #1ECAB4;
 }
 
-#u1158
-{
-	background-color: transparent;
-	position: relative;
-}
-
 #accordionu1161
 {
 	border-color: #7F7F7F;
@@ -18,18 +12,12 @@
 #u1172-3
 {
 	border-color: #FFFFFF;
-	color: #999999;
-	font-size: 20px;
-	text-align: right;
-	line-height: 45px;
-	font-family: sansita-one, sans-serif;
-	font-weight: 400;
 	background: transparent url("../../images/mobilemenu.png") no-repeat right center;
 }
 
 #u1172-3:active
 {
-	border-style: none;
+	border-width: 0px;
 	background: transparent url("../../images/mobilemenu.png") no-repeat right center;
 }
 
@@ -45,13 +33,23 @@
 {
 	color: #4F4F4F;
 	visibility: inherit;
-	padding-right: 83px;
 	padding-left: 0px;
 	font-size: 20px;
 	text-align: right;
+	padding-right: 83px;
 	font-family: sansita-one, sans-serif;
 	font-weight: 400;
 	font-style: normal;
+}
+
+#u1172-2
+{
+	line-height: 45px;
+	font-size: 20px;
+	text-align: right;
+	color: #999999;
+	font-family: sansita-one, sans-serif;
+	font-weight: 400;
 }
 
 #u1172
@@ -67,7 +65,7 @@
 
 #menuu1164
 {
-	border-style: none;
+	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
 }
@@ -75,7 +73,6 @@
 #u1168
 {
 	background-color: #000000;
-	position: relative;
 }
 
 #u1168:active
@@ -85,20 +82,18 @@
 
 #u1169-4
 {
-	border-style: none;
+	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
 	text-align: center;
 	color: #FFFFFF;
 	font-family: '__Montserrat_5';
 	font-weight: 400;
-	position: relative;
 }
 
-#u1203
+#u1168.MuseMenuActive,#u1203
 {
 	background-color: #000000;
-	position: relative;
 }
 
 #u1203:active
@@ -108,25 +103,23 @@
 
 #u1206-4
 {
-	border-style: none;
+	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
 	text-align: center;
 	color: #FFFFFF;
 	font-family: '__Montserrat_5';
 	font-weight: 400;
-	position: relative;
 }
 
-#u1162,#u1165,#u1200,#u1207
+#u1158,#u1162,#u1165,#u1200,#u1207
 {
 	background-color: transparent;
 }
 
-#u1208
+#u1203.MuseMenuActive,#u1208
 {
 	background-color: #000000;
-	position: relative;
 }
 
 #u1208:active
@@ -136,14 +129,13 @@
 
 #u1211-4
 {
-	border-style: none;
+	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
 	text-align: center;
 	color: #FFFFFF;
 	font-family: '__Montserrat_5';
 	font-weight: 400;
-	position: relative;
 }
 
 .MenuItem,.AccordionPanelTab /* unifiedNavBar */
@@ -151,7 +143,7 @@
 	cursor: pointer;
 }
 
-#u1168.MuseMenuActive,#u1203.MuseMenuActive,#u1208.MuseMenuActive,#u1145
+#u1208.MuseMenuActive,#u1145
 {
 	background-color: #000000;
 }

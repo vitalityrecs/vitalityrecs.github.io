@@ -5,12 +5,12 @@
 .version.demos /* version checker */
 {
 	color: #000016;
-	background-color: #CBCF62;
+	background-color: #86C061;
 }
 
-.html
+#muse_css_mq
 {
-	background: #030303 url("../images/webbg.jpg") repeat left center fixed;
+	background-color: #FFFFFF;
 }
 
 #page
@@ -18,8 +18,10 @@
 	z-index: 1;
 	width: 950px;
 	min-height: 530.5498989048901px;
+	-pie-box-shadow: 0px 0px 70px #000000;
+	box-shadow: 0px 0px 70px #000000;
 	background-image: none;
-	border-style: none;
+	border-width: 0px;
 	border-color: #000000;
 	background-color: #FFFFFF;
 	padding-bottom: 0px;
@@ -30,23 +32,13 @@
 #page_position_content
 {
 	margin-top: -36px;
-	width: 0.01px;
+	width: 0.01px;/* should not cover content below */
 }
 
-#pu612
+#pu543
 {
 	width: 0.01px;
 	padding-bottom: 98px;
-}
-
-#u612
-{
-	z-index: 57;
-	width: 950px;
-	height: 13px;
-	top: 0px;
-	left: 50%;
-	margin-left: -475px;
 }
 
 #u543
@@ -54,15 +46,38 @@
 	z-index: 15;
 	width: 950px;
 	height: 75px;
+	position: fixed;
 	top: 13px;
 	left: 50%;
 	margin-left: -475px;
+}
+
+#u551
+{
+	z-index: 17;
+	width: 207px;
+	position: fixed;
+	top: 41px;
+	left: 50%;
+	margin-left: -455px;
+}
+
+#u557
+{
+	z-index: 19;
+	width: 910px;
+	height: 5px;
+	position: fixed;
+	top: 79px;
+	left: 50%;
+	margin-left: -455px;
 }
 
 #menuu571
 {
 	z-index: 20;
 	width: 625px;
+	position: fixed;
 	top: 33px;
 	left: 50%;
 	margin-left: -170px;
@@ -72,6 +87,7 @@
 {
 	width: 102px;
 	min-height: 46px;
+	position: relative;
 	margin-right: -10000px;
 }
 
@@ -79,6 +95,7 @@
 {
 	width: 102px;
 	padding-bottom: 29px;
+	position: relative;
 }
 
 #u580:hover
@@ -92,6 +109,7 @@
 {
 	width: 102px;
 	min-height: 17px;
+	position: relative;
 	margin-right: -10000px;
 	top: 14px;
 }
@@ -109,6 +127,7 @@
 {
 	width: 102px;
 	min-height: 46px;
+	position: relative;
 	margin-right: -10000px;
 	left: 104px;
 }
@@ -117,9 +136,10 @@
 {
 	width: 102px;
 	padding-bottom: 29px;
+	position: relative;
 }
 
-#u575:hover
+#u580.MuseMenuActive,#u575:hover
 {
 	width: 102px;
 	min-height: 0px;
@@ -130,6 +150,7 @@
 {
 	width: 102px;
 	min-height: 17px;
+	position: relative;
 	margin-right: -10000px;
 	top: 14px;
 }
@@ -147,6 +168,7 @@
 {
 	width: 102px;
 	min-height: 46px;
+	position: relative;
 	margin-right: -10000px;
 	left: 208px;
 }
@@ -155,18 +177,19 @@
 {
 	width: 102px;
 	padding-bottom: 29px;
+	position: relative;
 }
 
-#u588:hover
+#u575.MuseMenuActive,#u588:hover
 {
 	width: 102px;
 	min-height: 0px;
 	margin: 0px;
 }
 
-#u580.MuseMenuActive,#u575.MuseMenuActive,#u588.MuseMenuActive
+#u588.MuseMenuActive
 {
-	width: 98px;
+	width: 102px;
 	min-height: 0px;
 	margin: 0px;
 }
@@ -175,6 +198,7 @@
 {
 	width: 102px;
 	min-height: 17px;
+	position: relative;
 	margin-right: -10000px;
 	top: 14px;
 }
@@ -201,6 +225,7 @@
 {
 	width: 103px;
 	min-height: 46px;
+	position: relative;
 	margin-right: -10000px;
 	left: 312px;
 }
@@ -209,6 +234,7 @@
 {
 	width: 103px;
 	padding-bottom: 29px;
+	position: relative;
 }
 
 #u595:hover
@@ -222,6 +248,7 @@
 {
 	width: 103px;
 	min-height: 17px;
+	position: relative;
 	margin-right: -10000px;
 	top: 14px;
 }
@@ -239,6 +266,7 @@
 {
 	width: 103px;
 	min-height: 46px;
+	position: relative;
 	margin-right: -10000px;
 	left: 417px;
 }
@@ -247,9 +275,10 @@
 {
 	width: 103px;
 	padding-bottom: 29px;
+	position: relative;
 }
 
-#u602:hover
+#u595.MuseMenuActive,#u602:hover
 {
 	width: 103px;
 	min-height: 0px;
@@ -260,6 +289,7 @@
 {
 	width: 103px;
 	min-height: 17px;
+	position: relative;
 	margin-right: -10000px;
 	top: 14px;
 }
@@ -277,6 +307,7 @@
 {
 	width: 103px;
 	min-height: 46px;
+	position: relative;
 	margin-right: -10000px;
 	left: 522px;
 }
@@ -285,18 +316,19 @@
 {
 	width: 103px;
 	padding-bottom: 29px;
+	position: relative;
 }
 
-#u1529:hover
+#u602.MuseMenuActive,#u1529:hover
 {
 	width: 103px;
 	min-height: 0px;
 	margin: 0px;
 }
 
-#u595.MuseMenuActive,#u602.MuseMenuActive,#u1529.MuseMenuActive
+#u1529.MuseMenuActive
 {
-	width: 99px;
+	width: 103px;
 	min-height: 0px;
 	margin: 0px;
 }
@@ -305,6 +337,7 @@
 {
 	width: 103px;
 	min-height: 17px;
+	position: relative;
 	margin-right: -10000px;
 	top: 14px;
 }
@@ -327,23 +360,15 @@
 	margin: 0px -10000px 0px 0px;
 }
 
-#u551
+#u612
 {
-	z-index: 17;
-	width: 207px;
-	top: 41px;
+	z-index: 57;
+	width: 950px;
+	height: 13px;
+	position: fixed;
+	top: 0px;
 	left: 50%;
-	margin-left: -455px;
-}
-
-#u557
-{
-	z-index: 19;
-	width: 910px;
-	height: 5px;
-	top: 79px;
-	left: 50%;
-	margin-left: -455px;
+	margin-left: -475px;
 }
 
 #u472-7
@@ -385,7 +410,7 @@
 	z-index: 12;
 	width: 757px;
 	min-height: 963px;
-	border-style: none;
+	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
 	position: relative;
@@ -414,6 +439,7 @@
 {
 	z-index: 2;
 	width: 349px;
+	position: relative;
 	margin-right: -10000px;
 }
 
@@ -422,6 +448,7 @@
 	z-index: 4;
 	width: 349px;
 	height: 35px;
+	position: relative;
 	margin-right: -10000px;
 }
 
@@ -439,6 +466,7 @@
 	width: 950px;
 	padding-bottom: 11px;
 	margin-top: 13px;
+	position: relative;
 }
 
 #u616-4
@@ -446,6 +474,7 @@
 	z-index: 58;
 	width: 257px;
 	min-height: 13px;
+	position: relative;
 	margin-right: -10000px;
 	margin-top: 12px;
 	left: 20px;
@@ -456,6 +485,7 @@
 	z-index: 78;
 	width: 202px;
 	min-height: 7px;
+	position: relative;
 	margin-right: -10000px;
 	margin-top: 12px;
 	left: 374px;
@@ -466,9 +496,22 @@
 	z-index: 62;
 	width: 287px;
 	min-height: 2px;
+	position: relative;
 	margin-right: -10000px;
 	margin-top: 12px;
 	left: 643px;
+}
+
+.html
+{
+	background: #030303 url("../images/webbg.jpg") repeat left center fixed;
+}
+
+body
+{
+	position: relative;
+	min-width: 950px;
+	padding-top: 36px;
 }
 
 @font-face
@@ -487,17 +530,5 @@
 	src: local('☺'), url('../fonts/montserrat-regular.woff') format('woff');
 	font-weight: 400;
 	font-style: normal;
-}
-
-body
-{
-	position: relative;
-	min-width: 950px;
-	padding-top: 36px;
-}
-
-#page .verticalspacer
-{
-	clear: both;
 }
 
