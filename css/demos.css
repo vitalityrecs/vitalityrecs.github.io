@@ -4,8 +4,8 @@
 
 .version.demos /* version checker */
 {
-	color: #0000E6;
-	background-color: #A73F3E;
+	color: #000007;
+	background-color: #BF31E9;
 }
 
 #muse_css_mq
@@ -377,8 +377,8 @@
 	width: 757px;
 	min-height: 98px;
 	background-color: transparent;
-	line-height: 22px;
 	font-size: 18px;
+	line-height: 22px;
 	color: #000000;
 	font-family: '__Montserrat_5';
 	font-weight: 400;

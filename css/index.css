@@ -4,8 +4,8 @@
 
 .version.index /* version checker */
 {
-	color: #0000F8;
-	background-color: #E060AF;
+	color: #0000FE;
+	background-color: #8D6339;
 }
 
 #muse_css_mq
@@ -421,8 +421,8 @@
 	min-height: 25px;
 	background-color: #7F7F7F;
 	background-color: rgba(0,0,0,0.5);
-	line-height: 36px;
 	font-size: 30px;
+	line-height: 36px;
 	color: #1ECAB4;
 	font-family: '__Montserrat_5';
 	font-weight: 600;
@@ -437,8 +437,8 @@
 	min-height: 25px;
 	background-color: #7F7F7F;
 	background-color: rgba(0,0,0,0.5);
-	line-height: 22px;
 	font-size: 18px;
+	line-height: 22px;
 	color: #FFFFFF;
 	font-family: '__Montserrat_5';
 	font-weight: 400;
@@ -481,8 +481,8 @@
 	min-height: 25px;
 	background-color: #7F7F7F;
 	background-color: rgba(0,0,0,0.5);
-	line-height: 29px;
 	font-size: 24px;
+	line-height: 29px;
 	color: #1ECAB4;
 	font-family: '__Montserrat_5';
 	font-weight: 600;
@@ -500,8 +500,8 @@
 	min-height: 25px;
 	background-color: #7F7F7F;
 	background-color: rgba(0,0,0,0.5);
-	line-height: 22px;
 	font-size: 18px;
+	line-height: 22px;
 	color: #FFFFFF;
 	font-family: '__Montserrat_5';
 	font-weight: 400;
@@ -623,8 +623,8 @@
 	width: 20px;
 	min-height: 20px;
 	background-color: transparent;
-	line-height: 20px;
 	text-align: center;
+	line-height: 20px;
 	color: #FFFFFF;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 }
@@ -680,8 +680,8 @@
 	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
-	line-height: 20px;
 	text-align: center;
+	line-height: 20px;
 	color: #FFFFFF;
 	font-family: '__Montserrat_5';
 	font-weight: 400;
@@ -733,8 +733,8 @@
 	border-style: solid;
 	border-color: #000000;
 	background-color: transparent;
-	line-height: 29px;
 	font-size: 24px;
+	line-height: 29px;
 	color: #000000;
 	font-family: '__Montserrat_5';
 	font-weight: 600;
@@ -753,8 +753,8 @@
 	border-style: solid;
 	border-color: #000000;
 	background-color: transparent;
-	line-height: 29px;
 	font-size: 24px;
+	line-height: 29px;
 	color: #000000;
 	font-family: '__Montserrat_5';
 	font-weight: 600;
@@ -799,8 +799,8 @@
 	border-style: solid;
 	border-color: #000000;
 	background-color: transparent;
-	line-height: 29px;
 	font-size: 24px;
+	line-height: 29px;
 	color: #000000;
 	font-family: '__Montserrat_5';
 	font-weight: 600;
@@ -829,8 +829,8 @@
 	border-style: solid;
 	border-color: #000000;
 	background-color: transparent;
-	line-height: 29px;
 	font-size: 24px;
+	line-height: 29px;
 	color: #000000;
 	font-family: '__Montserrat_5';
 	font-weight: 600;

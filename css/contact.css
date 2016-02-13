@@ -4,8 +4,8 @@
 
 .version.contact /* version checker */
 {
-	color: #00000E;
-	background-color: #9476FC;
+	color: #000001;
+	background-color: #1BAC14;
 }
 
 #muse_css_mq
@@ -376,8 +376,8 @@
 	width: 840px;
 	min-height: 274px;
 	background-color: transparent;
-	line-height: 29px;
 	font-size: 24px;
+	line-height: 29px;
 	margin-left: 55px;
 	position: relative;
 }
@@ -510,6 +510,15 @@ body
 @font-face
 {
 	font-family: '__Montserrat_5';
+	src: url('../fonts/montserrat-extrabold.eot');
+	src: local('☺'), url('../fonts/montserrat-extrabold.woff') format('woff');
+	font-weight: 800;
+	font-style: normal;
+}
+
+@font-face
+{
+	font-family: '__Montserrat_5';
 	src: url('../fonts/montserrat-regular.eot');
 	src: local('☺'), url('../fonts/montserrat-regular.woff') format('woff');
 	font-weight: 400;
@@ -522,15 +531,6 @@ body
 	src: url('../fonts/montserrat-semibold.eot');
 	src: local('☺'), url('../fonts/montserrat-semibold.woff') format('woff');
 	font-weight: 600;
-	font-style: normal;
-}
-
-@font-face
-{
-	font-family: '__Montserrat_5';
-	src: url('../fonts/montserrat-extrabold.eot');
-	src: local('☺'), url('../fonts/montserrat-extrabold.woff') format('woff');
-	font-weight: 800;
 	font-style: normal;
 }
 

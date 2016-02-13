@@ -4,8 +4,8 @@
 
 .version.artists /* version checker */
 {
-	color: #0000F9;
-	background-color: #59766F;
+	color: #0000F7;
+	background-color: #49071F;
 }
 
 #muse_css_mq
@@ -378,8 +378,8 @@
 	border-style: solid;
 	border-color: #000000;
 	background-color: transparent;
-	line-height: 29px;
 	font-size: 24px;
+	line-height: 29px;
 	color: #000000;
 	font-family: '__Montserrat_5';
 	font-weight: 600;
@@ -404,9 +404,9 @@
 	border-style: solid;
 	border-color: #000000;
 	background-color: transparent;
-	line-height: 22px;
 	font-size: 18px;
 	text-align: center;
+	line-height: 22px;
 	font-family: '__Montserrat_5';
 	font-weight: 600;
 	position: relative;
@@ -423,9 +423,9 @@
 	border-style: solid;
 	border-color: #000000;
 	background-color: transparent;
-	line-height: 22px;
 	font-size: 18px;
 	text-align: center;
+	line-height: 22px;
 	font-family: '__Montserrat_5';
 	font-weight: 600;
 	position: relative;
@@ -462,9 +462,9 @@
 	border-style: solid;
 	border-color: #000000;
 	background-color: transparent;
-	line-height: 22px;
 	font-size: 18px;
 	text-align: center;
+	line-height: 22px;
 	font-family: '__Montserrat_5';
 	font-weight: 600;
 	position: relative;
@@ -482,9 +482,9 @@
 	border-style: solid;
 	border-color: #000000;
 	background-color: transparent;
-	line-height: 22px;
 	font-size: 18px;
 	text-align: center;
+	line-height: 22px;
 	font-family: '__Montserrat_5';
 	font-weight: 600;
 	position: relative;
@@ -502,9 +502,9 @@
 	border-style: solid;
 	border-color: #000000;
 	background-color: transparent;
-	line-height: 22px;
 	font-size: 18px;
 	text-align: center;
+	line-height: 22px;
 	font-family: '__Montserrat_5';
 	font-weight: 600;
 	position: relative;
@@ -522,9 +522,9 @@
 	border-style: solid;
 	border-color: #000000;
 	background-color: transparent;
-	line-height: 22px;
 	font-size: 18px;
 	text-align: center;
+	line-height: 22px;
 	font-family: '__Montserrat_5';
 	font-weight: 600;
 	position: relative;
@@ -542,9 +542,9 @@
 	border-style: solid;
 	border-color: #000000;
 	background-color: transparent;
-	line-height: 22px;
 	font-size: 18px;
 	text-align: center;
+	line-height: 22px;
 	font-family: '__Montserrat_5';
 	font-weight: 600;
 	position: relative;
@@ -562,9 +562,9 @@
 	border-style: solid;
 	border-color: #000000;
 	background-color: transparent;
-	line-height: 22px;
 	font-size: 18px;
 	text-align: center;
+	line-height: 22px;
 	font-family: '__Montserrat_5';
 	font-weight: 600;
 	position: relative;
