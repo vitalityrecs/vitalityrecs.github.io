@@ -4,8 +4,8 @@
 
 .version.licence /* version checker */
 {
-	color: #00000F;
-	background-color: #9764DD;
+	color: #0000F9;
+	background-color: #95FBDF;
 }
 
 #muse_css_mq
@@ -488,6 +488,7 @@
 {
 	width: 0.01px;
 	margin-left: 300px;
+	margin-top: 3px;
 }
 
 #u952

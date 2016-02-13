@@ -4,8 +4,8 @@
 
 .version.releases /* version checker */
 {
-	color: #000000;
-	background-color: #89839E;
+	color: #0000EC;
+	background-color: #D0A876;
 }
 
 #muse_css_mq
@@ -642,6 +642,7 @@
 {
 	width: 0.01px;
 	margin-left: 300px;
+	margin-top: 3px;
 }
 
 #u952
@@ -726,18 +727,18 @@ body
 @font-face
 {
 	font-family: '__Montserrat_5';
-	src: url('../fonts/montserrat-semibold.eot');
-	src: local('☺'), url('../fonts/montserrat-semibold.woff') format('woff');
-	font-weight: 600;
+	src: url('../fonts/montserrat-regular.eot');
+	src: local('☺'), url('../fonts/montserrat-regular.woff') format('woff');
+	font-weight: 400;
 	font-style: normal;
 }
 
 @font-face
 {
 	font-family: '__Montserrat_5';
-	src: url('../fonts/montserrat-regular.eot');
-	src: local('☺'), url('../fonts/montserrat-regular.woff') format('woff');
-	font-weight: 400;
+	src: url('../fonts/montserrat-semibold.eot');
+	src: local('☺'), url('../fonts/montserrat-semibold.woff') format('woff');
+	font-weight: 600;
 	font-style: normal;
 }
 
