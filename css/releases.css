@@ -4,8 +4,8 @@
 
 .version.releases /* version checker */
 {
-	color: #0000EC;
-	background-color: #D0A876;
+	color: #0000E3;
+	background-color: #B27358;
 }
 
 #muse_css_mq
@@ -54,9 +54,9 @@
 #u551
 {
 	z-index: 58;
-	width: 207px;
+	width: 158px;
 	position: fixed;
-	top: 41px;
+	top: 35px;
 	left: 50%;
 	margin-left: -455px;
 }

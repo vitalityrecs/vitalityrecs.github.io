@@ -4,8 +4,8 @@
 
 .version.cookie_policy /* version checker */
 {
-	color: #0000F5;
-	background-color: #13F1DA;
+	color: #00000F;
+	background-color: #A365C7;
 }
 
 #muse_css_mq
@@ -54,9 +54,9 @@
 #u551
 {
 	z-index: 82;
-	width: 207px;
+	width: 158px;
 	position: fixed;
-	top: 41px;
+	top: 35px;
 	left: 50%;
 	margin-left: -455px;
 }
@@ -519,15 +519,6 @@ body
 @font-face
 {
 	font-family: '__Montserrat_5';
-	src: url('../fonts/montserrat-bold.eot');
-	src: local('☺'), url('../fonts/montserrat-bold.woff') format('woff');
-	font-weight: 700;
-	font-style: normal;
-}
-
-@font-face
-{
-	font-family: '__Montserrat_5';
 	src: url('../fonts/montserrat-semibold.eot');
 	src: local('☺'), url('../fonts/montserrat-semibold.woff') format('woff');
 	font-weight: 600;
@@ -540,6 +531,15 @@ body
 	src: url('../fonts/montserrat-regular.eot');
 	src: local('☺'), url('../fonts/montserrat-regular.woff') format('woff');
 	font-weight: 400;
+	font-style: normal;
+}
+
+@font-face
+{
+	font-family: '__Montserrat_5';
+	src: url('../fonts/montserrat-bold.eot');
+	src: local('☺'), url('../fonts/montserrat-bold.woff') format('woff');
+	font-weight: 700;
 	font-style: normal;
 }
 

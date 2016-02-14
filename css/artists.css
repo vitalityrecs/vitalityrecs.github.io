@@ -4,8 +4,8 @@
 
 .version.artists /* version checker */
 {
-	color: #0000F9;
-	background-color: #59766F;
+	color: #000006;
+	background-color: #66BCDC;
 }
 
 #muse_css_mq
@@ -54,9 +54,9 @@
 #u551
 {
 	z-index: 51;
-	width: 207px;
+	width: 158px;
 	position: fixed;
-	top: 41px;
+	top: 35px;
 	left: 50%;
 	margin-left: -455px;
 }

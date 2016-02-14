@@ -4,8 +4,8 @@
 
 .version._404 /* version checker */
 {
-	color: #0000F6;
-	background-color: #D48ACD;
+	color: #0000E0;
+	background-color: #709ECB;
 }
 
 #muse_css_mq
@@ -54,9 +54,9 @@
 #u551
 {
 	z-index: 23;
-	width: 207px;
+	width: 158px;
 	position: fixed;
-	top: 41px;
+	top: 35px;
 	left: 50%;
 	margin-left: -455px;
 }

@@ -13,13 +13,26 @@
 	background-color: transparent;
 }
 
-#u551,#u579,#u580
+#u580
 {
+	-webkit-transition-duration: 1s;
+	-webkit-transition-delay: 0s;
+	-webkit-transition-timing-function: ease;
+	transition-duration: 1s;
+	transition-delay: 0s;
+	transition-timing-function: ease;
+	background-image: url("../images/blank.gif");
 	background-color: transparent;
 }
 
 #u580:hover
 {
+	-webkit-transition-duration: 0.2s;
+	-webkit-transition-delay: 0s;
+	-webkit-transition-timing-function: ease;
+	transition-duration: 0.2s;
+	transition-delay: 0s;
+	transition-timing-function: ease;
 	border-width: 0px;
 	border-color: #000000;
 	background-color: #000000;
@@ -42,13 +55,26 @@
 	visibility: inherit;
 }
 
-#u572,#u575
+#u575
 {
+	-webkit-transition-duration: 1s;
+	-webkit-transition-delay: 0s;
+	-webkit-transition-timing-function: ease;
+	transition-duration: 1s;
+	transition-delay: 0s;
+	transition-timing-function: ease;
+	background-image: url("../images/blank.gif");
 	background-color: transparent;
 }
 
 #u575:hover
 {
+	-webkit-transition-duration: 0.2s;
+	-webkit-transition-delay: 0s;
+	-webkit-transition-timing-function: ease;
+	transition-duration: 0.2s;
+	transition-delay: 0s;
+	transition-timing-function: ease;
 	border-width: 0px;
 	border-color: #000000;
 	background-color: #000000;
@@ -71,13 +97,26 @@
 	visibility: inherit;
 }
 
-#u587,#u588
+#u588
 {
+	-webkit-transition-duration: 1s;
+	-webkit-transition-delay: 0s;
+	-webkit-transition-timing-function: ease;
+	transition-duration: 1s;
+	transition-delay: 0s;
+	transition-timing-function: ease;
+	background-image: url("../images/blank.gif");
 	background-color: transparent;
 }
 
 #u588:hover
 {
+	-webkit-transition-duration: 0.2s;
+	-webkit-transition-delay: 0s;
+	-webkit-transition-timing-function: ease;
+	transition-duration: 0.2s;
+	transition-delay: 0s;
+	transition-timing-function: ease;
 	border-width: 0px;
 	border-color: #000000;
 	background-color: #000000;
@@ -100,13 +139,26 @@
 	visibility: inherit;
 }
 
-#u594,#u595
+#u595
 {
+	-webkit-transition-duration: 1s;
+	-webkit-transition-delay: 0s;
+	-webkit-transition-timing-function: ease;
+	transition-duration: 1s;
+	transition-delay: 0s;
+	transition-timing-function: ease;
+	background-image: url("../images/blank.gif");
 	background-color: transparent;
 }
 
 #u595:hover
 {
+	-webkit-transition-duration: 0.2s;
+	-webkit-transition-delay: 0s;
+	-webkit-transition-timing-function: ease;
+	transition-duration: 0.2s;
+	transition-delay: 0s;
+	transition-timing-function: ease;
 	border-width: 0px;
 	border-color: #000000;
 	background-color: #000000;
@@ -129,13 +181,26 @@
 	visibility: inherit;
 }
 
-#u601,#u602
+#u602
 {
+	-webkit-transition-duration: 1s;
+	-webkit-transition-delay: 0s;
+	-webkit-transition-timing-function: ease;
+	transition-duration: 1s;
+	transition-delay: 0s;
+	transition-timing-function: ease;
+	background-image: url("../images/blank.gif");
 	background-color: transparent;
 }
 
 #u602:hover
 {
+	-webkit-transition-duration: 0.2s;
+	-webkit-transition-delay: 0s;
+	-webkit-transition-timing-function: ease;
+	transition-duration: 0.2s;
+	transition-delay: 0s;
+	transition-timing-function: ease;
 	border-width: 0px;
 	border-color: #000000;
 	background-color: #000000;
@@ -158,13 +223,31 @@
 	visibility: inherit;
 }
 
-#u1528,#u1529
+#u551,#u579,#u572,#u587,#u594,#u601,#u1528
 {
+	background-color: transparent;
+}
+
+#u1529
+{
+	-webkit-transition-duration: 1s;
+	-webkit-transition-delay: 0s;
+	-webkit-transition-timing-function: ease;
+	transition-duration: 1s;
+	transition-delay: 0s;
+	transition-timing-function: ease;
+	background-image: url("../images/blank.gif");
 	background-color: transparent;
 }
 
 #u1529:hover
 {
+	-webkit-transition-duration: 0.2s;
+	-webkit-transition-delay: 0s;
+	-webkit-transition-timing-function: ease;
+	transition-duration: 0.2s;
+	transition-delay: 0s;
+	transition-timing-function: ease;
 	border-width: 0px;
 	border-color: #000000;
 	background-color: #000000;

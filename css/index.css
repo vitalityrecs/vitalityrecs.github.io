@@ -4,8 +4,8 @@
 
 .version.index /* version checker */
 {
-	color: #0000F8;
-	background-color: #E060AF;
+	color: #00000B;
+	background-color: #D163FD;
 }
 
 #muse_css_mq
@@ -55,9 +55,9 @@
 #u551
 {
 	z-index: 76;
-	width: 207px;
+	width: 158px;
 	position: fixed;
-	top: 41px;
+	top: 35px;
 	left: 50%;
 	margin-left: -455px;
 }
