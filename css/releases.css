@@ -4,8 +4,8 @@
 
 .version.releases /* version checker */
 {
-	color: #0000EB;
-	background-color: #A63B90;
+	color: #0000EC;
+	background-color: #D0A876;
 }
 
 #muse_css_mq
@@ -376,9 +376,9 @@
 	width: 910px;
 	min-height: 25px;
 	background-color: transparent;
+	line-height: 29px;
 	font-size: 24px;
 	text-align: center;
-	line-height: 29px;
 	font-family: '__Montserrat_5';
 	font-weight: 600;
 	margin-left: 20px;
@@ -553,8 +553,8 @@
 	background-color: #494949;
 	background-color: rgba(0,0,0,0.71);
 	padding: 10px;
-	text-align: left;
 	line-height: 20px;
+	text-align: left;
 	color: #FFFFFF;
 	font-family: '__Montserrat_5';
 	font-weight: 400;
@@ -573,8 +573,8 @@
 	background-color: #494949;
 	background-color: rgba(0,0,0,0.71);
 	padding: 10px;
-	text-align: left;
 	line-height: 20px;
+	text-align: left;
 	color: #FFFFFF;
 	font-family: '__Montserrat_5';
 	font-weight: 400;
@@ -616,8 +616,8 @@
 	border-color: transparent;
 	background-color: #FFFFFF;
 	padding: 10px;
-	text-align: center;
 	line-height: 20px;
+	text-align: center;
 	color: #999999;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	left: 390px;
