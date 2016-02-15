@@ -96,6 +96,12 @@ body
 	font-feature-settings: 'liga';
 }
 
+a
+{
+	color: inherit;
+	text-decoration: inherit;
+}
+
 a:link
 {
 	color: #1ECAB4;
@@ -143,6 +149,16 @@ a.nontext /* used to override default properties of 'a' tag */
 	text-indent: 0px;
 	text-transform: none;
 	vertical-align: 0px;
+	padding: 0px;
+}
+
+.Icona-Light---Sub-Menu-Text
+{
+	color: #FFFFFF;
+	font-family: '__Montserrat_5';
+	font-size: 13px;
+	font-weight: 400;
+	text-align: left;
 	padding: 0px;
 }
 
