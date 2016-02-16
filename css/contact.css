@@ -4,8 +4,8 @@
 
 .version.contact /* version checker */
 {
-	color: #000003;
-	background-color: #FDE4EC;
+	color: #00001B;
+	background-color: #52C375;
 }
 
 #muse_css_mq
@@ -441,15 +441,15 @@
 	margin-left: 426px;
 }
 
-#u8962
+#u9407
 {
 	z-index: 101;
-	width: 210px;
-	min-height: 98px;
+	width: 50px;
+	min-height: 25px;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 137px;
-	left: 965px;
+	margin-top: 180px;
+	left: 983px;
 }
 
 #ppu952

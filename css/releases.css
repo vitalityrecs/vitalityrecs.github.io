@@ -4,8 +4,8 @@
 
 .version.releases /* version checker */
 {
-	color: #000018;
-	background-color: #D71985;
+	color: #00001E;
+	background-color: #812B6C;
 }
 
 #muse_css_mq
@@ -660,15 +660,15 @@
 	background: url("../images/loading.gif") no-repeat center center;
 }
 
-#u8962
+#u9407
 {
 	z-index: 129;
-	width: 210px;
-	min-height: 98px;
+	width: 50px;
+	min-height: 25px;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 21px;
-	left: 700px;
+	margin-top: 64px;
+	left: 718px;
 }
 
 #pu952

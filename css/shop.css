@@ -4,8 +4,8 @@
 
 .version.shop /* version checker */
 {
-	color: #0000F3;
-	background-color: #0681FF;
+	color: #0000FB;
+	background-color: #2BB2A0;
 }
 
 #muse_css_mq
@@ -561,15 +561,15 @@
 	margin-left: 426px;
 }
 
-#u8962
+#u9407
 {
 	z-index: 91;
-	width: 210px;
-	min-height: 98px;
+	width: 50px;
+	min-height: 25px;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 137px;
-	left: 965px;
+	margin-top: 180px;
+	left: 983px;
 }
 
 #ppu952

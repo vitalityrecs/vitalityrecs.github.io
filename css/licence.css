@@ -4,8 +4,8 @@
 
 .version.licence /* version checker */
 {
-	color: #000002;
-	background-color: #A0E29E;
+	color: #000009;
+	background-color: #35078F;
 }
 
 #muse_css_mq
@@ -28,12 +28,16 @@
 	margin-right: auto;
 }
 
+#page_position_content
+{
+	margin-top: -36px;
+	width: 0.01px;/* should not cover content below */
+}
+
 #pu543
 {
 	width: 0.01px;
 	padding-bottom: 98px;
-	margin-right: -10000px;
-	margin-top: -36px;
 }
 
 #u543
@@ -388,15 +392,6 @@
 	margin-left: 426px;
 }
 
-#pu446-5
-{
-	width: 0.01px;
-	padding-bottom: 0px;
-	margin-right: -10000px;
-	margin-top: 62px;
-	margin-left: 20px;
-}
-
 #u446-5
 {
 	z-index: 5;
@@ -408,6 +403,7 @@
 	color: #000000;
 	font-family: '__Montserrat_5';
 	font-weight: 400;
+	margin-left: 20px;
 	position: relative;
 }
 
@@ -419,7 +415,8 @@
 #pu447-36
 {
 	width: 0.01px;
-	margin-left: 57px;
+	margin-left: 77px;
+	margin-top: -6px;
 }
 
 #u447-36
@@ -434,6 +431,7 @@
 	font-weight: 400;
 	position: relative;
 	margin-right: -10000px;
+	margin-top: 6px;
 }
 
 #u447-3
@@ -506,32 +504,25 @@
 	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 241px;
+	margin-top: 247px;
 	left: 109px;
 }
 
-#u8962
+#u9407
 {
 	z-index: 121;
-	width: 210px;
-	min-height: 98px;
+	width: 50px;
+	min-height: 25px;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 137px;
-	left: 965px;
-}
-
-#ppu952
-{
-	width: 0.01px;
-	margin-right: -10000px;
-	margin-top: 3px;
+	left: 906px;
 }
 
 #pu952
 {
 	width: 0.01px;
 	margin-left: 300px;
+	margin-top: 3px;
 }
 
 #u952
@@ -613,9 +604,13 @@ body
 	padding-top: 36px;
 }
 
-.verticalspacer
+@font-face
 {
-	min-height: 1px;
+	font-family: '__Montserrat_5';
+	src: url('../fonts/montserrat-bold.eot');
+	src: local('☺'), url('../fonts/montserrat-bold.woff') format('woff');
+	font-weight: 700;
+	font-style: normal;
 }
 
 @font-face
@@ -624,15 +619,6 @@ body
 	src: url('../fonts/montserrat-semibold.eot');
 	src: local('☺'), url('../fonts/montserrat-semibold.woff') format('woff');
 	font-weight: 600;
-	font-style: normal;
-}
-
-@font-face
-{
-	font-family: '__Montserrat_5';
-	src: url('../fonts/montserrat-bold.eot');
-	src: local('☺'), url('../fonts/montserrat-bold.woff') format('woff');
-	font-weight: 700;
 	font-style: normal;
 }
 

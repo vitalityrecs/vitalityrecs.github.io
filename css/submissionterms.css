@@ -4,8 +4,8 @@
 
 .version.submissionterms /* version checker */
 {
-	color: #000003;
-	background-color: #1A06DC;
+	color: #000007;
+	background-color: #DE1956;
 }
 
 #muse_css_mq
@@ -402,15 +402,15 @@
 	left: 20px;
 }
 
-#u8962
+#u9407
 {
 	z-index: 96;
-	width: 210px;
-	min-height: 98px;
+	width: 50px;
+	min-height: 25px;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 137px;
-	left: 965px;
+	margin-top: 180px;
+	left: 983px;
 }
 
 #ppu952

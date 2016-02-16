@@ -49,6 +49,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://vitalityrecs.com/assets/preloader.gif</loc>
+    <lastmod>2016-02-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://vitalityrecs.com/images/black_text.png</loc>
     <lastmod>2016-02-16</lastmod>
     <changefreq>weekly</changefreq>
