@@ -6,6 +6,11 @@
 	border-width: 10px 0px 0px;
 }
 
+#u612
+{
+	background-color: #030303;
+}
+
 #menuu571
 {
 	border-width: 0px;
@@ -230,11 +235,6 @@
 	cursor: pointer;
 }
 
-#u612
-{
-	background-color: #030303;
-}
-
 #u7797,#u7800
 {
 	background-color: #000000;
@@ -289,8 +289,8 @@
 #u617-16
 {
 	background-color: transparent;
-	font-size: 12px;
 	line-height: 14px;
+	font-size: 12px;
 	font-family: '__Montserrat_5';
 	font-weight: 400;
 }

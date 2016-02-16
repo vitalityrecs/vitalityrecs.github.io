@@ -2,10 +2,10 @@
 
 */
 
-.version.release_ava___serene /* version checker */
+.version.vis001 /* version checker */
 {
-	color: #00000F;
-	background-color: #331580;
+	color: #0000F1;
+	background-color: #F8AACE;
 }
 
 #muse_css_mq
@@ -423,9 +423,9 @@
 	width: 610px;
 	min-height: 41px;
 	background-color: transparent;
+	line-height: 36px;
 	font-size: 30px;
 	text-align: center;
-	line-height: 36px;
 	font-family: '__Montserrat_5';
 	font-weight: 600;
 	position: relative;
@@ -453,9 +453,9 @@
 	width: 610px;
 	min-height: 41px;
 	background-color: transparent;
+	line-height: 22px;
 	font-size: 18px;
 	text-align: center;
-	line-height: 22px;
 	font-family: '__Montserrat_5';
 	font-weight: 400;
 	font-style: italic;
@@ -477,10 +477,10 @@
 	transition-timing-function: ease;
 	background-image: url("../images/blank.gif");
 	background-color: #1ECAB4;
-	color: #FFFFFF;
+	line-height: 29px;
 	font-size: 24px;
 	text-align: center;
-	line-height: 29px;
+	color: #FFFFFF;
 	font-family: '__Montserrat_5';
 	font-weight: 600;
 	margin-left: 134px;
@@ -511,10 +511,10 @@
 	transition-timing-function: ease;
 	background-image: url("../images/blank.gif");
 	background-color: #1ECAB4;
-	color: #FFFFFF;
+	line-height: 29px;
 	font-size: 24px;
 	text-align: center;
-	line-height: 29px;
+	color: #FFFFFF;
 	font-family: '__Montserrat_5';
 	font-weight: 600;
 	margin-left: 134px;
@@ -535,10 +535,10 @@
 	transition-timing-function: ease;
 	background-image: url("../images/blank.gif");
 	background-color: #1ECAB4;
-	color: #FFFFFF;
+	line-height: 29px;
 	font-size: 24px;
 	text-align: center;
-	line-height: 29px;
+	color: #FFFFFF;
 	font-family: '__Montserrat_5';
 	font-weight: 600;
 	margin-left: 134px;
@@ -597,10 +597,10 @@
 	transition-timing-function: ease;
 	background-image: url("../images/blank.gif");
 	background-color: #1ECAB4;
-	color: #FFFFFF;
+	line-height: 29px;
 	font-size: 24px;
 	text-align: center;
-	line-height: 29px;
+	color: #FFFFFF;
 	font-family: '__Montserrat_5';
 	font-weight: 600;
 	position: relative;
@@ -712,18 +712,18 @@ body
 @font-face
 {
 	font-family: '__Montserrat_5';
-	src: url('../fonts/montserrat-regular.eot');
-	src: local('☺'), url('../fonts/montserrat-regular.woff') format('woff');
-	font-weight: 400;
+	src: url('../fonts/montserrat-semibold.eot');
+	src: local('☺'), url('../fonts/montserrat-semibold.woff') format('woff');
+	font-weight: 600;
 	font-style: normal;
 }
 
 @font-face
 {
 	font-family: '__Montserrat_5';
-	src: url('../fonts/montserrat-semibold.eot');
-	src: local('☺'), url('../fonts/montserrat-semibold.woff') format('woff');
-	font-weight: 600;
+	src: url('../fonts/montserrat-regular.eot');
+	src: local('☺'), url('../fonts/montserrat-regular.woff') format('woff');
+	font-weight: 400;
 	font-style: normal;
 }
 

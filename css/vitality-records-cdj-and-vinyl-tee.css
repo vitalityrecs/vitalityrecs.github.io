@@ -4,8 +4,8 @@
 
 .version.vitality_records_cdj_and_vinyl_tee /* version checker */
 {
-	color: #0000ED;
-	background-color: #9CB9AA;
+	color: #0000FE;
+	background-color: #73B655;
 }
 
 #muse_css_mq
@@ -688,9 +688,9 @@
 	width: 533px;
 	min-height: 22px;
 	background-color: transparent;
+	line-height: 22px;
 	font-size: 18px;
 	text-align: center;
-	line-height: 22px;
 	font-family: '__Montserrat_5';
 	font-weight: 600;
 	position: relative;
@@ -762,10 +762,10 @@
 	width: 234px;
 	min-height: 26px;
 	background-color: transparent;
-	color: #FFFFFF;
+	line-height: 22px;
 	font-size: 18px;
 	text-align: center;
-	line-height: 22px;
+	color: #FFFFFF;
 	font-family: '__Montserrat_5';
 	font-weight: 400;
 	position: relative;
@@ -812,10 +812,10 @@
 	width: 234px;
 	min-height: 26px;
 	background-color: transparent;
-	color: #FFFFFF;
+	line-height: 22px;
 	font-size: 18px;
 	text-align: center;
-	line-height: 22px;
+	color: #FFFFFF;
 	font-family: '__Montserrat_5';
 	font-weight: 400;
 	position: relative;
@@ -846,8 +846,8 @@
 	width: 107px;
 	min-height: 12px;
 	background-color: transparent;
-	font-size: 12px;
 	line-height: 14px;
+	font-size: 12px;
 	font-family: '__Montserrat_5';
 	font-weight: 600;
 	position: relative;
@@ -943,8 +943,8 @@
 	width: 150px;
 	min-height: 25px;
 	background-color: transparent;
-	font-size: 24px;
 	line-height: 29px;
+	font-size: 24px;
 	font-family: '__Montserrat_5';
 	font-weight: 400;
 	position: relative;
@@ -1165,15 +1165,6 @@ body
 @font-face
 {
 	font-family: '__Montserrat_5';
-	src: url('../fonts/montserrat-bold.eot');
-	src: local('☺'), url('../fonts/montserrat-bold.woff') format('woff');
-	font-weight: 700;
-	font-style: normal;
-}
-
-@font-face
-{
-	font-family: '__Montserrat_5';
 	src: url('../fonts/montserrat-regular.eot');
 	src: local('☺'), url('../fonts/montserrat-regular.woff') format('woff');
 	font-weight: 400;
@@ -1186,6 +1177,15 @@ body
 	src: url('../fonts/montserrat-semibold.eot');
 	src: local('☺'), url('../fonts/montserrat-semibold.woff') format('woff');
 	font-weight: 600;
+	font-style: normal;
+}
+
+@font-face
+{
+	font-family: '__Montserrat_5';
+	src: url('../fonts/montserrat-bold.eot');
+	src: local('☺'), url('../fonts/montserrat-bold.woff') format('woff');
+	font-weight: 700;
 	font-style: normal;
 }
 
