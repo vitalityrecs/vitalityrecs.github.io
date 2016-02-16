@@ -4,8 +4,8 @@
 
 .version.index /* version checker */
 {
-	color: #00000A;
-	background-color: #09DF4D;
+	color: #000001;
+	background-color: #463E1C;
 }
 
 #muse_css_mq
@@ -396,6 +396,7 @@
 #ppamphletu817
 {
 	width: 0.01px;
+	padding-bottom: 1px;
 	margin-left: 20px;
 }
 
@@ -443,8 +444,8 @@
 	min-height: 25px;
 	background-color: #7F7F7F;
 	background-color: rgba(0,0,0,0.5);
-	font-size: 30px;
 	line-height: 36px;
+	font-size: 30px;
 	color: #1ECAB4;
 	font-family: '__Montserrat_5';
 	font-weight: 600;
@@ -459,8 +460,8 @@
 	min-height: 25px;
 	background-color: #7F7F7F;
 	background-color: rgba(0,0,0,0.5);
-	font-size: 18px;
 	line-height: 22px;
+	font-size: 18px;
 	color: #FFFFFF;
 	font-family: '__Montserrat_5';
 	font-weight: 400;
@@ -503,8 +504,8 @@
 	min-height: 25px;
 	background-color: #7F7F7F;
 	background-color: rgba(0,0,0,0.5);
-	font-size: 24px;
 	line-height: 29px;
+	font-size: 24px;
 	color: #1ECAB4;
 	font-family: '__Montserrat_5';
 	font-weight: 600;
@@ -522,8 +523,8 @@
 	min-height: 25px;
 	background-color: #7F7F7F;
 	background-color: rgba(0,0,0,0.5);
-	font-size: 18px;
 	line-height: 22px;
+	font-size: 18px;
 	color: #FFFFFF;
 	font-family: '__Montserrat_5';
 	font-weight: 400;
@@ -645,8 +646,8 @@
 	width: 20px;
 	min-height: 20px;
 	background-color: transparent;
-	text-align: center;
 	line-height: 20px;
+	text-align: center;
 	color: #FFFFFF;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 }
@@ -702,8 +703,8 @@
 	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
-	text-align: center;
 	line-height: 20px;
+	text-align: center;
 	color: #FFFFFF;
 	font-family: '__Montserrat_5';
 	font-weight: 400;
@@ -747,6 +748,24 @@
 	cursor: pointer;
 }
 
+#u8962
+{
+	z-index: 147;
+	width: 210px;
+	min-height: 98px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 75px;
+	left: 945px;
+}
+
+#pu846-4
+{
+	width: 0.01px;
+	margin-left: 20px;
+	margin-top: 67px;
+}
+
 #u846-4
 {
 	z-index: 44;
@@ -755,15 +774,14 @@
 	border-style: solid;
 	border-color: #000000;
 	background-color: transparent;
-	font-size: 24px;
 	line-height: 29px;
+	font-size: 24px;
 	color: #000000;
 	font-family: '__Montserrat_5';
 	font-weight: 600;
 	margin-bottom: -2px;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 429px;
 	border-width: 0px 0px 3px;
 }
 
@@ -775,15 +793,14 @@
 	border-style: solid;
 	border-color: #000000;
 	background-color: transparent;
-	font-size: 24px;
 	line-height: 29px;
+	font-size: 24px;
 	color: #000000;
 	font-family: '__Montserrat_5';
 	font-weight: 600;
 	margin-bottom: -2px;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 429px;
 	left: 648px;
 	border-width: 0px 0px 3px;
 }
@@ -821,8 +838,8 @@
 	border-style: solid;
 	border-color: #000000;
 	background-color: transparent;
-	font-size: 24px;
 	line-height: 29px;
+	font-size: 24px;
 	color: #000000;
 	font-family: '__Montserrat_5';
 	font-weight: 600;
@@ -851,8 +868,8 @@
 	border-style: solid;
 	border-color: #000000;
 	background-color: transparent;
-	font-size: 24px;
 	line-height: 29px;
+	font-size: 24px;
 	color: #000000;
 	font-family: '__Montserrat_5';
 	font-weight: 600;
@@ -993,18 +1010,18 @@ body
 @font-face
 {
 	font-family: '__Montserrat_5';
-	src: url('../fonts/montserrat-regular.eot');
-	src: local('☺'), url('../fonts/montserrat-regular.woff') format('woff');
-	font-weight: 400;
+	src: url('../fonts/montserrat-semibold.eot');
+	src: local('☺'), url('../fonts/montserrat-semibold.woff') format('woff');
+	font-weight: 600;
 	font-style: normal;
 }
 
 @font-face
 {
 	font-family: '__Montserrat_5';
-	src: url('../fonts/montserrat-semibold.eot');
-	src: local('☺'), url('../fonts/montserrat-semibold.woff') format('woff');
-	font-weight: 600;
+	src: url('../fonts/montserrat-regular.eot');
+	src: local('☺'), url('../fonts/montserrat-regular.woff') format('woff');
+	font-weight: 400;
 	font-style: normal;
 }
 

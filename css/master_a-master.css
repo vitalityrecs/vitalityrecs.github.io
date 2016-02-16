@@ -6,13 +6,6 @@
 	border-width: 10px 0px 0px;
 }
 
-#menuu571
-{
-	border-width: 0px;
-	border-color: transparent;
-	background-color: transparent;
-}
-
 #u580
 {
 	-webkit-transition-duration: 0.3s;
@@ -183,6 +176,11 @@
 	font-weight: 600;
 }
 
+#u551,#u579,#u572,#u587,#u594,#u601,#u1528
+{
+	background-color: transparent;
+}
+
 #u1529
 {
 	-webkit-transition-duration: 0.3s;
@@ -243,17 +241,19 @@
 	transform: matrix(0,1,-1,0,29,-24);
 }
 
+#menuu571,#u8962
+{
+	border-width: 0px;
+	border-color: transparent;
+	background-color: transparent;
+}
+
 #u952
 {
 	background-color: transparent;
 	opacity: 0.55;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=55.00000000000001)";
 	filter: alpha(opacity=55.00000000000001);
-}
-
-#u551,#u579,#u572,#u587,#u594,#u601,#u1528,#u1004
-{
-	background-color: transparent;
 }
 
 #u557,#u550
@@ -289,8 +289,8 @@
 #u617-16
 {
 	background-color: transparent;
-	font-size: 12px;
 	line-height: 14px;
+	font-size: 12px;
 	font-family: '__Montserrat_5';
 	font-weight: 400;
 }

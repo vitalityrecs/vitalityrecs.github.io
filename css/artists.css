@@ -4,8 +4,8 @@
 
 .version.artists /* version checker */
 {
-	color: #00001A;
-	background-color: #A50538;
+	color: #000008;
+	background-color: #3723F7;
 }
 
 #muse_css_mq
@@ -400,8 +400,8 @@
 	border-style: solid;
 	border-color: #000000;
 	background-color: transparent;
-	font-size: 24px;
 	line-height: 29px;
+	font-size: 24px;
 	color: #000000;
 	font-family: '__Montserrat_5';
 	font-weight: 600;
@@ -411,11 +411,24 @@
 	border-width: 0px 0px 3px;
 }
 
+#pppu884-4
+{
+	width: 0.01px;
+	margin-left: 211px;
+	margin-top: 32px;
+}
+
+#ppu884-4
+{
+	width: 0.01px;
+	margin-right: -10000px;
+	margin-top: 10px;
+}
+
 #pu884-4
 {
 	width: 0.01px;
-	margin-left: 226px;
-	margin-top: 42px;
+	margin-left: 15px;
 }
 
 #u884-4
@@ -426,9 +439,9 @@
 	border-style: solid;
 	border-color: #000000;
 	background-color: transparent;
+	line-height: 22px;
 	font-size: 18px;
 	text-align: center;
-	line-height: 22px;
 	font-family: '__Montserrat_5';
 	font-weight: 600;
 	position: relative;
@@ -445,9 +458,9 @@
 	border-style: solid;
 	border-color: #000000;
 	background-color: transparent;
+	line-height: 22px;
 	font-size: 18px;
 	text-align: center;
-	line-height: 22px;
 	font-family: '__Montserrat_5';
 	font-weight: 600;
 	position: relative;
@@ -473,7 +486,6 @@
 #pu886-4
 {
 	width: 0.01px;
-	margin-left: 211px;
 }
 
 #u886-4
@@ -484,9 +496,9 @@
 	border-style: solid;
 	border-color: #000000;
 	background-color: transparent;
+	line-height: 22px;
 	font-size: 18px;
 	text-align: center;
-	line-height: 22px;
 	font-family: '__Montserrat_5';
 	font-weight: 600;
 	position: relative;
@@ -504,9 +516,9 @@
 	border-style: solid;
 	border-color: #000000;
 	background-color: transparent;
+	line-height: 22px;
 	font-size: 18px;
 	text-align: center;
-	line-height: 22px;
 	font-family: '__Montserrat_5';
 	font-weight: 600;
 	position: relative;
@@ -524,9 +536,9 @@
 	border-style: solid;
 	border-color: #000000;
 	background-color: transparent;
+	line-height: 22px;
 	font-size: 18px;
 	text-align: center;
-	line-height: 22px;
 	font-family: '__Montserrat_5';
 	font-weight: 600;
 	position: relative;
@@ -544,9 +556,9 @@
 	border-style: solid;
 	border-color: #000000;
 	background-color: transparent;
+	line-height: 22px;
 	font-size: 18px;
 	text-align: center;
-	line-height: 22px;
 	font-family: '__Montserrat_5';
 	font-weight: 600;
 	position: relative;
@@ -564,9 +576,9 @@
 	border-style: solid;
 	border-color: #000000;
 	background-color: transparent;
+	line-height: 22px;
 	font-size: 18px;
 	text-align: center;
-	line-height: 22px;
 	font-family: '__Montserrat_5';
 	font-weight: 600;
 	position: relative;
@@ -584,9 +596,9 @@
 	border-style: solid;
 	border-color: #000000;
 	background-color: transparent;
+	line-height: 22px;
 	font-size: 18px;
 	text-align: center;
-	line-height: 22px;
 	font-family: '__Montserrat_5';
 	font-weight: 600;
 	position: relative;
@@ -608,6 +620,16 @@
 	-ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr='#BFFFFFFF', endColorstr='#FFFFFFFF', GradientType=0)";
 	position: relative;
 	margin-right: -10000px;
+}
+
+#u8962
+{
+	z-index: 122;
+	width: 210px;
+	min-height: 98px;
+	position: relative;
+	margin-right: -10000px;
+	left: 754px;
 }
 
 #u892-6
@@ -712,18 +734,18 @@ body
 @font-face
 {
 	font-family: '__Montserrat_5';
-	src: url('../fonts/montserrat-regular.eot');
-	src: local('☺'), url('../fonts/montserrat-regular.woff') format('woff');
-	font-weight: 400;
+	src: url('../fonts/montserrat-semibold.eot');
+	src: local('☺'), url('../fonts/montserrat-semibold.woff') format('woff');
+	font-weight: 600;
 	font-style: normal;
 }
 
 @font-face
 {
 	font-family: '__Montserrat_5';
-	src: url('../fonts/montserrat-semibold.eot');
-	src: local('☺'), url('../fonts/montserrat-semibold.woff') format('woff');
-	font-weight: 600;
+	src: url('../fonts/montserrat-regular.eot');
+	src: local('☺'), url('../fonts/montserrat-regular.woff') format('woff');
+	font-weight: 400;
 	font-style: normal;
 }
 
