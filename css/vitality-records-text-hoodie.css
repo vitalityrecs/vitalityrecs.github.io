@@ -4,8 +4,8 @@
 
 .version.vitality_records_text_hoodie /* version checker */
 {
-	color: #0000E6;
-	background-color: #E0481C;
+	color: #0000FD;
+	background-color: #3C530B;
 }
 
 #muse_css_mq
@@ -688,9 +688,9 @@
 	width: 533px;
 	min-height: 22px;
 	background-color: transparent;
-	line-height: 22px;
 	font-size: 18px;
 	text-align: center;
+	line-height: 22px;
 	font-family: '__Montserrat_5';
 	font-weight: 600;
 	position: relative;
@@ -762,10 +762,10 @@
 	width: 234px;
 	min-height: 26px;
 	background-color: transparent;
-	line-height: 22px;
+	color: #FFFFFF;
 	font-size: 18px;
 	text-align: center;
-	color: #FFFFFF;
+	line-height: 22px;
 	font-family: '__Montserrat_5';
 	font-weight: 400;
 	position: relative;
@@ -812,10 +812,10 @@
 	width: 234px;
 	min-height: 26px;
 	background-color: transparent;
-	line-height: 22px;
+	color: #FFFFFF;
 	font-size: 18px;
 	text-align: center;
-	color: #FFFFFF;
+	line-height: 22px;
 	font-family: '__Montserrat_5';
 	font-weight: 400;
 	position: relative;
@@ -846,8 +846,8 @@
 	width: 107px;
 	min-height: 12px;
 	background-color: transparent;
-	line-height: 14px;
 	font-size: 12px;
+	line-height: 14px;
 	font-family: '__Montserrat_5';
 	font-weight: 600;
 	position: relative;
@@ -943,8 +943,8 @@
 	width: 150px;
 	min-height: 25px;
 	background-color: transparent;
-	line-height: 29px;
 	font-size: 24px;
+	line-height: 29px;
 	font-family: '__Montserrat_5';
 	font-weight: 400;
 	position: relative;
