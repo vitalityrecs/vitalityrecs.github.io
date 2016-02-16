@@ -4,8 +4,8 @@
 
 .version.licence /* version checker */
 {
-	color: #00000E;
-	background-color: #794CDC;
+	color: #000005;
+	background-color: #0AAC88;
 }
 
 #muse_css_mq
@@ -399,8 +399,8 @@
 	min-height: 95px;
 	background-color: transparent;
 	font-size: 18px;
-	color: #000000;
 	line-height: 22px;
+	color: #000000;
 	font-family: '__Montserrat_5';
 	font-weight: 400;
 	margin-left: 20px;
@@ -604,18 +604,18 @@ body
 @font-face
 {
 	font-family: '__Montserrat_5';
-	src: url('../fonts/montserrat-bold.eot');
-	src: local('☺'), url('../fonts/montserrat-bold.woff') format('woff');
-	font-weight: 700;
+	src: url('../fonts/montserrat-regular.eot');
+	src: local('☺'), url('../fonts/montserrat-regular.woff') format('woff');
+	font-weight: 400;
 	font-style: normal;
 }
 
 @font-face
 {
 	font-family: '__Montserrat_5';
-	src: url('../fonts/montserrat-regular.eot');
-	src: local('☺'), url('../fonts/montserrat-regular.woff') format('woff');
-	font-weight: 400;
+	src: url('../fonts/montserrat-bold.eot');
+	src: local('☺'), url('../fonts/montserrat-bold.woff') format('woff');
+	font-weight: 700;
 	font-style: normal;
 }
 

@@ -4,8 +4,8 @@
 
 .version.shop /* version checker */
 {
-	color: #000001;
-	background-color: #99914F;
+	color: #0000F6;
+	background-color: #DF4524;
 }
 
 #muse_css_mq
@@ -137,9 +137,9 @@
 	border-style: solid;
 	border-color: #000000;
 	background-color: transparent;
-	line-height: 29px;
 	font-size: 24px;
 	text-align: center;
+	line-height: 29px;
 	font-family: '__Montserrat_5';
 	font-weight: 600;
 	position: relative;
