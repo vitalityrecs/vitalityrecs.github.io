@@ -55,6 +55,24 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://vitalityrecs.com/assets/coversmall3.jpg</loc>
+    <lastmod>2016-02-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://vitalityrecs.com/assets/vrpodcast2.mp3</loc>
+    <lastmod>2016-02-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://vitalityrecs.com/assets/vrpodcast1.mp3</loc>
+    <lastmod>2016-02-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://vitalityrecs.com/images/black_text.png</loc>
     <lastmod>2016-02-16</lastmod>
     <changefreq>weekly</changefreq>
@@ -187,6 +205,24 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://vitalityrecs.com/images/cover3.jpg</loc>
+    <lastmod>2016-02-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://vitalityrecs.com/images/cover60x603.jpg</loc>
+    <lastmod>2016-02-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://vitalityrecs.com/images/cover4.jpg</loc>
+    <lastmod>2016-02-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://vitalityrecs.com/index.html</loc>
     <lastmod>2016-02-16</lastmod>
     <changefreq>weekly</changefreq>
@@ -276,6 +312,12 @@
   </url>
   <url>
     <loc>http://vitalityrecs.com/vis001.html</loc>
+    <lastmod>2016-02-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://vitalityrecs.com/vis003.html</loc>
     <lastmod>2016-02-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>

@@ -4,8 +4,8 @@
 
 .version.shop /* version checker */
 {
-	color: #0000FB;
-	background-color: #2BB2A0;
+	color: #00000D;
+	background-color: #7DD23C;
 }
 
 #muse_css_mq
@@ -184,17 +184,17 @@
 	padding-bottom: 53px;
 	margin-right: -10000px;
 	margin-top: -5px;
-	margin-left: 305px;
-	width: 65.79%;
+	margin-left: 277px;
+	width: 68.74%;
 }
 
 #menuu571
 {
 	position: relative;
 	left: -50%;
-	margin-left: 312.5px;
+	margin-left: 326.5px;
 	width: 100%;
-	max-width: 625px;
+	max-width: 653px;
 }
 
 #u579
@@ -202,7 +202,7 @@
 	min-height: 53px;
 	position: relative;
 	margin-right: -10000px;
-	width: 16.32%;
+	width: 16.39%;
 }
 
 #u580
@@ -242,8 +242,8 @@
 	min-height: 53px;
 	position: relative;
 	margin-right: -10000px;
-	width: 16.32%;
-	left: 16.64%;
+	width: 16.39%;
+	left: 16.7%;
 }
 
 #u575
@@ -283,8 +283,8 @@
 	min-height: 53px;
 	position: relative;
 	margin-right: -10000px;
-	width: 16.32%;
-	left: 33.28%;
+	width: 16.39%;
+	left: 33.39%;
 }
 
 #u588
@@ -324,8 +324,8 @@
 	min-height: 53px;
 	position: relative;
 	margin-right: -10000px;
-	width: 16.48%;
-	left: 49.92%;
+	width: 16.39%;
+	left: 50.08%;
 }
 
 #u595
@@ -365,8 +365,8 @@
 	min-height: 53px;
 	position: relative;
 	margin-right: -10000px;
-	width: 16.48%;
-	left: 66.72%;
+	width: 16.39%;
+	left: 66.77%;
 }
 
 #u602
@@ -406,8 +406,8 @@
 	min-height: 53px;
 	position: relative;
 	margin-right: -10000px;
-	width: 16.48%;
-	left: 83.53%;
+	width: 16.54%;
+	left: 83.47%;
 }
 
 #u1529
@@ -464,9 +464,9 @@
 	top: 31px;
 	z-index: 23;
 	left: 50%;
-	margin-left: -170px;
-	width: 65.79%;
-	max-width: 625px;
+	margin-left: -198px;
+	width: 68.74%;
+	max-width: 653px;
 }
 
 #u7797
@@ -477,7 +477,7 @@
 	position: fixed;
 	top: 55px;
 	left: 50%;
-	margin-left: -194px;
+	margin-left: -222px;
 }
 
 #pu1621
