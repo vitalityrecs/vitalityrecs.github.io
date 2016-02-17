@@ -51,8 +51,8 @@ Thanks for tuning in to this week's podcast! See you again soon!]]></description
 
 Thanks for tuning in to this week's podcast! See you again soon!]]></itunes:summary>
         <itunes:image href="http://vitalityrecs.github.io/cover.jpg" />
-        <enclosure url="http://vitalityrecs.github.io/episodes/vrpodcast2.mp3" length="41089637" type="audio/mpeg"/>
-        <guid>http://vitalityrecs.github.io/episodes/vrpodcast2.mp3</guid>
+        <enclosure url="http://vitalityrecs.github.io/assets/vrpodcast2.mp3" length="41089637" type="audio/mpeg"/>
+        <guid>http://vitalityrecs.github.io/assets/vrpodcast2.mp3</guid>
         <pubDate>Fri, 12 Feb 2016 17:00:00 EST</pubDate>
         <itunes:duration>00:41:48</itunes:duration>
         <category>Music</category>
@@ -90,8 +90,8 @@ Thanks for tuning in to this week's podcast! See you next week!]]></description>
 
 Thanks for tuning in to this week's podcast! See you next week!]]></itunes:summary>
         <itunes:image href="http://vitalityrecs.github.io/cover.jpg" />
-        <enclosure url="http://vitalityrecs.github.io/episodes/vrpodcast1.mp3" length="30372327" type="audio/mpeg"/>
-        <guid>http://vitalityrecs.github.io/episodes/vrpodcast1.mp3</guid>
+        <enclosure url="http://vitalityrecs.github.io/assets/vrpodcast1.mp3" length="30372327" type="audio/mpeg"/>
+        <guid>http://vitalityrecs.github.io/assets/vrpodcast1.mp3</guid>
         <pubDate>Mon, 08 Feb 2016 17:00:00 EST</pubDate>
         <itunes:duration>00:31:38</itunes:duration>
         <category>Music</category>
