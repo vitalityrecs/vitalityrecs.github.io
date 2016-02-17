@@ -4,8 +4,8 @@
 
 .version._404 /* version checker */
 {
-	color: #0000EC;
-	background-color: #381F03;
+	color: #0000FC;
+	background-color: #2BE32D;
 }
 
 #muse_css_mq
@@ -28,7 +28,8 @@
 
 #page_position_content
 {
-	padding-bottom: 112px;
+	padding-top: 62px;
+	padding-bottom: 62px;
 	width: 0.01px;/* should not cover content below */
 }
 
@@ -37,9 +38,9 @@
 	z-index: 18;
 	min-height: 148px;
 	background-color: transparent;
-	line-height: 144px;
 	font-size: 120px;
 	color: #FF3D3D;
+	line-height: 144px;
 	text-align: center;
 	font-family: '__Montserrat_5';
 	font-weight: 800;
