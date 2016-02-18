@@ -91,6 +91,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://vitalityrecs.com/assets/rush.mp3</loc>
+    <lastmod>2016-02-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://vitalityrecs.com/images/black_text.png</loc>
     <lastmod>2016-02-17</lastmod>
     <changefreq>weekly</changefreq>
@@ -218,6 +224,12 @@
   </url>
   <url>
     <loc>http://vitalityrecs.com/images/cover4.jpg</loc>
+    <lastmod>2016-02-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://vitalityrecs.com/images/magglassicon.png</loc>
     <lastmod>2016-02-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>

@@ -4,8 +4,8 @@
 
 .version.vis001 /* version checker */
 {
-	color: #0000FF;
-	background-color: #768A8C;
+	color: #0000FA;
+	background-color: #29D9C1;
 }
 
 #muse_css_mq
@@ -38,7 +38,7 @@
 
 #u543
 {
-	z-index: 22;
+	z-index: 26;
 	width: 950px;
 	height: 75px;
 	position: fixed;
@@ -49,7 +49,7 @@
 
 #u551
 {
-	z-index: 24;
+	z-index: 28;
 	width: 158px;
 	position: fixed;
 	top: 35px;
@@ -59,7 +59,7 @@
 
 #u557
 {
-	z-index: 26;
+	z-index: 30;
 	width: 283px;
 	height: 5px;
 	position: fixed;
@@ -70,7 +70,7 @@
 
 #u612
 {
-	z-index: 27;
+	z-index: 31;
 	width: 950px;
 	height: 13px;
 	position: fixed;
@@ -81,7 +81,7 @@
 
 #menuu10621
 {
-	z-index: 57;
+	z-index: 61;
 	width: 625px;
 	position: fixed;
 	top: 36px;
@@ -366,7 +366,7 @@
 	margin: 0px -10000px 0px 0px;
 }
 
-#pu9110
+#ppu9110
 {
 	width: 0.01px;
 	padding-bottom: 0px;
@@ -377,18 +377,57 @@
 
 #u9110
 {
-	z-index: 21;
+	z-index: 20;
 	width: 300px;
 	min-height: 304px;
 	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
 	position: relative;
+	margin-right: -10000px;
+}
+
+#u12200
+{
+	z-index: 21;
+	width: 34px;
+	border-width: 0px;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 266px;
+	left: 266px;
+}
+
+#u12203
+{
+	z-index: 22;
+	width: 34px;
+	height: 34px;
+	background-color: #FFFFFF;
+	opacity: 0.75;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=75)";
+	filter: alpha(opacity=75);
+	border-radius: 10px 0px 0px 0px ;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u12201
+{
+	z-index: 23;
+	width: 27px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 3px;
+	left: 3px;
 }
 
 #u8341
 {
-	z-index: 20;
+	z-index: 25;
 	width: 300px;
 	min-height: 35px;
 	border-width: 0px;
@@ -421,7 +460,7 @@
 	position: relative;
 }
 
-#pu8347
+#pu9110,#pu8347
 {
 	width: 0.01px;
 }
@@ -496,7 +535,7 @@
 
 #u9407
 {
-	z-index: 56;
+	z-index: 60;
 	width: 50px;
 	min-height: 25px;
 	position: relative;
@@ -545,7 +584,7 @@
 
 #u550
 {
-	z-index: 23;
+	z-index: 27;
 	width: 950px;
 	padding-bottom: 11px;
 	margin-top: 13px;
@@ -554,7 +593,7 @@
 
 #u616-4
 {
-	z-index: 28;
+	z-index: 32;
 	width: 257px;
 	min-height: 13px;
 	position: relative;
@@ -565,7 +604,7 @@
 
 #u1317-8
 {
-	z-index: 48;
+	z-index: 52;
 	width: 202px;
 	min-height: 7px;
 	position: relative;
@@ -576,7 +615,7 @@
 
 #u617-16
 {
-	z-index: 32;
+	z-index: 36;
 	width: 287px;
 	min-height: 2px;
 	position: relative;

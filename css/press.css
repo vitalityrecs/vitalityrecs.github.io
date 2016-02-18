@@ -4,8 +4,8 @@
 
 .version.press /* version checker */
 {
-	color: #000015;
-	background-color: #7087F6;
+	color: #000004;
+	background-color: #182393;
 }
 
 #muse_css_mq
@@ -381,9 +381,9 @@
 	min-height: 37px;
 	border-color: #000000;
 	background-color: transparent;
+	line-height: 36px;
 	font-size: 30px;
 	color: #000000;
-	line-height: 36px;
 	text-align: center;
 	font-family: '__Montserrat_5';
 	font-weight: 700;
