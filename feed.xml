@@ -18,6 +18,45 @@
     <itunes:category text="Music"/>
 	
 	<item>
+        <title>Episode #03</title>
+        <itunes:explicit>clean</itunes:explicit>
+        <itunes:author>Vitality Records</itunes:author>
+        <itunes:subtitle>Vitality Records Podcast - Episode 3</itunes:subtitle>
+        <description><![CDATA[Welcome to this week's episode of the Vitality Records Podcast!
+
+-Tracklist-
+
+1. AVA - Soundboy [Coming Soon to Vitality Records!]
+2. Posij - Hunger [MTA Records]
+3. Mean Teath - Transfixed [Santoku Records]
+4. Audiobot - Flavor [Audiobot / AIA]
+5. The Upbeats - The Furies [Drum & Bass Arena]
+6. Alex Perex & Ivy Lab - No One Else [Critical Records]
+7. The Vanguard Project - Rhode House [Spearhead Records]
+
+Thank you for tuning in to this week's podcast! See you next time!]]></description>
+        <itunes:summary><![CDATA[Welcome to this week's episode of the Vitality Records Podcast!
+
+-Tracklist-
+
+1. AVA - Soundboy [Coming Soon to Vitality Records!]
+2. Posij - Hunger [MTA Records]
+3. Mean Teath - Transfixed [Santoku Records]
+4. Audiobot - Flavor [Audiobot / AIA]
+5. The Upbeats - The Furies [Drum & Bass Arena]
+6. Alex Perex & Ivy Lab - No One Else [Critical Records]
+7. The Vanguard Project - Rhode House [Spearhead Records]
+
+Thank you for tuning in to this week's podcast! See you next time!]]></itunes:summary>
+        <itunes:image href="http://vitalityrecs.github.io/cover.jpg" />
+        <enclosure url="http://vitalityrecs.github.io/assets/vrpodcast3.mp3" length="27371799" type="audio/mpeg"/>
+        <guid>http://vitalityrecs.github.io/assets/vrpodcast3.mp3</guid>
+        <pubDate>Thu, 17 Mar 2016 17:00:00 EST</pubDate>
+        <itunes:duration>00:28:30</itunes:duration>
+        <category>Music</category>
+      </item>
+	
+	<item>
         <title>Episode #02</title>
         <itunes:explicit>clean</itunes:explicit>
         <itunes:author>Vitality Records</itunes:author>
