@@ -1,344 +1,139 @@
-#u543
+#u94
 {
 	border-style: solid;
-	border-color: #1ECAB4;
-	background-color: #FFFFFF;
-	border-width: 10px 0px 0px;
+	border-color: #7F7F7F;
+	background-color: #E6E6E6;
+	border-width: 0px 1px 1px;
 }
 
-#u612
-{
-	background-color: #030303;
-}
-
-#u10623
-{
-	-webkit-transition-duration: 0.3s;
-	-webkit-transition-delay: 0s;
-	-webkit-transition-timing-function: ease;
-	transition-duration: 0.3s;
-	transition-delay: 0s;
-	transition-timing-function: ease;
-	background-image: url("../images/blank.gif");
-	border-style: solid;
-	border-color: #000000;
-	background-color: #FFFFFF;
-	border-width: 0px 0px 5px;
-}
-
-#u10623:hover
-{
-	background-color: #8EE4D9;
-	background-color: rgba(30,202,180,0.5);
-	border-radius: 0px;
-	-pie-background: rgba(30,202,180,0.5);
-}
-
-#u10623.MuseMenuActive
-{
-	background-color: #000000;
-	background-color: rgba(0,0,0,1);
-	-pie-background: rgba(0,0,0,1);
-}
-
-#u10625-4
+#menuu158
 {
 	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
-	line-height: 14px;
-	font-size: 12px;
-	text-align: center;
-	color: #000000;
-	font-family: '__Montserrat_5';
-	font-weight: 600;
 }
 
-#u10623:hover #u10625-4 p
-{
-	padding-top: 0px;
-	padding-bottom: 0px;
-	letter-spacing: 2px;
-	text-transform: none;
-	text-decoration: none;
-	font-style: normal;
-}
-
-#u10632
+#u160
 {
 	-webkit-transition-duration: 0.3s;
 	-webkit-transition-delay: 0s;
-	-webkit-transition-timing-function: ease;
+	-webkit-transition-timing-function: ease-in-out;
 	transition-duration: 0.3s;
 	transition-delay: 0s;
-	transition-timing-function: ease;
+	transition-timing-function: ease-in-out;
 	background-image: url("../images/blank.gif");
-	border-style: solid;
-	border-color: #000000;
-	background-color: #FFFFFF;
-	border-width: 0px 0px 5px;
+	background-color: transparent;
 }
 
-#u10632:hover
+#u160:hover
 {
-	background-color: #8EE4D9;
-	background-color: rgba(30,202,180,0.5);
-	border-radius: 0px;
-	-pie-background: rgba(30,202,180,0.5);
+	-webkit-transition-duration: 0.3s;
+	-webkit-transition-delay: 0s;
+	-webkit-transition-timing-function: ease-in-out;
+	transition-duration: 0.3s;
+	transition-delay: 0s;
+	transition-timing-function: ease-in-out;
 }
 
-#u10632.MuseMenuActive
-{
-	background-color: #000000;
-	background-color: rgba(0,0,0,1);
-	-pie-background: rgba(0,0,0,1);
-}
-
-#u10633-4
+#u162-4
 {
 	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
-	line-height: 14px;
-	font-size: 12px;
-	text-align: center;
 	color: #000000;
-	font-family: '__Montserrat_5';
-	font-weight: 600;
-}
-
-#u10632:hover #u10633-4 p
-{
-	padding-top: 0px;
-	padding-bottom: 0px;
-	letter-spacing: 2px;
-	text-transform: none;
-	text-decoration: none;
-	font-style: normal;
-}
-
-#u10669
-{
-	-webkit-transition-duration: 0.3s;
-	-webkit-transition-delay: 0s;
-	-webkit-transition-timing-function: ease;
-	transition-duration: 0.3s;
-	transition-delay: 0s;
-	transition-timing-function: ease;
-	background-image: url("../images/blank.gif");
-	border-style: solid;
-	border-color: #000000;
-	background-color: #FFFFFF;
-	border-width: 0px 0px 5px;
-}
-
-#u10669:hover
-{
-	background-color: #8EE4D9;
-	background-color: rgba(30,202,180,0.5);
-	border-radius: 0px;
-	-pie-background: rgba(30,202,180,0.5);
-}
-
-#u10669.MuseMenuActive
-{
-	background-color: #000000;
-	background-color: rgba(0,0,0,1);
-	-pie-background: rgba(0,0,0,1);
-}
-
-#u10671-4
-{
-	border-width: 0px;
-	border-color: transparent;
-	background-color: transparent;
-	line-height: 14px;
-	font-size: 12px;
 	text-align: center;
-	color: #000000;
 	font-family: '__Montserrat_5';
-	font-weight: 600;
+	font-weight: 700;
 }
 
-#u10669:hover #u10671-4 p
+#u160:hover #u162-4 p
 {
-	padding-top: 0px;
-	padding-bottom: 0px;
-	letter-spacing: 2px;
-	text-transform: none;
-	text-decoration: none;
-	font-style: normal;
-}
-
-#u10688
-{
-	-webkit-transition-duration: 0.3s;
-	-webkit-transition-delay: 0s;
-	-webkit-transition-timing-function: ease;
-	transition-duration: 0.3s;
-	transition-delay: 0s;
-	transition-timing-function: ease;
-	background-image: url("../images/blank.gif");
-	border-style: solid;
-	border-color: #000000;
-	background-color: #FFFFFF;
-	border-width: 0px 0px 5px;
-}
-
-#u10688:hover
-{
-	background-color: #8EE4D9;
-	background-color: rgba(30,202,180,0.5);
-	border-radius: 0px;
-	-pie-background: rgba(30,202,180,0.5);
-}
-
-#u10688.MuseMenuActive
-{
-	background-color: #000000;
-	background-color: rgba(0,0,0,1);
-	-pie-background: rgba(0,0,0,1);
-}
-
-#u10689-4
-{
-	border-width: 0px;
-	border-color: transparent;
-	background-color: transparent;
-	line-height: 14px;
-	font-size: 12px;
-	text-align: center;
-	color: #000000;
-	font-family: '__Montserrat_5';
-	font-weight: 600;
-}
-
-#u10688:hover #u10689-4 p
-{
-	padding-top: 0px;
-	padding-bottom: 0px;
-	letter-spacing: 2px;
-	text-transform: none;
-	text-decoration: none;
-	font-style: normal;
-}
-
-#u10709
-{
-	-webkit-transition-duration: 0.3s;
-	-webkit-transition-delay: 0s;
-	-webkit-transition-timing-function: ease;
-	transition-duration: 0.3s;
-	transition-delay: 0s;
-	transition-timing-function: ease;
-	background-image: url("../images/blank.gif");
-	border-style: solid;
-	border-color: #000000;
-	background-color: #FFFFFF;
-	border-width: 0px 0px 5px;
-}
-
-#u10709:hover
-{
-	background-color: #8EE4D9;
-	background-color: rgba(30,202,180,0.5);
-	border-radius: 0px;
-	-pie-background: rgba(30,202,180,0.5);
-}
-
-#u10709.MuseMenuActive
-{
-	background-color: #000000;
-	background-color: rgba(0,0,0,1);
-	-pie-background: rgba(0,0,0,1);
-}
-
-#u10712-4
-{
-	border-width: 0px;
-	border-color: transparent;
-	background-color: transparent;
-	line-height: 14px;
-	font-size: 12px;
-	text-align: center;
-	color: #000000;
-	font-family: '__Montserrat_5';
-	font-weight: 600;
-}
-
-#u10709:hover #u10712-4 p
-{
-	padding-top: 0px;
-	padding-bottom: 0px;
-	letter-spacing: 2px;
-	text-transform: none;
-	text-decoration: none;
-	font-style: normal;
-}
-
-#u551,#u10622,#u10629,#u10666,#u10687,#u10708,#u10729
-{
-	background-color: transparent;
-}
-
-#u10730
-{
-	-webkit-transition-duration: 0.3s;
-	-webkit-transition-delay: 0s;
-	-webkit-transition-timing-function: ease;
-	transition-duration: 0.3s;
-	transition-delay: 0s;
-	transition-timing-function: ease;
-	background-image: url("../images/blank.gif");
-	border-style: solid;
-	border-color: #000000;
-	background-color: #FFFFFF;
-	border-width: 0px 0px 5px;
-}
-
-#u10730:hover
-{
-	background-color: #8EE4D9;
-	background-color: rgba(30,202,180,0.5);
-	border-radius: 0px;
-	-pie-background: rgba(30,202,180,0.5);
-}
-
-#u10730.MuseMenuActive
-{
-	background-color: #000000;
-	background-color: rgba(0,0,0,1);
-	-pie-background: rgba(0,0,0,1);
-}
-
-#u10732-4
-{
-	border-width: 0px;
-	border-color: transparent;
-	background-color: transparent;
-	line-height: 14px;
-	font-size: 12px;
-	text-align: center;
-	color: #000000;
-	font-family: '__Montserrat_5';
-	font-weight: 600;
-}
-
-#u10730:hover #u10732-4 p
-{
-	padding-top: 0px;
-	padding-bottom: 0px;
-	letter-spacing: 2px;
-	text-transform: none;
-	text-decoration: none;
-	font-style: normal;
-}
-
-#u10623.MuseMenuActive #u10625-4 p,#u10632.MuseMenuActive #u10633-4 p,#u10669.MuseMenuActive #u10671-4 p,#u10688.MuseMenuActive #u10689-4 p,#u10709.MuseMenuActive #u10712-4 p,#u10730.MuseMenuActive #u10732-4 p
-{
-	color: #FFFFFF;
+	color: #7F7F7F;
 	visibility: inherit;
-	letter-spacing: 0px;
+}
+
+#u207
+{
+	-webkit-transition-duration: 0.3s;
+	-webkit-transition-delay: 0s;
+	-webkit-transition-timing-function: ease-in-out;
+	transition-duration: 0.3s;
+	transition-delay: 0s;
+	transition-timing-function: ease-in-out;
+	background-image: url("../images/blank.gif");
+	background-color: transparent;
+}
+
+#u207:hover
+{
+	-webkit-transition-duration: 0.3s;
+	-webkit-transition-delay: 0s;
+	-webkit-transition-timing-function: ease-in-out;
+	transition-duration: 0.3s;
+	transition-delay: 0s;
+	transition-timing-function: ease-in-out;
+}
+
+#u209-4
+{
+	border-width: 0px;
+	border-color: transparent;
+	background-color: transparent;
+	color: #000000;
+	text-align: center;
+	font-family: '__Montserrat_5';
+	font-weight: 700;
+}
+
+#u207:hover #u209-4 p
+{
+	color: #7F7F7F;
+	visibility: inherit;
+}
+
+#u247
+{
+	-webkit-transition-duration: 0.3s;
+	-webkit-transition-delay: 0s;
+	-webkit-transition-timing-function: ease-in-out;
+	transition-duration: 0.3s;
+	transition-delay: 0s;
+	transition-timing-function: ease-in-out;
+	background-image: url("../images/blank.gif");
+	background-color: transparent;
+}
+
+#u247:hover
+{
+	-webkit-transition-duration: 0.3s;
+	-webkit-transition-delay: 0s;
+	-webkit-transition-timing-function: ease-in-out;
+	transition-duration: 0.3s;
+	transition-delay: 0s;
+	transition-timing-function: ease-in-out;
+}
+
+#u250-4
+{
+	border-width: 0px;
+	border-color: transparent;
+	background-color: transparent;
+	color: #000000;
+	text-align: center;
+	font-family: '__Montserrat_5';
+	font-weight: 700;
+}
+
+#u247:hover #u250-4 p
+{
+	color: #7F7F7F;
+	visibility: inherit;
+}
+
+#u160.MuseMenuActive #u162-4 p,#u207.MuseMenuActive #u209-4 p,#u247.MuseMenuActive #u250-4 p
+{
+	color: #000000;
+	visibility: inherit;
 }
 
 .MenuItem /* unifiedNavBar */
@@ -346,55 +141,55 @@
 	cursor: pointer;
 }
 
-#menuu10621,#u9407
+#u317
 {
-	border-width: 0px;
-	border-color: transparent;
-	background-color: transparent;
+	border-style: solid;
+	border-color: #7F7F7F;
+	background-color: #E6E6E6;
+	border-width: 1px 1px 0px;
 }
 
-#u952
+#u364-4
 {
+	border-style: solid;
+	border-color: #000000;
 	background-color: transparent;
-	opacity: 0.55;
-	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=55.00000000000001)";
-	filter: alpha(opacity=55.00000000000001);
+	text-align: center;
+	font-family: '__Montserrat_5';
+	font-weight: 700;
+	border-width: 0px 0px 1px;
 }
 
-#u557,#u550
-{
-	background-color: #000000;
-}
-
-#u616-4
+#u320-17
 {
 	background-color: transparent;
-	color: #FFFFFF;
+	text-align: center;
 	font-family: '__Montserrat_5';
 	font-weight: 400;
 }
 
-#u1317-8
+#u97,#u159,#u204,#u246,#u373
 {
 	background-color: transparent;
-	text-align: center;
 }
 
-#u1317-6
+#u383
 {
-	line-height: 0px;/* 0 for mixed font sized paras; applied on spans instead */
+	background-color: #1DCAB4;
+	border-radius: 10px 0px 0px 10px ;
 }
 
-#u1317,#u1317-3,#u1317-4
+#u386
 {
-	font-size: 11px;
-	line-height: 13px;
+	background-color: #1DCAB4;
+	border-radius: 0px 10px 10px 0px ;
 }
 
-#u617-16
+#u370-4
 {
 	background-color: transparent;
 	line-height: 14px;
+	color: #7F7F7F;
 	font-size: 12px;
 	font-family: '__Montserrat_5';
 	font-weight: 400;

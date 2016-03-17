@@ -98,26 +98,26 @@ body
 
 a:link
 {
-	color: #1ECAB4;
-	text-decoration: none;
+	color: #000000;
+	text-decoration: inherit;
 }
 
 a:visited
 {
-	color: #1ECAB4;
-	text-decoration: underline;
+	color: #000000;
+	text-decoration: inherit;
 }
 
 a:hover
 {
-	color: #009784;
-	text-decoration: underline;
+	color: #7F7F7F;
+	text-decoration: inherit;
 }
 
 a:active
 {
-	color: #1ECAB4;
-	text-decoration: none;
+	color: #000000;
+	text-decoration: inherit;
 }
 
 a.nontext /* used to override default properties of 'a' tag */
@@ -143,16 +143,6 @@ a.nontext /* used to override default properties of 'a' tag */
 	text-indent: 0px;
 	text-transform: none;
 	vertical-align: 0px;
-	padding: 0px;
-}
-
-.Icona-Light---Sub-Menu-Text
-{
-	color: #FFFFFF;
-	font-family: '__Montserrat_5';
-	font-size: 13px;
-	font-weight: 400;
-	text-align: left;
 	padding: 0px;
 }
 
