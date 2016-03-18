@@ -1,12 +1,12 @@
-<manifest alg="2" build="2015.1.1.343" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="vitalityrecs.com" resolutions="1x" timestamp="1458249779702">
+<manifest alg="2" build="2015.1.1.343" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="vitalityrecs.com" resolutions="1x" timestamp="1458273133946">
   <folder name="css">
     <file name="site_global.css" crc="4137875274"/>
-    <file name="master_a-master.css" crc="4245305641" ref="demos:releases:press:index:contact"/>
-    <file name="demos.css" crc="35249775" ref="demos"/>
-    <file name="releases.css" crc="3773217582" ref="releases"/>
-    <file name="press.css" crc="3919319975" ref="press"/>
-    <file name="index.css" crc="4115778280" ref="index"/>
-    <file name="contact.css" crc="269422488" ref="contact"/>
+    <file name="master_a-master.css" crc="473466913" ref="demos:releases:press:index:contact"/>
+    <file name="demos.css" crc="47630856" ref="demos"/>
+    <file name="releases.css" crc="4137856004" ref="releases"/>
+    <file name="press.css" crc="27555699" ref="press"/>
+    <file name="index.css" crc="3838887196" ref="index"/>
+    <file name="contact.css" crc="529016679" ref="contact"/>
   </folder>
   <folder name="fonts">
     <file name="montserrat-bold.woff" crc="180081525"/>
@@ -40,9 +40,9 @@
     <file name="coverbig.jpg" crc="197025368" seo="true" ref="releases"/>
     <file name="artworklarge2.jpg" crc="4034344633" seo="true" ref="releases"/>
   </folder>
-  <file name="index.html" crc="422847980" seo="true" mt="1458249670267" redirect="true"/>
-  <file name="releases.html" crc="4057117043" seo="true" mt="1458249539224" redirect="true"/>
-  <file name="contact.html" crc="4175864637" seo="true" mt="1458245335285" redirect="true"/>
-  <file name="demos.html" crc="3986640444" seo="true" mt="1458247193170" redirect="true"/>
-  <file name="press.html" crc="4101254236" seo="true" mt="1458247001771" redirect="true"/>
+  <file name="index.html" crc="256119075" seo="true" mt="1458273119449" redirect="true"/>
+  <file name="releases.html" crc="4119677236" seo="true" mt="1458273119449" redirect="true"/>
+  <file name="contact.html" crc="481953167" seo="true" mt="1458273119449" redirect="true"/>
+  <file name="demos.html" crc="6560909" seo="true" mt="1458273119449" redirect="true"/>
+  <file name="press.html" crc="275337739" seo="true" mt="1458273119449" redirect="true"/>
 </manifest>

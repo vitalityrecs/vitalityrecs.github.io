@@ -4,8 +4,8 @@
 
 .version.releases /* version checker */
 {
-	color: #0000E0;
-	background-color: #E6BB2E;
+	color: #0000F6;
+	background-color: #A2AC04;
 }
 
 #muse_css_mq
@@ -229,8 +229,8 @@
 	border-style: solid;
 	border-color: #000000;
 	background-color: transparent;
-	line-height: 29px;
 	font-size: 24px;
+	line-height: 29px;
 	font-family: '__Montserrat_5';
 	font-weight: 700;
 	margin-left: 27px;
@@ -305,9 +305,9 @@
 	min-height: 20px;
 	background-color: #999999;
 	background-color: rgba(0,0,0,0.4);
-	line-height: 22px;
 	color: #FFFFFF;
 	font-size: 18px;
+	line-height: 22px;
 	font-family: '__Montserrat_5';
 	font-weight: 700;
 	font-style: italic;
@@ -366,9 +366,9 @@
 	min-height: 20px;
 	background-color: #999999;
 	background-color: rgba(0,0,0,0.4);
-	line-height: 22px;
 	color: #FFFFFF;
 	font-size: 18px;
+	line-height: 22px;
 	font-family: '__Montserrat_5';
 	font-weight: 700;
 	font-style: italic;
@@ -484,9 +484,9 @@
 	min-height: 20px;
 	background-color: #999999;
 	background-color: rgba(0,0,0,0.4);
-	line-height: 22px;
 	color: #FFFFFF;
 	font-size: 18px;
+	line-height: 22px;
 	font-family: '__Montserrat_5';
 	font-weight: 700;
 	font-style: italic;
@@ -502,9 +502,9 @@
 	min-height: 20px;
 	background-color: #999999;
 	background-color: rgba(0,0,0,0.4);
-	line-height: 22px;
 	color: #FFFFFF;
 	font-size: 18px;
+	line-height: 22px;
 	font-family: '__Montserrat_5';
 	font-weight: 700;
 	font-style: italic;
