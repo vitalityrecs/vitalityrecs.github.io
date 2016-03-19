@@ -1,12 +1,13 @@
-<manifest alg="2" build="2015.1.1.343" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="vitalityrecs.com" resolutions="1x" timestamp="1458348911308">
+<manifest alg="2" build="2015.1.1.343" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="vitalityrecs.com" resolutions="1x" timestamp="1458409998410">
   <folder name="css">
-    <file name="site_global.css" crc="3839225928"/>
-    <file name="master_a-master.css" crc="3875084857" ref="demos:releases:press:index:contact"/>
-    <file name="demos.css" crc="4119573478" ref="demos"/>
-    <file name="releases.css" crc="364692270" ref="releases"/>
-    <file name="press.css" crc="406734248" ref="press"/>
-    <file name="index.css" crc="93114556" ref="index"/>
-    <file name="contact.css" crc="163688342" ref="contact"/>
+    <file name="site_global.css" crc="387783956"/>
+    <file name="master_a-master.css" crc="4066647287" ref="demos:releases:press:index:contact:crew-e-mails"/>
+    <file name="demos.css" crc="388008573" ref="demos"/>
+    <file name="releases.css" crc="4074249322" ref="releases"/>
+    <file name="press.css" crc="3768753069" ref="press"/>
+    <file name="index.css" crc="337102059" ref="index"/>
+    <file name="contact.css" crc="12217367" ref="contact"/>
+    <file name="crew-e-mails.css" crc="276138663" ref="crew-e-mails"/>
   </folder>
   <folder name="fonts">
     <file name="montserrat-bold.woff" crc="180081525"/>
@@ -21,29 +22,28 @@
     <file name="loadinggif.gif" crc="363964960" seo="true" mt="1458348865000"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="484278746" ref="index:releases:contact:demos:press"/>
-    <file name="museutils.js" crc="531812214" ref="index:releases:contact:demos:press"/>
-    <file name="whatinput.js" crc="84559013" ref="index:releases:contact:demos:press"/>
-    <file name="jquery.musemenu.js" crc="3902934130" ref="index:releases:contact:demos:press"/>
-    <file name="pie.js" crc="3827607177" ref="index:releases:press"/>
-    <file name="jquery.watch.js" crc="3866665977" ref="index:releases:contact:demos:press"/>
-    <file name="html5shiv.js" crc="4241844378" ref="index:releases:contact:demos:press"/>
+    <file name="jquery-1.8.3.min.js" crc="484278746" ref="index:releases:contact:demos:press:crew-e-mails"/>
+    <file name="museutils.js" crc="531812214" ref="index:releases:contact:demos:press:crew-e-mails"/>
+    <file name="whatinput.js" crc="84559013" ref="index:releases:contact:demos:press:crew-e-mails"/>
+    <file name="jquery.musemenu.js" crc="3902934130" ref="index:releases:contact:demos:press:crew-e-mails"/>
+    <file name="pie.js" crc="3827607177" ref="releases:press"/>
+    <file name="jquery.watch.js" crc="3866665977" ref="index:releases:contact:demos:press:crew-e-mails"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:releases:contact:demos:press:crew-e-mails"/>
   </folder>
   <folder name="images">
     <file name="favicon.ico" crc="472879385" ref="index"/>
-    <file name="black_text_recs.png" crc="108955162" seo="true" ref="index:releases:contact:demos:press"/>
+    <file name="black_text_recs.png" crc="108955162" seo="true" ref="index:releases:contact:demos:press:crew-e-mails"/>
     <file name="blank.gif" crc="4208392903" ref="index:releases:press"/>
-    <file name="coloured_text.png" crc="3873535558" seo="true" ref="index:releases:contact:demos:press"/>
-    <file name="webbg.jpg" crc="79919078" ref="index:releases:contact:demos:press"/>
     <file name="cover.jpg" crc="4218231490" seo="true" ref="releases"/>
     <file name="comingsoontag.png" crc="406542388" seo="true" ref="releases"/>
     <file name="artworklarge.jpg" crc="444013408" seo="true" ref="releases"/>
     <file name="coverbig.jpg" crc="197025368" seo="true" ref="releases"/>
     <file name="artworklarge2.jpg" crc="4034344633" seo="true" ref="releases"/>
   </folder>
-  <file name="index.html" crc="4236641278" seo="true" mt="1458348887352" redirect="true"/>
-  <file name="releases.html" crc="3947076161" seo="true" mt="1458348887352" redirect="true"/>
-  <file name="contact.html" crc="3929263540" seo="true" mt="1458348887352" redirect="true"/>
-  <file name="demos.html" crc="3837903719" seo="true" mt="1458348887352" redirect="true"/>
-  <file name="press.html" crc="378246146" seo="true" mt="1458348887352" redirect="true"/>
+  <file name="index.html" crc="4259513886" seo="true" mt="1458409932817" redirect="true"/>
+  <file name="releases.html" crc="4220668893" seo="true" mt="1458409932817" redirect="true"/>
+  <file name="contact.html" crc="338383267" seo="true" mt="1458409932817" redirect="true"/>
+  <file name="demos.html" crc="436954421" seo="true" mt="1458409932817" redirect="true"/>
+  <file name="press.html" crc="2344603" seo="true" mt="1458409932817" redirect="true"/>
+  <file name="crew-e-mails.html" crc="140195315" seo="true" mt="1458409932817" redirect="true"/>
 </manifest>
