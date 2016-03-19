@@ -4,8 +4,8 @@
 
 .version.releases /* version checker */
 {
-	color: #0000F6;
-	background-color: #A2AC04;
+	color: #000015;
+	background-color: #BCC32E;
 }
 
 #muse_css_mq
@@ -27,17 +27,12 @@
 	margin-right: auto;
 }
 
-#page_position_content
-{
-	margin-top: -1px;
-	margin-bottom: -1px;
-	width: 0.01px;/* should not cover content below */
-}
-
 #pu94
 {
 	width: 0.01px;
 	padding-bottom: 62px;
+	margin-right: -10000px;
+	margin-top: -1px;
 	margin-left: -1px;
 }
 
@@ -221,6 +216,15 @@
 	margin-left: -500px;
 }
 
+#pu750-4
+{
+	width: 0.01px;
+	padding-bottom: 0px;
+	margin-right: -10000px;
+	margin-top: 92px;
+	margin-left: 27px;
+}
+
 #u750-4
 {
 	z-index: 30;
@@ -229,12 +233,10 @@
 	border-style: solid;
 	border-color: #000000;
 	background-color: transparent;
-	font-size: 24px;
 	line-height: 29px;
+	font-size: 24px;
 	font-family: '__Montserrat_5';
 	font-weight: 700;
-	margin-left: 27px;
-	margin-top: 31px;
 	position: relative;
 	border-width: 0px 0px 5px;
 }
@@ -242,7 +244,6 @@
 #ppu696
 {
 	width: 0.01px;
-	margin-left: 27px;
 	margin-top: 20px;
 }
 
@@ -289,9 +290,9 @@
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
 	filter: alpha(opacity=0);
 	line-height: 22px;
-	color: #FFFFFF;
 	font-size: 18px;
 	text-align: center;
+	color: #FFFFFF;
 	font-family: '__Montserrat_5';
 	font-weight: 700;
 	position: relative;
@@ -305,9 +306,9 @@
 	min-height: 20px;
 	background-color: #999999;
 	background-color: rgba(0,0,0,0.4);
-	color: #FFFFFF;
-	font-size: 18px;
 	line-height: 22px;
+	font-size: 18px;
+	color: #FFFFFF;
 	font-family: '__Montserrat_5';
 	font-weight: 700;
 	font-style: italic;
@@ -350,9 +351,9 @@
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
 	filter: alpha(opacity=0);
 	line-height: 22px;
-	color: #FFFFFF;
 	font-size: 18px;
 	text-align: center;
+	color: #FFFFFF;
 	font-family: '__Montserrat_5';
 	font-weight: 700;
 	position: relative;
@@ -366,9 +367,9 @@
 	min-height: 20px;
 	background-color: #999999;
 	background-color: rgba(0,0,0,0.4);
-	color: #FFFFFF;
-	font-size: 18px;
 	line-height: 22px;
+	font-size: 18px;
+	color: #FFFFFF;
 	font-family: '__Montserrat_5';
 	font-weight: 700;
 	font-style: italic;
@@ -423,9 +424,9 @@
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
 	filter: alpha(opacity=0);
 	line-height: 22px;
-	color: #FFFFFF;
 	font-size: 18px;
 	text-align: center;
+	color: #FFFFFF;
 	font-family: '__Montserrat_5';
 	font-weight: 700;
 	position: relative;
@@ -450,9 +451,9 @@
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
 	filter: alpha(opacity=0);
 	line-height: 22px;
-	color: #FFFFFF;
 	font-size: 18px;
 	text-align: center;
+	color: #FFFFFF;
 	font-family: '__Montserrat_5';
 	font-weight: 700;
 	position: relative;
@@ -484,9 +485,9 @@
 	min-height: 20px;
 	background-color: #999999;
 	background-color: rgba(0,0,0,0.4);
-	color: #FFFFFF;
-	font-size: 18px;
 	line-height: 22px;
+	font-size: 18px;
+	color: #FFFFFF;
 	font-family: '__Montserrat_5';
 	font-weight: 700;
 	font-style: italic;
@@ -502,9 +503,9 @@
 	min-height: 20px;
 	background-color: #999999;
 	background-color: rgba(0,0,0,0.4);
-	color: #FFFFFF;
-	font-size: 18px;
 	line-height: 22px;
+	font-size: 18px;
+	color: #FFFFFF;
 	font-family: '__Montserrat_5';
 	font-weight: 700;
 	font-style: italic;
@@ -514,14 +515,27 @@
 	-pie-background: rgba(0,0,0,0.4);
 }
 
+#u809
+{
+	z-index: 104;
+	width: 50px;
+	min-height: 25px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 156px;
+	left: 998px;
+}
+
 #u317
 {
 	z-index: 50;
 	width: 998px;
 	padding-bottom: 16px;
-	left: -1px;
-	margin-top: 20px;
+	margin-bottom: -1px;
 	position: relative;
+	margin-right: -10000px;
+	margin-top: 19px;
+	left: -1px;
 }
 
 #pu364-4
@@ -626,13 +640,9 @@ body
 	min-width: 1000px;
 }
 
-@font-face
+.verticalspacer
 {
-	font-family: '__Montserrat_5';
-	src: url('../fonts/montserrat-bold.eot');
-	src: local('☺'), url('../fonts/montserrat-bold.woff') format('woff');
-	font-weight: 700;
-	font-style: normal;
+	min-height: 1px;
 }
 
 @font-face
@@ -641,6 +651,15 @@ body
 	src: url('../fonts/montserrat-regular.eot');
 	src: local('☺'), url('../fonts/montserrat-regular.woff') format('woff');
 	font-weight: 400;
+	font-style: normal;
+}
+
+@font-face
+{
+	font-family: '__Montserrat_5';
+	src: url('../fonts/montserrat-bold.eot');
+	src: local('☺'), url('../fonts/montserrat-bold.woff') format('woff');
+	font-weight: 700;
 	font-style: normal;
 }
 

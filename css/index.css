@@ -4,8 +4,8 @@
 
 .version.index /* version checker */
 {
-	color: #0000E4;
-	background-color: #D0C51C;
+	color: #000005;
+	background-color: #8CD0BC;
 }
 
 #muse_css_mq
@@ -236,8 +236,8 @@
 	border-style: solid;
 	border-color: #000000;
 	background-color: transparent;
-	font-size: 24px;
 	line-height: 29px;
+	font-size: 24px;
 	font-family: '__Montserrat_5';
 	font-weight: 700;
 	margin-bottom: -5px;
@@ -254,8 +254,8 @@
 	border-style: solid;
 	border-color: #000000;
 	background-color: transparent;
-	font-size: 24px;
 	line-height: 29px;
+	font-size: 24px;
 	font-family: '__Montserrat_5';
 	font-weight: 700;
 	margin-bottom: -5px;
@@ -314,6 +314,17 @@
 	left: 740px;
 }
 
+#u809
+{
+	z-index: 87;
+	width: 50px;
+	min-height: 25px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 9px;
+	left: 980px;
+}
+
 #u548-4
 {
 	z-index: 23;
@@ -322,8 +333,8 @@
 	border-style: solid;
 	border-color: #000000;
 	background-color: transparent;
-	font-size: 24px;
 	line-height: 29px;
+	font-size: 24px;
 	font-family: '__Montserrat_5';
 	font-weight: 700;
 	margin-left: 18px;
@@ -353,8 +364,8 @@
 	border-style: solid;
 	border-color: #000000;
 	background-color: transparent;
-	font-size: 24px;
 	line-height: 29px;
+	font-size: 24px;
 	font-family: '__Montserrat_5';
 	font-weight: 700;
 	margin-left: 18px;
@@ -491,18 +502,18 @@ body
 @font-face
 {
 	font-family: '__Montserrat_5';
-	src: url('../fonts/montserrat-bold.eot');
-	src: local('☺'), url('../fonts/montserrat-bold.woff') format('woff');
-	font-weight: 700;
+	src: url('../fonts/montserrat-regular.eot');
+	src: local('☺'), url('../fonts/montserrat-regular.woff') format('woff');
+	font-weight: 400;
 	font-style: normal;
 }
 
 @font-face
 {
 	font-family: '__Montserrat_5';
-	src: url('../fonts/montserrat-regular.eot');
-	src: local('☺'), url('../fonts/montserrat-regular.woff') format('woff');
-	font-weight: 400;
+	src: url('../fonts/montserrat-bold.eot');
+	src: local('☺'), url('../fonts/montserrat-bold.woff') format('woff');
+	font-weight: 700;
 	font-style: normal;
 }
 

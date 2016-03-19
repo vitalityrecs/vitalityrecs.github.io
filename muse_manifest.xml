@@ -1,12 +1,12 @@
-<manifest alg="2" build="2015.1.1.343" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="vitalityrecs.com" resolutions="1x" timestamp="1458273133946">
+<manifest alg="2" build="2015.1.1.343" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="vitalityrecs.com" resolutions="1x" timestamp="1458348911308">
   <folder name="css">
-    <file name="site_global.css" crc="4137875274"/>
-    <file name="master_a-master.css" crc="473466913" ref="demos:releases:press:index:contact"/>
-    <file name="demos.css" crc="47630856" ref="demos"/>
-    <file name="releases.css" crc="4137856004" ref="releases"/>
-    <file name="press.css" crc="27555699" ref="press"/>
-    <file name="index.css" crc="3838887196" ref="index"/>
-    <file name="contact.css" crc="529016679" ref="contact"/>
+    <file name="site_global.css" crc="3839225928"/>
+    <file name="master_a-master.css" crc="3875084857" ref="demos:releases:press:index:contact"/>
+    <file name="demos.css" crc="4119573478" ref="demos"/>
+    <file name="releases.css" crc="364692270" ref="releases"/>
+    <file name="press.css" crc="406734248" ref="press"/>
+    <file name="index.css" crc="93114556" ref="index"/>
+    <file name="contact.css" crc="163688342" ref="contact"/>
   </folder>
   <folder name="fonts">
     <file name="montserrat-bold.woff" crc="180081525"/>
@@ -18,6 +18,7 @@
     <file name="press-kit-(.png).rar" crc="439311629" seo="true" mt="1458246921000"/>
     <file name="press-kit-(.jpg).rar" crc="411862042" seo="true" mt="1458246924000"/>
     <file name="press-kit-(.eps).rar" crc="3859179276" seo="true" mt="1458246927000"/>
+    <file name="loadinggif.gif" crc="363964960" seo="true" mt="1458348865000"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="484278746" ref="index:releases:contact:demos:press"/>
@@ -40,9 +41,9 @@
     <file name="coverbig.jpg" crc="197025368" seo="true" ref="releases"/>
     <file name="artworklarge2.jpg" crc="4034344633" seo="true" ref="releases"/>
   </folder>
-  <file name="index.html" crc="256119075" seo="true" mt="1458273119449" redirect="true"/>
-  <file name="releases.html" crc="4119677236" seo="true" mt="1458273119449" redirect="true"/>
-  <file name="contact.html" crc="481953167" seo="true" mt="1458273119449" redirect="true"/>
-  <file name="demos.html" crc="6560909" seo="true" mt="1458273119449" redirect="true"/>
-  <file name="press.html" crc="275337739" seo="true" mt="1458273119449" redirect="true"/>
+  <file name="index.html" crc="4236641278" seo="true" mt="1458348887352" redirect="true"/>
+  <file name="releases.html" crc="3947076161" seo="true" mt="1458348887352" redirect="true"/>
+  <file name="contact.html" crc="3929263540" seo="true" mt="1458348887352" redirect="true"/>
+  <file name="demos.html" crc="3837903719" seo="true" mt="1458348887352" redirect="true"/>
+  <file name="press.html" crc="378246146" seo="true" mt="1458348887352" redirect="true"/>
 </manifest>

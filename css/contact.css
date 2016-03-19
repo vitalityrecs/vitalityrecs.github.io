@@ -4,8 +4,8 @@
 
 .version.contact /* version checker */
 {
-	color: #00001F;
-	background-color: #882767;
+	color: #000009;
+	background-color: #C1AF96;
 }
 
 #muse_css_mq
@@ -17,28 +17,22 @@
 {
 	z-index: 1;
 	width: 998px;
-	min-height: 497.99999999999994px;
+	min-height: 498px;
 	background-image: none;
 	border-style: solid;
 	border-width: 1px;
 	border-color: #7F7F7F;
 	background-color: #FFFFFF;
-	padding-bottom: 0px;
 	margin-left: auto;
 	margin-right: auto;
-}
-
-#page_position_content
-{
-	margin-top: -1px;
-	margin-bottom: -1px;
-	width: 0.01px;/* should not cover content below */
 }
 
 #pu94
 {
 	width: 0.01px;
 	padding-bottom: 62px;
+	margin-right: -10000px;
+	margin-top: -1px;
 	margin-left: -1px;
 }
 
@@ -222,6 +216,14 @@
 	margin-left: -500px;
 }
 
+#pu583-4
+{
+	width: 0.01px;
+	margin-right: -10000px;
+	margin-top: 88px;
+	margin-left: 265px;
+}
+
 #u583-4
 {
 	z-index: 2;
@@ -230,12 +232,10 @@
 	border-style: solid;
 	border-color: #000000;
 	background-color: transparent;
-	font-size: 24px;
 	line-height: 29px;
+	font-size: 24px;
 	font-family: '__Montserrat_5';
 	font-weight: 700;
-	margin-left: 265px;
-	margin-top: 27px;
 	position: relative;
 	border-width: 0px 0px 5px;
 }
@@ -246,7 +246,6 @@
 	width: 467px;
 	min-height: 155px;
 	background-color: transparent;
-	margin-left: 265px;
 	margin-top: 15px;
 	position: relative;
 }
@@ -264,14 +263,27 @@
 	line-height: 22px;
 }
 
+#u809
+{
+	z-index: 77;
+	width: 50px;
+	min-height: 25px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 156px;
+	left: 998px;
+}
+
 #u317
 {
 	z-index: 23;
 	width: 998px;
 	padding-bottom: 16px;
-	left: -1px;
-	margin-top: 67px;
+	margin-bottom: -1px;
 	position: relative;
+	margin-right: -10000px;
+	margin-top: 19px;
+	left: -1px;
 }
 
 #pu364-4
@@ -376,13 +388,9 @@ body
 	min-width: 1000px;
 }
 
-@font-face
+.verticalspacer
 {
-	font-family: '__Montserrat_5';
-	src: url('../fonts/montserrat-bold.eot');
-	src: local('☺'), url('../fonts/montserrat-bold.woff') format('woff');
-	font-weight: 700;
-	font-style: normal;
+	min-height: 47px;
 }
 
 @font-face
@@ -391,6 +399,15 @@ body
 	src: url('../fonts/montserrat-regular.eot');
 	src: local('☺'), url('../fonts/montserrat-regular.woff') format('woff');
 	font-weight: 400;
+	font-style: normal;
+}
+
+@font-face
+{
+	font-family: '__Montserrat_5';
+	src: url('../fonts/montserrat-bold.eot');
+	src: local('☺'), url('../fonts/montserrat-bold.woff') format('woff');
+	font-weight: 700;
 	font-style: normal;
 }
 
