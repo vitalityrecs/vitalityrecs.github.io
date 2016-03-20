@@ -98,26 +98,26 @@ body
 
 a:link
 {
-	color: #000000;
-	text-decoration: inherit;
+	color: #0000FF;
+	text-decoration: underline;
 }
 
 a:visited
 {
-	color: #000000;
-	text-decoration: inherit;
+	color: #800080;
+	text-decoration: underline;
 }
 
 a:hover
 {
-	color: #7F7F7F;
-	text-decoration: inherit;
+	color: #0000FF;
+	text-decoration: underline;
 }
 
 a:active
 {
-	color: #000000;
-	text-decoration: inherit;
+	color: #EE0000;
+	text-decoration: underline;
 }
 
 a.nontext /* used to override default properties of 'a' tag */
@@ -126,30 +126,6 @@ a.nontext /* used to override default properties of 'a' tag */
 	text-decoration: none;
 	font-style: normal;
 	font-weight: normal;
-}
-
-.Footer-Link a:link
-{
-	color: #FFFFFF;
-	text-decoration: inherit;
-}
-
-.Footer-Link a:visited
-{
-	color: #FFFFFF;
-	text-decoration: inherit;
-}
-
-.Footer-Link a:hover
-{
-	color: #7F7F7F;
-	text-decoration: inherit;
-}
-
-.Footer-Link a:active
-{
-	color: #FFFFFF;
-	text-decoration: inherit;
 }
 
 .normal_text

@@ -1,9 +1,9 @@
-<manifest alg="2" build="2015.1.1.343" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="vitalityrecs.com" resolutions="1x" timestamp="1458409998410">
+<manifest alg="2" build="2015.1.1.343" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="vitalityrecs.com" resolutions="1x" timestamp="1458484010557">
   <folder name="css">
-    <file name="site_global.css" crc="387783956"/>
-    <file name="master_a-master.css" crc="4066647287" ref="demos:releases:press:index:contact:crew-e-mails"/>
+    <file name="site_global.css" crc="126886547"/>
+    <file name="master_a-master.css" crc="4088448144" ref="demos:releases:press:index:contact:crew-e-mails"/>
     <file name="demos.css" crc="388008573" ref="demos"/>
-    <file name="releases.css" crc="4074249322" ref="releases"/>
+    <file name="releases.css" crc="209125579" ref="releases"/>
     <file name="press.css" crc="3768753069" ref="press"/>
     <file name="index.css" crc="337102059" ref="index"/>
     <file name="contact.css" crc="12217367" ref="contact"/>
@@ -31,17 +31,18 @@
     <file name="html5shiv.js" crc="4241844378" ref="index:releases:contact:demos:press:crew-e-mails"/>
   </folder>
   <folder name="images">
-    <file name="favicon.ico" crc="472879385" ref="index"/>
+    <file name="favicon.ico" crc="472879385" ref="index:releases"/>
     <file name="black_text_recs.png" crc="108955162" seo="true" ref="index:releases:contact:demos:press:crew-e-mails"/>
     <file name="blank.gif" crc="4208392903" ref="index:releases:press"/>
-    <file name="cover.jpg" crc="4218231490" seo="true" ref="releases"/>
+    <file name="cover.jpg" crc="29716898" seo="true" ref="releases"/>
     <file name="comingsoontag.png" crc="406542388" seo="true" ref="releases"/>
     <file name="artworklarge.jpg" crc="444013408" seo="true" ref="releases"/>
     <file name="coverbig.jpg" crc="197025368" seo="true" ref="releases"/>
     <file name="artworklarge2.jpg" crc="4034344633" seo="true" ref="releases"/>
+    <file name="cover2.jpg" crc="4218231490" seo="true" ref="releases"/>
   </folder>
   <file name="index.html" crc="4259513886" seo="true" mt="1458409932817" redirect="true"/>
-  <file name="releases.html" crc="4220668893" seo="true" mt="1458409932817" redirect="true"/>
+  <file name="releases.html" crc="4165330646" seo="true" mt="1458483992113" redirect="true"/>
   <file name="contact.html" crc="338383267" seo="true" mt="1458409932817" redirect="true"/>
   <file name="demos.html" crc="436954421" seo="true" mt="1458409932817" redirect="true"/>
   <file name="press.html" crc="2344603" seo="true" mt="1458409932817" redirect="true"/>
