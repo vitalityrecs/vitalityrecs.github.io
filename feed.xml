@@ -14,7 +14,7 @@
       <itunes:name>Vitality Records</itunes:name>
       <itunes:email>mgmt@vitalityrecs.com</itunes:email>
     </itunes:owner>
-    <itunes:image href="http://vitalityrecs.github.io/cover.jpg" />
+    <itunes:image href="http://vitalityrecs.com/cover.jpg" />
     <itunes:category text="Music"/>
 	<!--Start of new episode-->
 	<item>
@@ -48,9 +48,9 @@ Thank you for tuning in to this week's podcast! See you next time!]]></descripti
 7. The Vanguard Project - Rhode House [Spearhead Records]
 
 Thank you for tuning in to this week's podcast! See you next time!]]></itunes:summary>
-        <itunes:image href="http://vitalityrecs.github.io/cover.jpg" />
-        <enclosure url="http://vitalityrecs.github.io/assets/vrpodcast3.mp3" length="27371799" type="audio/mpeg"/>
-        <guid>http://vitalityrecs.github.io/assets/vrpodcast3.mp3</guid>
+        <itunes:image href="http://vitalityrecs.com/cover.jpg" />
+        <enclosure url="http://vitalityrecs.com/assets/podcast/vrpodcast3.mp3" length="27371799" type="audio/mpeg"/>
+        <guid>http://vitalityrecs.com/assets/podcast/vrpodcast3.mp3</guid>
         <pubDate>Thu, 17 Mar 2016 17:00:00 EST</pubDate>
         <itunes:duration>00:28:30</itunes:duration>
         <category>Music</category>
@@ -89,9 +89,9 @@ Thanks for tuning in to this week's podcast! See you again soon!]]></description
 9. Rameses B - Dream Catcher (feat. Charlotte Haining) [Monstercat]
 
 Thanks for tuning in to this week's podcast! See you again soon!]]></itunes:summary>
-        <itunes:image href="http://vitalityrecs.github.io/cover.jpg" />
-        <enclosure url="http://vitalityrecs.github.io/assets/vrpodcast2.mp3" length="41089637" type="audio/mpeg"/>
-        <guid>http://vitalityrecs.github.io/assets/vrpodcast2.mp3</guid>
+        <itunes:image href="http://vitalityrecs.com/cover.jpg" />
+        <enclosure url="http://vitalityrecs.com/assets/podcast/vrpodcast2.mp3" length="41089637" type="audio/mpeg"/>
+        <guid>http://vitalityrecs.com/assets/podcast/vrpodcast2.mp3</guid>
         <pubDate>Fri, 12 Feb 2016 17:00:00 EST</pubDate>
         <itunes:duration>00:41:48</itunes:duration>
         <category>Music</category>
@@ -128,9 +128,9 @@ Thanks for tuning in to this week's podcast! See you next week!]]></description>
 7. Botnek & I See Monstas - Deeper Love [Monstercat]
 
 Thanks for tuning in to this week's podcast! See you next week!]]></itunes:summary>
-        <itunes:image href="http://vitalityrecs.github.io/cover.jpg" />
-        <enclosure url="http://vitalityrecs.github.io/assets/vrpodcast1.mp3" length="30372327" type="audio/mpeg"/>
-        <guid>http://vitalityrecs.github.io/assets/vrpodcast1.mp3</guid>
+        <itunes:image href="http://vitalityrecs.com/cover.jpg" />
+        <enclosure url="http://vitalityrecs.com/assets/podcast/vrpodcast1.mp3" length="30372327" type="audio/mpeg"/>
+        <guid>http://vitalityrecs.com/assets/podcast/vrpodcast1.mp3</guid>
         <pubDate>Mon, 08 Feb 2016 17:00:00 EST</pubDate>
         <itunes:duration>00:31:38</itunes:duration>
         <category>Music</category>
