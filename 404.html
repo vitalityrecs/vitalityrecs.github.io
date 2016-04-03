@@ -9,6 +9,15 @@ body {
 	width: 600px;
 	margin-left: 10%;
 	text-shadow: 0px 0px 15px rgba(0, 0, 0, 0.5);
+	-webkit-animation-name: body; /* Chrome, Safari, Opera */
+    -webkit-animation-duration: 1.5s; /* Chrome, Safari, Opera */
+    animation-name: body;
+    animation-duration: 1.5s;
+}
+
+@keyframes body {
+    from {margin-top: 15%; opacity: 0.0;}
+    to {margin-top: 8%; opacity: 1.0;}
 }
 
 h1 {

@@ -4,8 +4,8 @@
 
 .version.press /* version checker */
 {
-	color: #00001D;
-	background-color: #7934E6;
+	color: #0000E9;
+	background-color: #0A0341;
 }
 
 #page
@@ -334,7 +334,7 @@
 #u611-4
 {
 	z-index: 18;
-	width: 821px;
+	width: 1160px;
 	min-height: 22px;
 	border-style: solid;
 	border-color: #000000;
@@ -343,7 +343,7 @@
 	line-height: 29px;
 	font-family: '__Montserrat_5';
 	font-weight: 700;
-	margin-left: 190px;
+	margin-left: 20px;
 	margin-top: 85px;
 	position: relative;
 	border-width: 0px 0px 5px;
@@ -352,12 +352,12 @@
 #u608-4
 {
 	z-index: 14;
-	width: 821px;
+	width: 1160px;
 	min-height: 61px;
 	background-color: transparent;
 	font-family: '__Montserrat_5';
 	font-weight: 400;
-	margin-left: 190px;
+	margin-left: 20px;
 	margin-top: 7px;
 	position: relative;
 }
@@ -365,14 +365,14 @@
 #pu599-4
 {
 	width: 0.01px;
-	margin-left: 189px;
+	margin-left: 20px;
 	margin-top: 8px;
 }
 
 #u599-4
 {
 	z-index: 2;
-	width: 237px;
+	width: 337px;
 	min-height: 27px;
 	-webkit-transition-duration: 0.3s;
 	-webkit-transition-delay: 0s;
@@ -404,7 +404,7 @@
 	padding-top: 0px;
 	padding-bottom: 0px;
 	min-height: 27px;
-	width: 237px;
+	width: 337px;
 	margin: 0px -10000px 0px 0px;
 	-pie-background: rgba(255,255,255,0.4);
 }
@@ -412,7 +412,7 @@
 #u602-4
 {
 	z-index: 6;
-	width: 237px;
+	width: 337px;
 	min-height: 27px;
 	-webkit-transition-duration: 0.3s;
 	-webkit-transition-delay: 0s;
@@ -434,7 +434,7 @@
 	font-weight: 700;
 	position: relative;
 	margin-right: -10000px;
-	left: 289px;
+	left: 408px;
 }
 
 #u602-4:hover
@@ -445,7 +445,7 @@
 	padding-top: 0px;
 	padding-bottom: 0px;
 	min-height: 27px;
-	width: 237px;
+	width: 337px;
 	margin: 0px -10000px 0px 0px;
 	-pie-background: rgba(255,255,255,0.4);
 }
@@ -453,7 +453,7 @@
 #u605-4
 {
 	z-index: 10;
-	width: 237px;
+	width: 337px;
 	min-height: 27px;
 	-webkit-transition-duration: 0.3s;
 	-webkit-transition-delay: 0s;
@@ -475,7 +475,7 @@
 	font-weight: 700;
 	position: relative;
 	margin-right: -10000px;
-	left: 578px;
+	left: 817px;
 }
 
 #u605-4:hover
@@ -486,7 +486,7 @@
 	padding-top: 0px;
 	padding-bottom: 0px;
 	min-height: 27px;
-	width: 237px;
+	width: 337px;
 	margin: 0px -10000px 0px 0px;
 	-pie-background: rgba(255,255,255,0.4);
 }
@@ -698,18 +698,18 @@ body
 @font-face
 {
 	font-family: '__Montserrat_5';
-	src: url('../fonts/montserrat-bold.eot');
-	src: local('☺'), url('../fonts/montserrat-bold.woff') format('woff');
-	font-weight: 700;
+	src: url('../fonts/montserrat-regular.eot');
+	src: local('☺'), url('../fonts/montserrat-regular.woff') format('woff');
+	font-weight: 400;
 	font-style: normal;
 }
 
 @font-face
 {
 	font-family: '__Montserrat_5';
-	src: url('../fonts/montserrat-regular.eot');
-	src: local('☺'), url('../fonts/montserrat-regular.woff') format('woff');
-	font-weight: 400;
+	src: url('../fonts/montserrat-bold.eot');
+	src: local('☺'), url('../fonts/montserrat-bold.woff') format('woff');
+	font-weight: 700;
 	font-style: normal;
 }
 

@@ -1,13 +1,13 @@
-<manifest alg="2" build="2015.1.1.343" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="vitalityrecs.com" resolutions="1x" timestamp="1459697325425">
+<manifest alg="2" build="2015.1.1.343" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="vitalityrecs.com" resolutions="1x" timestamp="1459709426767">
   <folder name="css">
-    <file name="site_global.css" crc="387783956"/>
+    <file name="site_global.css" crc="126886547"/>
     <file name="master_a-master.css" crc="450305252" ref="demos:releases:press:index:contact:submit-a-mix"/>
-    <file name="demos.css" crc="402547711" ref="demos"/>
-    <file name="releases.css" crc="4270182886" ref="releases"/>
-    <file name="press.css" crc="494482662" ref="press"/>
-    <file name="index.css" crc="17258879" ref="index"/>
-    <file name="contact.css" crc="190552376" ref="contact"/>
-    <file name="submit-a-mix.css" crc="497682363" ref="submit-a-mix"/>
+    <file name="demos.css" crc="16366635" ref="demos"/>
+    <file name="releases.css" crc="3877647854" ref="releases"/>
+    <file name="press.css" crc="3909747521" ref="press"/>
+    <file name="index.css" crc="507266013" ref="index"/>
+    <file name="contact.css" crc="4030563743" ref="contact"/>
+    <file name="submit-a-mix.css" crc="3788358242" ref="submit-a-mix"/>
   </folder>
   <folder name="fonts">
     <file name="montserrat-bold.woff" crc="180081525"/>
@@ -34,18 +34,18 @@
     <file name="favicon.ico" crc="472879385" ref="index"/>
     <file name="black_text_recs.png" crc="108955162" seo="true" ref="index:releases:contact:demos:press:submit-a-mix"/>
     <file name="blank.gif" crc="4208392903" ref="index:releases:press"/>
-    <file name="cover.jpg" crc="3875457874" seo="true" ref="releases"/>
-    <file name="artworklarge.jpg" crc="302551175" seo="true" ref="releases"/>
-    <file name="artworklarge2.jpg" crc="4132202841" seo="true" ref="releases"/>
-    <file name="cover2.jpg" crc="3875511057" seo="true" ref="releases"/>
+    <file name="cover.jpg" crc="162242966" seo="true" ref="releases"/>
+    <file name="artworklarge.jpg" crc="4146443279" seo="true" ref="releases"/>
+    <file name="artworklarge2.jpg" crc="117773066" seo="true" ref="releases"/>
+    <file name="cover2.jpg" crc="48644412" seo="true" ref="releases"/>
     <file name="white_text_recs.png" crc="4246660463" seo="true" ref="index:releases:contact:demos:press:submit-a-mix"/>
-    <file name="u750-r-grad.png" crc="3819615062" ref="releases"/>
-    <file name="releaserollover.png" crc="3805670043" seo="true" ref="releases"/>
+    <file name="u750-r-grad.png" crc="362440534" ref="releases"/>
+    <file name="releaserollover.png" crc="283166416" seo="true" ref="releases"/>
   </folder>
-  <file name="index.html" crc="246942624" seo="true" mt="1459697297268" redirect="true"/>
-  <file name="releases.html" crc="3865532573" seo="true" mt="1459697297268" redirect="true"/>
-  <file name="contact.html" crc="4236351557" seo="true" mt="1459697297268" redirect="true"/>
-  <file name="demos.html" crc="4052506624" seo="true" mt="1459697297268" redirect="true"/>
-  <file name="press.html" crc="4064595178" seo="true" mt="1459697297268" redirect="true"/>
-  <file name="submit-a-mix.html" crc="4174600114" seo="true" mt="1459697297268" redirect="true"/>
+  <file name="index.html" crc="246942624" seo="true" mt="1459708706774" redirect="true"/>
+  <file name="releases.html" crc="44683076" seo="true" mt="1459708717792" redirect="true"/>
+  <file name="contact.html" crc="4236351557" seo="true" mt="1459708638105" redirect="true"/>
+  <file name="demos.html" crc="4052506624" seo="true" mt="1459708824889" redirect="true"/>
+  <file name="press.html" crc="4064595178" seo="true" mt="1459708895277" redirect="true"/>
+  <file name="submit-a-mix.html" crc="4174600114" seo="true" mt="1459708883375" redirect="true"/>
 </manifest>

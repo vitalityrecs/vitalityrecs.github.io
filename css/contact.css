@@ -4,8 +4,8 @@
 
 .version.contact /* version checker */
 {
-	color: #00000B;
-	background-color: #5B9938;
+	color: #0000F0;
+	background-color: #3D859F;
 }
 
 #page
@@ -569,18 +569,18 @@ body
 @font-face
 {
 	font-family: '__Montserrat_5';
-	src: url('../fonts/montserrat-bold.eot');
-	src: local('☺'), url('../fonts/montserrat-bold.woff') format('woff');
-	font-weight: 700;
+	src: url('../fonts/montserrat-regular.eot');
+	src: local('☺'), url('../fonts/montserrat-regular.woff') format('woff');
+	font-weight: 400;
 	font-style: normal;
 }
 
 @font-face
 {
 	font-family: '__Montserrat_5';
-	src: url('../fonts/montserrat-regular.eot');
-	src: local('☺'), url('../fonts/montserrat-regular.woff') format('woff');
-	font-weight: 400;
+	src: url('../fonts/montserrat-bold.eot');
+	src: local('☺'), url('../fonts/montserrat-bold.woff') format('woff');
+	font-weight: 700;
 	font-style: normal;
 }
 

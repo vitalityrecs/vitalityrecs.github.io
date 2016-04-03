@@ -4,15 +4,15 @@
 
 .version.submit_a_mix /* version checker */
 {
-	color: #00001D;
-	background-color: #AA07BB;
+	color: #0000E1;
+	background-color: #CDC262;
 }
 
 #page
 {
 	z-index: 1;
 	width: 1200px;
-	min-height: 499.9000000000001px;
+	min-height: 499.9499999999998px;
 	background-image: none;
 	border-width: 0px;
 	border-color: transparent;
@@ -334,7 +334,7 @@
 #u1211-4
 {
 	z-index: 2;
-	width: 676px;
+	width: 1032px;
 	min-height: 37px;
 	border-style: solid;
 	border-color: #000000;
@@ -344,7 +344,7 @@
 	line-height: 36px;
 	font-family: '__Montserrat_5';
 	font-weight: 700;
-	margin-left: 262px;
+	margin-left: 84px;
 	margin-top: 80px;
 	position: relative;
 	border-width: 0px 0px 5px;
@@ -353,7 +353,7 @@
 #pu1214
 {
 	width: 0.01px;
-	margin-left: 220px;
+	margin-left: 84px;
 	margin-top: 25px;
 }
 
@@ -368,19 +368,19 @@
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 54px;
+	left: 136px;
 }
 
 #u1218-20
 {
 	z-index: 7;
-	width: 676px;
+	width: 1032px;
 	min-height: 204px;
 	background-color: transparent;
 	font-family: '__Montserrat_5';
 	font-weight: 400;
 	position: relative;
 	margin-right: -10000px;
-	left: 42px;
 }
 
 #u943
@@ -479,7 +479,7 @@
 	min-height: 26px;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 10px;
+	margin-top: 9px;
 	left: 11px;
 }
 
@@ -579,18 +579,18 @@ body
 @font-face
 {
 	font-family: '__Montserrat_5';
-	src: url('../fonts/montserrat-bold.eot');
-	src: local('☺'), url('../fonts/montserrat-bold.woff') format('woff');
-	font-weight: 700;
+	src: url('../fonts/montserrat-regular.eot');
+	src: local('☺'), url('../fonts/montserrat-regular.woff') format('woff');
+	font-weight: 400;
 	font-style: normal;
 }
 
 @font-face
 {
 	font-family: '__Montserrat_5';
-	src: url('../fonts/montserrat-regular.eot');
-	src: local('☺'), url('../fonts/montserrat-regular.woff') format('woff');
-	font-weight: 400;
+	src: url('../fonts/montserrat-bold.eot');
+	src: local('☺'), url('../fonts/montserrat-bold.woff') format('woff');
+	font-weight: 700;
 	font-style: normal;
 }
 

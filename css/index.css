@@ -4,8 +4,8 @@
 
 .version.index /* version checker */
 {
-	color: #000001;
-	background-color: #07597F;
+	color: #00001E;
+	background-color: #3C43DD;
 }
 
 #page
@@ -333,14 +333,14 @@
 #pu523-4
 {
 	width: 0.01px;
-	margin-left: 120px;
+	margin-left: 20px;
 	margin-top: 96px;
 }
 
 #u523-4
 {
 	z-index: 2;
-	width: 480px;
+	width: 580px;
 	min-height: 28px;
 	border-style: solid;
 	border-color: #000000;
@@ -358,7 +358,7 @@
 #u532-4
 {
 	z-index: 17;
-	width: 470px;
+	width: 568px;
 	min-height: 28px;
 	border-style: solid;
 	border-color: #000000;
@@ -370,21 +370,21 @@
 	margin-bottom: -5px;
 	position: relative;
 	margin-right: -10000px;
-	left: 491px;
+	left: 592px;
 	border-width: 0px 0px 5px;
 }
 
 #pu526-11
 {
 	width: 0.01px;
-	margin-left: 120px;
+	margin-left: 20px;
 	margin-top: 23px;
 }
 
 #u526-11
 {
 	z-index: 6;
-	width: 480px;
+	width: 580px;
 	min-height: 608px;
 	background-color: transparent;
 	position: relative;
@@ -400,33 +400,33 @@
 #u535
 {
 	z-index: 21;
-	width: 220px;
+	width: 266px;
 	min-height: 604px;
 	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
-	left: 490px;
+	left: 592px;
 }
 
 #u539
 {
 	z-index: 22;
-	width: 220px;
+	width: 266px;
 	min-height: 608px;
 	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
-	left: 740px;
+	left: 893px;
 }
 
 #u548-4
 {
 	z-index: 23;
-	width: 960px;
+	width: 1159px;
 	min-height: 28px;
 	border-style: solid;
 	border-color: #000000;
@@ -435,7 +435,7 @@
 	line-height: 29px;
 	font-family: '__Montserrat_5';
 	font-weight: 700;
-	margin-left: 120px;
+	margin-left: 20px;
 	margin-top: 23px;
 	position: relative;
 	border-width: 0px 0px 5px;
@@ -444,12 +444,12 @@
 #u551
 {
 	z-index: 27;
-	width: 960px;
+	width: 1159px;
 	min-height: 454px;
 	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
-	margin-left: 120px;
+	margin-left: 20px;
 	margin-top: 22px;
 	position: relative;
 }
@@ -457,7 +457,7 @@
 #u555-4
 {
 	z-index: 28;
-	width: 960px;
+	width: 1159px;
 	min-height: 28px;
 	border-style: solid;
 	border-color: #000000;
@@ -466,7 +466,7 @@
 	line-height: 29px;
 	font-family: '__Montserrat_5';
 	font-weight: 700;
-	margin-left: 120px;
+	margin-left: 20px;
 	margin-top: 27px;
 	position: relative;
 	border-width: 0px 0px 5px;
@@ -681,18 +681,18 @@ body
 @font-face
 {
 	font-family: '__Montserrat_5';
-	src: url('../fonts/montserrat-bold.eot');
-	src: local('☺'), url('../fonts/montserrat-bold.woff') format('woff');
-	font-weight: 700;
+	src: url('../fonts/montserrat-regular.eot');
+	src: local('☺'), url('../fonts/montserrat-regular.woff') format('woff');
+	font-weight: 400;
 	font-style: normal;
 }
 
 @font-face
 {
 	font-family: '__Montserrat_5';
-	src: url('../fonts/montserrat-regular.eot');
-	src: local('☺'), url('../fonts/montserrat-regular.woff') format('woff');
-	font-weight: 400;
+	src: url('../fonts/montserrat-bold.eot');
+	src: local('☺'), url('../fonts/montserrat-bold.woff') format('woff');
+	font-weight: 700;
 	font-style: normal;
 }
 
