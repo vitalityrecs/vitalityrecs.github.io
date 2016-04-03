@@ -1,12 +1,13 @@
-<manifest alg="2" build="2015.1.1.343" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="vitalityrecs.com" resolutions="1x" timestamp="1458683717022">
+<manifest alg="2" build="2015.1.1.343" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="vitalityrecs.com" resolutions="1x" timestamp="1459697325425">
   <folder name="css">
-    <file name="site_global.css" crc="126886547"/>
-    <file name="master_a-master.css" crc="3989508526" ref="demos:releases:press:index:contact"/>
-    <file name="demos.css" crc="3896719981" ref="demos"/>
-    <file name="releases.css" crc="232714597" ref="releases"/>
-    <file name="press.css" crc="3827143890" ref="press"/>
-    <file name="index.css" crc="3807673259" ref="index"/>
-    <file name="contact.css" crc="359294507" ref="contact"/>
+    <file name="site_global.css" crc="387783956"/>
+    <file name="master_a-master.css" crc="450305252" ref="demos:releases:press:index:contact:submit-a-mix"/>
+    <file name="demos.css" crc="402547711" ref="demos"/>
+    <file name="releases.css" crc="4270182886" ref="releases"/>
+    <file name="press.css" crc="494482662" ref="press"/>
+    <file name="index.css" crc="17258879" ref="index"/>
+    <file name="contact.css" crc="190552376" ref="contact"/>
+    <file name="submit-a-mix.css" crc="497682363" ref="submit-a-mix"/>
   </folder>
   <folder name="fonts">
     <file name="montserrat-bold.woff" crc="180081525"/>
@@ -18,30 +19,33 @@
     <file name="press-kit-(.png).rar" crc="439311629" seo="true" mt="1458246921000"/>
     <file name="press-kit-(.jpg).rar" crc="411862042" seo="true" mt="1458246924000"/>
     <file name="press-kit-(.eps).rar" crc="3859179276" seo="true" mt="1458246927000"/>
-    <file name="loadinggif.gif" crc="363964960" seo="true" mt="1458348865000"/>
+    <file name="loadinggif.gif" crc="3829163512" seo="true" mt="1459697138000"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="484278746" ref="index:releases:contact:demos:press"/>
-    <file name="museutils.js" crc="531812214" ref="index:releases:contact:demos:press"/>
-    <file name="whatinput.js" crc="84559013" ref="index:releases:contact:demos:press"/>
-    <file name="jquery.musemenu.js" crc="3902934130" ref="index:releases:contact:demos:press"/>
-    <file name="pie.js" crc="3827607177" ref="releases:press"/>
-    <file name="jquery.watch.js" crc="3866665977" ref="index:releases:contact:demos:press"/>
-    <file name="html5shiv.js" crc="4241844378" ref="index:releases:contact:demos:press"/>
+    <file name="jquery-1.8.3.min.js" crc="484278746" ref="index:releases:contact:demos:press:submit-a-mix"/>
+    <file name="museutils.js" crc="531812214" ref="index:releases:contact:demos:press:submit-a-mix"/>
+    <file name="whatinput.js" crc="84559013" ref="index:releases:contact:demos:press:submit-a-mix"/>
+    <file name="jquery.musemenu.js" crc="3902934130" ref="index:releases:contact:demos:press:submit-a-mix"/>
+    <file name="pie.js" crc="3827607177" ref="press"/>
+    <file name="jquery.watch.js" crc="3866665977" ref="index:releases:contact:demos:press:submit-a-mix"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:releases:contact:demos:press:submit-a-mix"/>
   </folder>
   <folder name="images">
-    <file name="favicon.ico" crc="472879385" ref="index:releases"/>
-    <file name="black_text_recs.png" crc="108955162" seo="true" ref="index:releases:contact:demos:press"/>
+    <file name="favicon.ico" crc="472879385" ref="index"/>
+    <file name="black_text_recs.png" crc="108955162" seo="true" ref="index:releases:contact:demos:press:submit-a-mix"/>
     <file name="blank.gif" crc="4208392903" ref="index:releases:press"/>
-    <file name="cover.jpg" crc="29716898" seo="true" ref="releases"/>
-    <file name="artworklarge.jpg" crc="444013408" seo="true" ref="releases"/>
-    <file name="artworklarge2.jpg" crc="4034344633" seo="true" ref="releases"/>
-    <file name="cover2.jpg" crc="4218231490" seo="true" ref="releases"/>
-    <file name="white_text_recs.png" crc="4246660463" seo="true" ref="index:releases:contact:demos:press"/>
+    <file name="cover.jpg" crc="3875457874" seo="true" ref="releases"/>
+    <file name="artworklarge.jpg" crc="302551175" seo="true" ref="releases"/>
+    <file name="artworklarge2.jpg" crc="4132202841" seo="true" ref="releases"/>
+    <file name="cover2.jpg" crc="3875511057" seo="true" ref="releases"/>
+    <file name="white_text_recs.png" crc="4246660463" seo="true" ref="index:releases:contact:demos:press:submit-a-mix"/>
+    <file name="u750-r-grad.png" crc="3819615062" ref="releases"/>
+    <file name="releaserollover.png" crc="3805670043" seo="true" ref="releases"/>
   </folder>
-  <file name="index.html" crc="435520911" seo="true" mt="1458602727627" redirect="true"/>
-  <file name="releases.html" crc="355276683" seo="true" mt="1458683705434" redirect="true"/>
-  <file name="contact.html" crc="191414357" seo="true" mt="1458602768600" redirect="true"/>
-  <file name="demos.html" crc="4208552679" seo="true" mt="1458602777333" redirect="true"/>
-  <file name="press.html" crc="4086799517" seo="true" mt="1458602845127" redirect="true"/>
+  <file name="index.html" crc="246942624" seo="true" mt="1459697297268" redirect="true"/>
+  <file name="releases.html" crc="3865532573" seo="true" mt="1459697297268" redirect="true"/>
+  <file name="contact.html" crc="4236351557" seo="true" mt="1459697297268" redirect="true"/>
+  <file name="demos.html" crc="4052506624" seo="true" mt="1459697297268" redirect="true"/>
+  <file name="press.html" crc="4064595178" seo="true" mt="1459697297268" redirect="true"/>
+  <file name="submit-a-mix.html" crc="4174600114" seo="true" mt="1459697297268" redirect="true"/>
 </manifest>

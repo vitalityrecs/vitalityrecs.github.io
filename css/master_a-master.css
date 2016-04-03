@@ -1,16 +1,9 @@
 #u94
 {
 	border-style: solid;
-	border-color: #DCDCDC;
-	background-color: #F5F5F5;
+	border-color: #CCCCCC;
+	background-color: #FFFFFF;
 	border-width: 0px 0px 1px;
-}
-
-#u809,#menuu158
-{
-	border-width: 0px;
-	border-color: transparent;
-	background-color: transparent;
 }
 
 #u160
@@ -227,39 +220,61 @@
 #u943
 {
 	border-style: solid;
-	border-color: #7F7F7F;
-	background-color: #2D2D2D;
+	border-color: #CCCCCC;
+	background-color: #0A0A0A;
 	border-width: 1px 0px 0px;
+}
+
+#u809,#menuu158,#u1323,#u1228
+{
+	border-width: 0px;
+	border-color: transparent;
+	background-color: transparent;
+}
+
+#u1222
+{
+	border-style: solid;
+	border-color: #CCCCCC;
+	background-color: transparent;
+	opacity: 0.5;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
+	filter: alpha(opacity=50);
+	border-width: 0px 1px;
+}
+
+#u1225
+{
+	border-style: solid;
+	border-color: #CCCCCC;
+	background-color: transparent;
+	opacity: 0.5;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
+	filter: alpha(opacity=50);
+	border-width: 0px 1px 0px 0px;
+}
+
+#u1320
+{
+	border-style: solid;
+	border-color: #CCCCCC;
+	background-color: transparent;
+	opacity: 0.5;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
+	filter: alpha(opacity=50);
+	border-width: 0px 0px 1px;
 }
 
 #u952-4,#u962-4
 {
-	border-style: solid;
 	border-color: #FFFFFF;
 	background-color: transparent;
 	color: #FFFFFF;
 	font-family: '__Montserrat_5';
 	font-weight: 700;
-	border-width: 0px 0px 1px;
 }
 
-#u955,#u970
-{
-	background-color: #FFFFFF;
-}
-
-#u946-11,#u968-11
-{
-	border-style: solid;
-	border-color: #FFFFFF;
-	background-color: transparent;
-	color: #FFFFFF;
-	font-family: '__Montserrat_5';
-	font-weight: 400;
-	border-width: 0px 1px 0px 0px;
-}
-
-#u949-8,#u969-8
+#u946-11,#u949-11,#u968-11,#u969-8
 {
 	border-color: #FFFFFF;
 	background-color: transparent;

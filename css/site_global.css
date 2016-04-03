@@ -128,6 +128,12 @@ a.nontext /* used to override default properties of 'a' tag */
 	font-weight: normal;
 }
 
+a,.Footer-Link a
+{
+	color: inherit;
+	text-decoration: inherit;
+}
+
 .Footer-Link a:link
 {
 	color: #FFFFFF;
