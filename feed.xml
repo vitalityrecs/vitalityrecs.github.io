@@ -18,6 +18,46 @@
     <itunes:category text="Music"/>
 	<!--Start of new episode-->
 	<item>
+        <title>Vitality Podcast - EP:04</title>
+        <itunes:explicit>clean</itunes:explicit>
+        <itunes:author>Vitality Records</itunes:author>
+        <itunes:subtitle>Vitality Podcast - EP:04</itunes:subtitle>
+        <description><![CDATA[Welcome to this week's episode of the Vitality Records Podcast!
+
+-Tracklist-
+
+1. Bustre - Empire [Bustre]
+2. 64:INIT - Serenade [Vitality Records]
+3. Etherwood & Royalston - Eyes on Me [Med School Records]
+4. SubMarine - Void [Demand Records]
+5. Omni Trio - Renegade Snares [Moving Shadow]
+6. London Elektricity - Had a Little Fight [Hospital Records]
+7. Full Kontakt - Mind Overload [Formation Records]
+
+Thank you for tuning in to this week's podcast! See you next time!]]></description>
+        <itunes:summary><![CDATA[Welcome to this week's episode of the Vitality Records Podcast!
+
+-Tracklist-
+
+1. Bustre - Empire [Bustre]
+2. 64:INIT - Serenade [Vitality Records]
+3. Etherwood & Royalston - Eyes on Me [Med School Records]
+4. SubMarine - Void [Demand Records]
+5. Omni Trio - Renegade Snares [Moving Shadow]
+6. London Elektricity - Had a Little Fight [Hospital Records]
+7. Full Kontakt - Mind Overload [Formation Records]
+
+Thank you for tuning in to this week's podcast! See you next time!]]></itunes:summary>
+        <itunes:image href="http://vitalityrecs.com/cover.jpg" />
+        <enclosure url="http://vitalityrecs.com/assets/podcast/vrpodcast4.mp3" length="29028251" type="audio/mpeg"/>
+        <guid>http://vitalityrecs.com/assets/podcast/vrpodcast4.mp3</guid>
+        <pubDate>Sun, 3 Apr 2016 17:00:00 EST</pubDate>
+        <itunes:duration>00:30:14</itunes:duration>
+        <category>Music</category>
+      </item>
+	<!--End of new episode-->
+	<!--Start of new episode-->
+	<item>
         <title>Vitality Podcast - EP:03</title>
         <itunes:explicit>clean</itunes:explicit>
         <itunes:author>Vitality Records</itunes:author>
