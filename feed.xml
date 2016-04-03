@@ -12,11 +12,11 @@
     <itunes:summary>Welcome to the Vitality Records podcast! A weekly podcast featuring ~30 minutes of the best drum &amp; bass releases from us and others!</itunes:summary>  
     <itunes:owner>
       <itunes:name>Vitality Records</itunes:name>
-      <itunes:email>vitalityrecs@gmail.com</itunes:email>
+      <itunes:email>mgmt@vitalityrecs.com</itunes:email>
     </itunes:owner>
     <itunes:image href="http://vitalityrecs.github.io/cover.jpg" />
     <itunes:category text="Music"/>
-	
+	<!--Start of new episode-->
 	<item>
         <title>Vitality Podcast - EP:03</title>
         <itunes:explicit>clean</itunes:explicit>
@@ -55,7 +55,7 @@ Thank you for tuning in to this week's podcast! See you next time!]]></itunes:su
         <itunes:duration>00:28:30</itunes:duration>
         <category>Music</category>
       </item>
-	
+	<!--End of new episode-->
 	<item>
         <title>Vitality Podcast - EP:02</title>
         <itunes:explicit>clean</itunes:explicit>
