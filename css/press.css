@@ -4,8 +4,8 @@
 
 .version.press /* version checker */
 {
-	color: #0000E9;
-	background-color: #0A0341;
+	color: #00000B;
+	background-color: #A4912B;
 }
 
 #page
@@ -40,7 +40,7 @@
 #u94
 {
 	z-index: 22;
-	height: 62px;
+	height: 60px;
 	position: fixed;
 	top: 0px;
 }
@@ -69,19 +69,30 @@
 	filter: alpha(opacity=1);
 }
 
-#menuu158
+#u1470
 {
-	z-index: 25;
-	width: 490px;
+	z-index: 59;
+	width: 2px;
+	height: 62px;
 	position: fixed;
 	top: 0px;
 	left: 50%;
-	margin-left: 90px;
+	margin-left: 107px;
+}
+
+#menuu158
+{
+	z-index: 25;
+	width: 471px;
+	position: fixed;
+	top: 0px;
+	left: 50%;
+	margin-left: 109px;
 }
 
 #u159
 {
-	width: 96px;
+	width: 92px;
 	min-height: 62px;
 	position: relative;
 	margin-right: -10000px;
@@ -89,21 +100,21 @@
 
 #u160
 {
-	width: 96px;
+	width: 92px;
 	padding-bottom: 45px;
 	position: relative;
 }
 
 #u160:hover
 {
-	width: 96px;
+	width: 92px;
 	min-height: 0px;
 	margin: 0px;
 }
 
 #u162-4
 {
-	width: 96px;
+	width: 92px;
 	min-height: 17px;
 	position: relative;
 	margin-right: -10000px;
@@ -115,36 +126,43 @@
 	padding-top: 0px;
 	padding-bottom: 0px;
 	min-height: 17px;
-	width: 96px;
+	width: 92px;
 	margin: 0px -10000px 0px 0px;
 }
 
 #u204
 {
-	width: 96px;
+	width: 92px;
 	min-height: 62px;
 	position: relative;
 	margin-right: -10000px;
-	left: 98px;
+	left: 94px;
 }
 
 #u207
 {
-	width: 96px;
+	width: 92px;
 	padding-bottom: 45px;
 	position: relative;
 }
 
 #u160.MuseMenuActive,#u207:hover
 {
-	width: 96px;
+	width: 92px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#u207.MuseMenuActive
+{
+	width: 92px;
 	min-height: 0px;
 	margin: 0px;
 }
 
 #u209-4
 {
-	width: 96px;
+	width: 92px;
 	min-height: 17px;
 	position: relative;
 	margin-right: -10000px;
@@ -156,141 +174,134 @@
 	padding-top: 0px;
 	padding-bottom: 0px;
 	min-height: 17px;
-	width: 96px;
+	width: 92px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u207.MuseMenuActive #u209-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 17px;
+	width: 92px;
 	margin: 0px -10000px 0px 0px;
 }
 
 #u246
 {
-	width: 96px;
+	width: 93px;
 	min-height: 62px;
 	position: relative;
 	margin-right: -10000px;
-	left: 196px;
+	left: 188px;
 }
 
 #u247
 {
-	width: 96px;
+	width: 93px;
 	padding-bottom: 45px;
 	position: relative;
 }
 
-#u207.MuseMenuActive,#u247:hover
+#u247:hover
 {
-	width: 96px;
-	min-height: 0px;
-	margin: 0px;
-}
-
-#u247.MuseMenuActive
-{
-	width: 96px;
+	width: 93px;
 	min-height: 0px;
 	margin: 0px;
 }
 
 #u250-4
 {
-	width: 96px;
+	width: 93px;
 	min-height: 17px;
 	position: relative;
 	margin-right: -10000px;
 	top: 22px;
 }
 
-#u207.MuseMenuActive #u209-4,#u247:hover #u250-4
+#u247:hover #u250-4
 {
 	padding-top: 0px;
 	padding-bottom: 0px;
 	min-height: 17px;
-	width: 96px;
-	margin: 0px -10000px 0px 0px;
-}
-
-#u247.MuseMenuActive #u250-4
-{
-	padding-top: 0px;
-	padding-bottom: 0px;
-	min-height: 17px;
-	width: 96px;
+	width: 93px;
 	margin: 0px -10000px 0px 0px;
 }
 
 #u880
 {
-	width: 97px;
+	width: 93px;
 	min-height: 62px;
 	position: relative;
 	margin-right: -10000px;
-	left: 294px;
+	left: 283px;
 }
 
 #u881
 {
-	width: 97px;
+	width: 93px;
 	padding-bottom: 45px;
 	position: relative;
 }
 
-#u881:hover
+#u247.MuseMenuActive,#u881:hover
 {
-	width: 97px;
+	width: 93px;
 	min-height: 0px;
 	margin: 0px;
 }
 
 #u882-4
 {
-	width: 97px;
+	width: 93px;
 	min-height: 17px;
 	position: relative;
 	margin-right: -10000px;
 	top: 22px;
 }
 
-#u881:hover #u882-4
+#u247.MuseMenuActive #u250-4,#u881:hover #u882-4
 {
 	padding-top: 0px;
 	padding-bottom: 0px;
 	min-height: 17px;
-	width: 97px;
+	width: 93px;
 	margin: 0px -10000px 0px 0px;
 }
 
 #u922
 {
-	width: 97px;
+	width: 93px;
 	min-height: 62px;
 	position: relative;
 	margin-right: -10000px;
-	left: 393px;
+	left: 378px;
 }
 
 #u925
 {
-	width: 97px;
+	width: 93px;
 	padding-bottom: 45px;
 	position: relative;
 }
 
 #u881.MuseMenuActive,#u925:hover
 {
-	width: 97px;
+	width: 93px;
 	min-height: 0px;
 	margin: 0px;
 }
 
 #u925.MuseMenuActive
 {
-	width: 97px;
+	width: 93px;
 	min-height: 0px;
 	margin: 0px;
 }
 
 #u926-4
 {
-	width: 97px;
+	width: 93px;
 	min-height: 17px;
 	position: relative;
 	margin-right: -10000px;
@@ -302,7 +313,7 @@
 	padding-top: 0px;
 	padding-bottom: 0px;
 	min-height: 17px;
-	width: 97px;
+	width: 93px;
 	margin: 0px -10000px 0px 0px;
 }
 
@@ -311,8 +322,63 @@
 	padding-top: 0px;
 	padding-bottom: 0px;
 	min-height: 17px;
-	width: 97px;
+	width: 93px;
 	margin: 0px -10000px 0px 0px;
+}
+
+#u1467
+{
+	z-index: 58;
+	width: 2px;
+	height: 62px;
+	position: fixed;
+	top: 0px;
+	left: 50%;
+	margin-left: 201px;
+}
+
+#u1473
+{
+	z-index: 60;
+	width: 2px;
+	height: 62px;
+	position: fixed;
+	top: 0px;
+	left: 50%;
+	margin-left: 295px;
+}
+
+#u1476
+{
+	z-index: 61;
+	width: 2px;
+	height: 62px;
+	position: fixed;
+	top: 0px;
+	left: 50%;
+	margin-left: 390px;
+}
+
+#u1479
+{
+	z-index: 62;
+	width: 2px;
+	height: 62px;
+	position: fixed;
+	top: 0px;
+	left: 50%;
+	margin-left: 485px;
+}
+
+#u1482
+{
+	z-index: 63;
+	width: 2px;
+	height: 62px;
+	position: fixed;
+	top: 0px;
+	left: 50%;
+	margin-left: 580px;
 }
 
 #u97
@@ -386,10 +452,10 @@
 	border-color: #000000;
 	background-color: #000000;
 	border-radius: 3px;
-	color: #FFFFFF;
+	line-height: 22px;
 	font-size: 18px;
 	text-align: center;
-	line-height: 22px;
+	color: #FFFFFF;
 	font-family: '__Montserrat_5';
 	font-weight: 700;
 	position: relative;
@@ -426,10 +492,10 @@
 	border-color: #000000;
 	background-color: #000000;
 	border-radius: 3px;
-	color: #FFFFFF;
+	line-height: 22px;
 	font-size: 18px;
 	text-align: center;
-	line-height: 22px;
+	color: #FFFFFF;
 	font-family: '__Montserrat_5';
 	font-weight: 700;
 	position: relative;
@@ -467,10 +533,10 @@
 	border-color: #000000;
 	background-color: #000000;
 	border-radius: 3px;
-	color: #FFFFFF;
+	line-height: 22px;
 	font-size: 18px;
 	text-align: center;
-	line-height: 22px;
+	color: #FFFFFF;
 	font-family: '__Montserrat_5';
 	font-weight: 700;
 	position: relative;
@@ -504,7 +570,7 @@
 
 #u943
 {
-	z-index: 58;
+	z-index: 64;
 	min-height: 114px;
 }
 
@@ -527,7 +593,7 @@
 
 #u1323
 {
-	z-index: 59;
+	z-index: 65;
 	width: 336px;
 	position: relative;
 	margin-right: -10000px;
@@ -535,7 +601,7 @@
 
 #u1228
 {
-	z-index: 60;
+	z-index: 66;
 	width: 336px;
 	position: relative;
 	margin-right: -10000px;
@@ -543,7 +609,7 @@
 
 #u1222
 {
-	z-index: 61;
+	z-index: 67;
 	width: 334px;
 	height: 115px;
 	position: relative;
@@ -552,7 +618,7 @@
 
 #u1225
 {
-	z-index: 62;
+	z-index: 68;
 	width: 149px;
 	height: 115px;
 	position: relative;
@@ -562,7 +628,7 @@
 
 #u1320
 {
-	z-index: 63;
+	z-index: 69;
 	width: 335px;
 	height: 36px;
 	position: relative;
@@ -571,7 +637,7 @@
 
 #u946-11
 {
-	z-index: 64;
+	z-index: 70;
 	width: 92px;
 	min-height: 51px;
 	position: relative;
@@ -582,7 +648,7 @@
 
 #u949-11
 {
-	z-index: 75;
+	z-index: 81;
 	width: 79px;
 	min-height: 51px;
 	position: relative;
@@ -593,7 +659,7 @@
 
 #u952-4
 {
-	z-index: 86;
+	z-index: 92;
 	width: 148px;
 	min-height: 26px;
 	position: relative;
@@ -604,7 +670,7 @@
 
 #u962-4
 {
-	z-index: 90;
+	z-index: 96;
 	width: 165px;
 	min-height: 26px;
 	position: relative;
@@ -615,7 +681,7 @@
 
 #u968-11
 {
-	z-index: 94;
+	z-index: 100;
 	width: 89px;
 	min-height: 51px;
 	position: relative;
@@ -626,7 +692,7 @@
 
 #u969-8
 {
-	z-index: 105;
+	z-index: 111;
 	width: 88px;
 	min-height: 51px;
 	position: relative;
@@ -646,7 +712,7 @@
 
 #u1148
 {
-	z-index: 119;
+	z-index: 125;
 	width: 93px;
 	margin-left: 101px;
 	position: relative;
@@ -660,7 +726,7 @@
 
 #u958-6
 {
-	z-index: 113;
+	z-index: 119;
 	width: 194px;
 	min-height: 13px;
 	margin-top: 13px;
@@ -679,7 +745,7 @@
 
 #u943-bw
 {
-	z-index: 58;
+	z-index: 64;
 	min-height: 114px;
 	margin-top: 157px;
 }
@@ -698,18 +764,18 @@ body
 @font-face
 {
 	font-family: '__Montserrat_5';
-	src: url('../fonts/montserrat-regular.eot');
-	src: local('☺'), url('../fonts/montserrat-regular.woff') format('woff');
-	font-weight: 400;
+	src: url('../fonts/montserrat-bold.eot');
+	src: local('☺'), url('../fonts/montserrat-bold.woff') format('woff');
+	font-weight: 700;
 	font-style: normal;
 }
 
 @font-face
 {
 	font-family: '__Montserrat_5';
-	src: url('../fonts/montserrat-bold.eot');
-	src: local('☺'), url('../fonts/montserrat-bold.woff') format('woff');
-	font-weight: 700;
+	src: url('../fonts/montserrat-regular.eot');
+	src: local('☺'), url('../fonts/montserrat-regular.woff') format('woff');
+	font-weight: 400;
 	font-style: normal;
 }
 

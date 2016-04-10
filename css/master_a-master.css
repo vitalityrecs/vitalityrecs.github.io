@@ -1,9 +1,9 @@
 #u94
 {
 	border-style: solid;
-	border-color: #CCCCCC;
-	background-color: #FFFFFF;
-	border-width: 0px 0px 1px;
+	border-color: #000000;
+	border-width: 0px 0px 2px;
+	background: #FFFFFF url("../images/whitecaution.jpg") repeat-x center center;
 }
 
 #u160
@@ -34,8 +34,8 @@
 	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
-	color: #000000;
 	text-align: center;
+	color: #000000;
 	font-family: '__Montserrat_5';
 	font-weight: 700;
 }
@@ -74,13 +74,13 @@
 	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
-	color: #000000;
 	text-align: center;
+	color: #000000;
 	font-family: '__Montserrat_5';
 	font-weight: 700;
 }
 
-#u207:hover #u209-4 p
+#u160.MuseMenuActive #u162-4 p,#u207:hover #u209-4 p
 {
 	color: #FFFFFF;
 	visibility: inherit;
@@ -114,13 +114,13 @@
 	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
-	color: #000000;
 	text-align: center;
+	color: #000000;
 	font-family: '__Montserrat_5';
 	font-weight: 700;
 }
 
-#u247:hover #u250-4 p
+#u207.MuseMenuActive #u209-4 p,#u247:hover #u250-4 p
 {
 	color: #FFFFFF;
 	visibility: inherit;
@@ -154,13 +154,13 @@
 	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
-	color: #000000;
 	text-align: center;
+	color: #000000;
 	font-family: '__Montserrat_5';
 	font-weight: 700;
 }
 
-#u881:hover #u882-4 p
+#u247.MuseMenuActive #u250-4 p,#u881:hover #u882-4 p
 {
 	color: #FFFFFF;
 	visibility: inherit;
@@ -194,21 +194,21 @@
 	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
-	color: #000000;
 	text-align: center;
+	color: #000000;
 	font-family: '__Montserrat_5';
 	font-weight: 700;
 }
 
-#u925:hover #u926-4 p
+#u881.MuseMenuActive #u882-4 p,#u925:hover #u926-4 p
 {
 	color: #FFFFFF;
 	visibility: inherit;
 }
 
-#u160.MuseMenuActive #u162-4 p,#u207.MuseMenuActive #u209-4 p,#u247.MuseMenuActive #u250-4 p,#u881.MuseMenuActive #u882-4 p,#u925.MuseMenuActive #u926-4 p
+#u925.MuseMenuActive #u926-4 p
 {
-	color: #000000;
+	color: #FFFFFF;
 	visibility: inherit;
 }
 
@@ -217,12 +217,17 @@
 	cursor: pointer;
 }
 
+#u1470,#u160.MuseMenuActive,#u207.MuseMenuActive,#u247.MuseMenuActive,#u881.MuseMenuActive,#u925.MuseMenuActive,#u1467,#u1473,#u1476,#u1479,#u1482
+{
+	background-color: #000000;
+}
+
 #u943
 {
 	border-style: solid;
 	border-color: #CCCCCC;
-	background-color: #0A0A0A;
 	border-width: 1px 0px 0px;
+	background: #0A0A0A url("../images/blackcaution.jpg") repeat-x center center;
 }
 
 #u809,#menuu158,#u1323,#u1228
@@ -283,7 +288,7 @@
 	font-weight: 400;
 }
 
-#u159,#u160.MuseMenuActive,#u204,#u207.MuseMenuActive,#u246,#u247.MuseMenuActive,#u880,#u881.MuseMenuActive,#u922,#u925.MuseMenuActive,#u97,#u1148
+#u159,#u204,#u246,#u880,#u922,#u97,#u1148
 {
 	background-color: transparent;
 }
@@ -291,10 +296,10 @@
 #u958-6
 {
 	background-color: transparent;
-	color: #7F7F7F;
+	line-height: 13px;
 	font-size: 11px;
 	text-align: center;
-	line-height: 13px;
+	color: #7F7F7F;
 	font-family: '__Montserrat_5';
 	font-weight: 400;
 }
