@@ -7,33 +7,162 @@ body{
 	margin: 0 auto;
 }
 
-#watermark {
-	z-index: 9999;
-	position: fixed;
-	top: 93%;
-	left: 1%;
-	opacity: 0.5;
-	transition: 0.3s;
+.header {
+  width: 200px;
+  display: block;
+  margin-top: 15px;
+  margin-left: auto;
+  margin-right: auto;
 }
 
-#watermark:hover {
-	z-index: 9999;
-	position: fixed;
-	top: 93%;
-	left: 1%;
-	opacity: 1.0;
-	transition: 0.3s;
+.buttons {
+	position: absolute;
+    top: 35%;
+}
+
+.store {
+	position: absolute;
+	background-color: #000;
+    border: none;
+    color: white;
+		margin-top: 50px;
+	width: 400px;
+	font-family: 'Montserrat', Sans-Serif;
+    padding: 15px 100px;
+	cursor: pointer;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+	transition: 0.7s;
+}
+
+.store:hover {
+	background-color: #fff;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+		margin-top: 50px;
+	width: 450px;
+	font-family: 'Montserrat', Sans-Serif;
+    text-align: center;
+    text-decoration: none;
+	cursor: pointer;
+    display: inline-block;
+    font-size: 16px;
+	color: #000;
+	transition: 0.7s;
+}
+
+.contact {
+	position: absolute;
+	background-color: #000;
+	font-family: 'Montserrat', Sans-Serif;
+    border: none;
+    color: white;
+	width: 400px;
+    padding: 15px 100px;
+	cursor: pointer;
+	margin-top: 100px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+	transition: 0.7s;
+}
+
+.contact:hover {
+	background-color: #fff;
+    border: none;
+	width: 450px;
+    color: white;
+    margin-top: 100px;
+    padding: 15px 32px;
+	font-family: 'Montserrat', Sans-Serif;
+	cursor: pointer;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+	color: #000;
+	transition: 0.7s;
+}
+
+.demo {
+	position: absolute;
+	background-color: #000;
+    border: none;
+	cursor: pointer;
+    color: white;
+	width: 400px;
+    padding: 15px 100px;
+		margin-top: 150px;
+    text-align: center;
+	font-family: 'Montserrat', Sans-Serif;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+	transition: 0.7s;
+}
+
+.demo:hover {
+	background-color: #fff;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+		margin-top: 150px;
+    text-decoration: none;
+	width: 450px;
+    display: inline-block;
+    font-size: 16px;
+	font-family: 'Montserrat', Sans-Serif;
+	cursor: pointer;
+	color: #000;
+	transition: 0.7s;
+}
+.press {
+	position: absolute;
+	background-color: #000;
+    border: none;
+	cursor: pointer;
+    color: white;
+	width: 400px;
+    padding: 15px 100px;
+		margin-top: 200px;
+    text-align: center;
+	font-family: 'Montserrat', Sans-Serif;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+	transition: 0.7s;
+}
+
+.press:hover {
+	background-color: #fff;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+		margin-top: 200px;
+    text-decoration: none;
+	width: 450px;
+    display: inline-block;
+    font-size: 16px;
+	font-family: 'Montserrat', Sans-Serif;
+	cursor: pointer;
+	color: #000;
+	transition: 0.7s;
 }
  </style>
  </head>
 <body>
-<div id="watermark">
-<a href="https://vitalityrecs.bandcamp.com">
-<img src="http://www.mutiaratec.com/wp-content/uploads/2015/07/bc-icon.png" alt="Powered by Bandcamp" title="Our music is powered by Bandcamp!" width="15%" height="15%"/>
-</a>
+<img class="header" src="http://i.imgur.com/xTuo52q.png" width="10%"/>
+<div class="buttons">
+<a href="https://vitalityrecs.bandcamp.com"><button class="store">VISIT OUR STORE</button></a>
+<a href="mailto:mgmt@vitalityrecs.com"><button class="contact">CONTACT US</button></a>
+<a href="http://goo.gl/forms/04q9HkzXrS"><button class="demo">SUBMIT YOUR DEMO</button></a>
+<a href="assets/press-kit-(.png).rar"><button class="press">DOWNLOAD PRESS KIT</button></a>
 </div>
-  <iframe width="100%" height="1500px" frameborder="0" scrolling="no" src="https://vitalityrecs.bandcamp.com">
-  <p>Your browser doesn't appear to support iframes. Please upgrade to a newer browser for the best experience or just <a href="https://vitalityrecs.bandcamp.com">click this link.</a></p>
-</iframe>
-   </body>
+</body>
 </html>
