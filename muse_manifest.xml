@@ -1,7 +1,7 @@
-<manifest alg="2" build="2015.1.1.343" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="vitalityrecs.com" resolutions="1x" timestamp="1461364202269">
+<manifest alg="2" build="2015.1.1.343" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="vitalityrecs.com" resolutions="1x" timestamp="1461365739866">
   <folder name="css">
     <file name="site_global.css" crc="131700929"/>
-    <file name="index.css" crc="37426171" ref="index"/>
+    <file name="index.css" crc="36994863" ref="index"/>
   </folder>
   <folder name="fonts">
     <file name="montserrat-bold.woff" crc="180081525"/>
@@ -17,6 +17,18 @@
     <file name="blank.gif" crc="4208392903" ref="index"/>
     <file name="white_text.png" crc="3821983689" seo="true" ref="index"/>
     <file name="bandcampbg.jpg" crc="83060690" ref="index"/>
+    <file name="1461382834_significon-soundcloud.png" crc="4257285014" seo="true" ref="index"/>
+    <file name="1461382834_significon-soundcloudwhite.png" crc="3896274923" seo="true" ref="index"/>
+    <file name="1461382821_significon-youtube.png" crc="3842601337" seo="true" ref="index"/>
+    <file name="1461382821_significon-youtubewhite.png" crc="212177077" seo="true" ref="index"/>
+    <file name="1461382838_significon-rss.png" crc="3817362966" seo="true" ref="index"/>
+    <file name="1461382838_significon-rsswhite.png" crc="4114927237" seo="true" ref="index"/>
+    <file name="1461382842_significon-spotify.png" crc="4057111555" seo="true" ref="index"/>
+    <file name="1461382842_significon-spotifywhite.png" crc="128252917" seo="true" ref="index"/>
+    <file name="1461382847_significon-twitter.png" crc="146669141" seo="true" ref="index"/>
+    <file name="1461382847_significon-twitterwhite.png" crc="528212646" seo="true" ref="index"/>
+    <file name="1461382853_significon-facebook-i.png" crc="513694554" seo="true" ref="index"/>
+    <file name="1461382853_significon-facebook-iwhite.png" crc="4216930005" seo="true" ref="index"/>
   </folder>
-  <file name="index.html" crc="4294431676" seo="true" mt="1461364150309" redirect="true"/>
+  <file name="index.html" crc="188932051" seo="true" mt="1461365707053" redirect="true"/>
 </manifest>
