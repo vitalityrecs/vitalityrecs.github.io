@@ -16,6 +16,46 @@
     </itunes:owner>
     <itunes:image href="http://vitalityrecs.com/cover.jpg" />
     <itunes:category text="Music"/>
+    <!--Start of new episode-->
+	<item>
+        <title>Vitality Podcast - EP:05</title>
+        <itunes:explicit>clean</itunes:explicit>
+        <itunes:author>Vitality Records</itunes:author>
+        <itunes:subtitle>Vitality Podcast - EP:05</itunes:subtitle>
+        <description><![CDATA[Welcome to this week's episode of the Vitality Records Podcast!
+
+-Tracklist-
+
+1. Drifta - Fake It (Salaryman Remix) [Saucy Vibes]
+2. Segment & Concept Vision - Charge [EatBrain]
+3. Bungle - Enclosure [Soul Trader Records]
+4. MissioN - Launch (Endbite Remix) [MissioN]
+5. 64:INIT - calmchaos_dnb_testver2 (Coming soon to the "untitled_1" LP!) [Vitality Records]
+6. Maduk - Got Me Thinking (feat. Veela) [Hospital Records]
+7. Noisia & Black Sun Empire - Hideous [BSE Recordings]
+
+Thank you for tuning in to this week's podcast! See you next time!]]></description>
+        <itunes:summary><![CDATA[Welcome to this week's episode of the Vitality Records Podcast!
+
+-Tracklist-
+
+1. Drifta - Fake It (Salaryman Remix) [Saucy Vibes]
+2. Segment & Concept Vision - Charge [EatBrain]
+3. Bungle - Enclosure [Soul Trader Records]
+4. MissioN - Launch (Endbite Remix) [MissioN]
+5. 64:INIT - calmchaos_dnb_testver2 (Coming soon to the "untitled_1" LP!) [Vitality Records]
+6. Maduk - Got Me Thinking (feat. Veela) [Hospital Records]
+7. Noisia & Black Sun Empire - Hideous [BSE Recordings]
+
+Thank you for tuning in to this week's podcast! See you next time!]]></itunes:summary>
+        <itunes:image href="http://vitalityrecs.com/cover.jpg" />
+        <enclosure url="http://vitalityrecs.com/assets/podcast/vrpodcast5.mp3" length="30782425" type="audio/mpeg"/>
+        <guid>http://vitalityrecs.com/assets/podcast/vrpodcast5.mp3</guid>
+        <pubDate>Sat, 23 Apr 2016 17:00:00 EST</pubDate>
+        <itunes:duration>00:32:03</itunes:duration>
+        <category>Music</category>
+      </item>
+	<!--End of new episode-->
 	<!--Start of new episode-->
 	<item>
         <title>Vitality Podcast - EP:04</title>
