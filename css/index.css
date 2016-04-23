@@ -4,8 +4,8 @@
 
 .version.index /* version checker */
 {
-	color: #000004;
-	background-color: #1507EC;
+	color: #0000F6;
+	background-color: #991D13;
 }
 
 #muse_css_mq
@@ -29,17 +29,15 @@
 
 #pu155-4
 {
-	width: 0.01px;
-	padding-bottom: 220px;
+	padding-bottom: 282px;
 	margin-right: -10000px;
-	margin-top: 174px;
-	margin-left: 321px;
+	margin-top: 218px;
+	width: 100%;
 }
 
 #u155-4
 {
 	z-index: 2;
-	width: 328px;
 	min-height: 55px;
 	-webkit-transition-duration: 0.6s;
 	-webkit-transition-delay: 0s;
@@ -47,10 +45,12 @@
 	transition-duration: 0.6s;
 	transition-delay: 0s;
 	transition-timing-function: ease-in-out;
-	background-image: url("../images/blank.gif");
-	border-style: solid;
-	border-color: #000000;
-	background-color: #000000;
+	background: -webkit-gradient(linear, left center, right center, from(rgba(0,0,0,0)),color-stop(100%, rgba(0,0,0,0)));
+	background: -webkit-linear-gradient(left,rgba(0,0,0,0) ,rgba(0,0,0,0) 100%);
+	background: linear-gradient(to right,rgba(0,0,0,0) ,rgba(0,0,0,0) 100%);
+	-pie-background: linear-gradient(left,rgba(0,0,0,0) ,rgba(0,0,0,0) 100%);
+	border-width: 0px;
+	border-color: transparent;
 	line-height: 22px;
 	color: #FFFFFF;
 	font-size: 18px;
@@ -58,16 +58,37 @@
 	font-family: '__Montserrat_5';
 	font-weight: 700;
 	position: fixed;
-	top: 169px;
-	left: 50%;
-	margin-left: -164px;
-	border-width: 5px 5px 0px;
+	top: 218px;
+}
+
+#u155-4:hover
+{
+	-webkit-transition-duration: 0.6s;
+	-webkit-transition-delay: 0s;
+	-webkit-transition-timing-function: ease-in-out;
+	transition-duration: 0.6s;
+	transition-delay: 0s;
+	transition-timing-function: ease-in-out;
+	background-image: url("../images/blank.gif");
+	border-width: 0px;
+	border-color: transparent;
+	background-color: #CCCCCC;
+	background-color: rgba(0,0,0,0.2);
+	-pie-background: none;
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 55px;
+	margin: 0px;
+}
+
+#u155-4-bw
+{
+	z-index: 2;
 }
 
 #u161-4
 {
 	z-index: 6;
-	width: 328px;
 	min-height: 55px;
 	-webkit-transition-duration: 0.6s;
 	-webkit-transition-delay: 0s;
@@ -75,10 +96,12 @@
 	transition-duration: 0.6s;
 	transition-delay: 0s;
 	transition-timing-function: ease-in-out;
-	background-image: url("../images/blank.gif");
-	border-style: solid;
-	border-color: #000000;
-	background-color: #000000;
+	background: -webkit-gradient(linear, left center, right center, from(rgba(0,0,0,0)),color-stop(100%, rgba(0,0,0,0)));
+	background: -webkit-linear-gradient(left,rgba(0,0,0,0) ,rgba(0,0,0,0) 100%);
+	background: linear-gradient(to right,rgba(0,0,0,0) ,rgba(0,0,0,0) 100%);
+	-pie-background: linear-gradient(left,rgba(0,0,0,0) ,rgba(0,0,0,0) 100%);
+	border-width: 0px;
+	border-color: transparent;
 	line-height: 22px;
 	color: #FFFFFF;
 	font-size: 18px;
@@ -86,16 +109,37 @@
 	font-family: '__Montserrat_5';
 	font-weight: 700;
 	position: fixed;
-	top: 229px;
-	left: 50%;
-	margin-left: -164px;
-	border-width: 0px 5px;
+	top: 273px;
+}
+
+#u161-4:hover
+{
+	-webkit-transition-duration: 0.6s;
+	-webkit-transition-delay: 0s;
+	-webkit-transition-timing-function: ease-in-out;
+	transition-duration: 0.6s;
+	transition-delay: 0s;
+	transition-timing-function: ease-in-out;
+	background-image: url("../images/blank.gif");
+	border-width: 0px;
+	border-color: transparent;
+	background-color: #CCCCCC;
+	background-color: rgba(0,0,0,0.2);
+	-pie-background: none;
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 55px;
+	margin: 0px;
+}
+
+#u161-4-bw
+{
+	z-index: 6;
 }
 
 #u164-4
 {
 	z-index: 10;
-	width: 328px;
 	min-height: 55px;
 	-webkit-transition-duration: 0.6s;
 	-webkit-transition-delay: 0s;
@@ -103,10 +147,12 @@
 	transition-duration: 0.6s;
 	transition-delay: 0s;
 	transition-timing-function: ease-in-out;
-	background-image: url("../images/blank.gif");
-	border-style: solid;
-	border-color: #000000;
-	background-color: #000000;
+	background: -webkit-gradient(linear, left center, right center, from(rgba(0,0,0,0)),color-stop(100%, rgba(0,0,0,0)));
+	background: -webkit-linear-gradient(left,rgba(0,0,0,0) ,rgba(0,0,0,0) 100%);
+	background: linear-gradient(to right,rgba(0,0,0,0) ,rgba(0,0,0,0) 100%);
+	-pie-background: linear-gradient(left,rgba(0,0,0,0) ,rgba(0,0,0,0) 100%);
+	border-width: 0px;
+	border-color: transparent;
 	line-height: 22px;
 	color: #FFFFFF;
 	font-size: 18px;
@@ -114,16 +160,37 @@
 	font-family: '__Montserrat_5';
 	font-weight: 700;
 	position: fixed;
-	top: 284px;
-	left: 50%;
-	margin-left: -164px;
-	border-width: 0px 5px;
+	top: 328px;
+}
+
+#u164-4:hover
+{
+	-webkit-transition-duration: 0.6s;
+	-webkit-transition-delay: 0s;
+	-webkit-transition-timing-function: ease-in-out;
+	transition-duration: 0.6s;
+	transition-delay: 0s;
+	transition-timing-function: ease-in-out;
+	background-image: url("../images/blank.gif");
+	border-width: 0px;
+	border-color: transparent;
+	background-color: #CCCCCC;
+	background-color: rgba(0,0,0,0.2);
+	-pie-background: none;
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 55px;
+	margin: 0px;
+}
+
+#u164-4-bw
+{
+	z-index: 10;
 }
 
 #u167-4
 {
 	z-index: 14;
-	width: 328px;
 	min-height: 55px;
 	-webkit-transition-duration: 0.6s;
 	-webkit-transition-delay: 0s;
@@ -131,10 +198,12 @@
 	transition-duration: 0.6s;
 	transition-delay: 0s;
 	transition-timing-function: ease-in-out;
-	background-image: url("../images/blank.gif");
-	border-style: solid;
-	border-color: #000000;
-	background-color: #000000;
+	background: -webkit-gradient(linear, left center, right center, from(rgba(0,0,0,0)),color-stop(100%, rgba(0,0,0,0)));
+	background: -webkit-linear-gradient(left,rgba(0,0,0,0) ,rgba(0,0,0,0) 100%);
+	background: linear-gradient(to right,rgba(0,0,0,0) ,rgba(0,0,0,0) 100%);
+	-pie-background: linear-gradient(left,rgba(0,0,0,0) ,rgba(0,0,0,0) 100%);
+	border-width: 0px;
+	border-color: transparent;
 	line-height: 22px;
 	color: #FFFFFF;
 	font-size: 18px;
@@ -142,13 +211,10 @@
 	font-family: '__Montserrat_5';
 	font-weight: 700;
 	position: fixed;
-	top: 339px;
-	left: 50%;
-	margin-left: -164px;
-	border-width: 0px 5px 5px;
+	top: 383px;
 }
 
-#u155-4:hover,#u161-4:hover,#u164-4:hover,#u167-4:hover
+#u167-4:hover
 {
 	-webkit-transition-duration: 0.6s;
 	-webkit-transition-delay: 0s;
@@ -156,18 +222,16 @@
 	transition-duration: 0.6s;
 	transition-delay: 0s;
 	transition-timing-function: ease-in-out;
-	background-color: #FFFFFF;
+	background-image: url("../images/blank.gif");
+	border-width: 0px;
+	border-color: transparent;
+	background-color: #CCCCCC;
+	background-color: rgba(0,0,0,0.2);
+	-pie-background: none;
 	padding-top: 0px;
 	padding-bottom: 0px;
 	min-height: 55px;
-	width: 328px;
-	margin: 0px 0px 0px -164px;
-}
-
-#u155-4:hover p,#u161-4:hover p,#u164-4:hover p,#u167-4:hover p
-{
-	color: #000000;
-	visibility: inherit;
+	margin: 0px;
 }
 
 #u155-2,#u161-2,#u164-2,#u167-2
@@ -175,13 +239,27 @@
 	padding-top: 17px;
 }
 
-#pu284
+#u167-4-bw
 {
-	padding-bottom: 32px;
-	margin-right: -10000px;
-	margin-top: 453px;
-	margin-left: 358px;
-	width: 3.44%;
+	z-index: 14;
+}
+
+#u190
+{
+	z-index: 20;
+	height: 62px;
+	background: transparent url("../images/u190-grad.png") repeat-x left top;
+	background: -webkit-gradient(linear, center top, center bottom, from(rgba(0,0,0,0)),color-stop(100%, rgba(0,0,0,0.5)));
+	background: -webkit-linear-gradient(top,rgba(0,0,0,0) ,rgba(0,0,0,0.5) 100%);
+	background: linear-gradient(to bottom,rgba(0,0,0,0) ,rgba(0,0,0,0.5) 100%);
+	border-radius: 150px 150px 0px 0px ;
+	position: fixed;
+	bottom: 0px;
+}
+
+#u190-bw
+{
+	z-index: 20;
 }
 
 #u284
@@ -569,33 +647,6 @@
 	max-width: 33px;
 }
 
-#u190
-{
-	z-index: 20;
-	height: 62px;
-	background: transparent url("../images/u190-grad.png") repeat-x left top;
-	background: -webkit-gradient(linear, center top, center bottom, from(rgba(0,0,0,0)),color-stop(100%, rgba(0,0,0,0.5)));
-	background: -webkit-linear-gradient(top,rgba(0,0,0,0) ,rgba(0,0,0,0.5) 100%);
-	background: linear-gradient(to bottom,rgba(0,0,0,0) ,rgba(0,0,0,0.5) 100%);
-	border-radius: 150px 150px 0px 0px ;
-}
-
-.js body
-{
-	visibility: hidden;
-}
-
-.js body.initialized
-{
-	visibility: visible;
-}
-
-#u190-bw
-{
-	z-index: 20;
-	height: 62px;
-}
-
 .html
 {
 	background: #23252B url("../images/bandcampbg.jpg") repeat center center fixed;
@@ -605,11 +656,6 @@ body
 {
 	position: relative;
 	min-width: 320px;
-}
-
-.verticalspacer
-{
-	min-height: 1px;
 }
 
 @font-face
