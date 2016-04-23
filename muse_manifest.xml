@@ -1,7 +1,7 @@
-<manifest alg="2" build="2015.1.1.343" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="vitalityrecs.com" resolutions="1x" timestamp="1461365739866">
+<manifest alg="2" build="2015.1.1.343" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="vitalityrecs.com" resolutions="1x" timestamp="1461422347765">
   <folder name="css">
     <file name="site_global.css" crc="131700929"/>
-    <file name="index.css" crc="36994863" ref="index"/>
+    <file name="index.css" crc="68487148" ref="index"/>
   </folder>
   <folder name="fonts">
     <file name="montserrat-bold.woff" crc="180081525"/>
@@ -12,6 +12,7 @@
     <file name="museutils.js" crc="531812214" ref="index"/>
     <file name="whatinput.js" crc="84559013" ref="index"/>
     <file name="jquery.watch.js" crc="3866665977" ref="index"/>
+    <file name="pie.js" crc="3827607177" ref="index"/>
   </folder>
   <folder name="images">
     <file name="blank.gif" crc="4208392903" ref="index"/>
@@ -29,6 +30,7 @@
     <file name="1461382847_significon-twitterwhite.png" crc="528212646" seo="true" ref="index"/>
     <file name="1461382853_significon-facebook-i.png" crc="513694554" seo="true" ref="index"/>
     <file name="1461382853_significon-facebook-iwhite.png" crc="4216930005" seo="true" ref="index"/>
+    <file name="u190-grad.png" crc="267923423" ref="index"/>
   </folder>
-  <file name="index.html" crc="188932051" seo="true" mt="1461365707053" redirect="true"/>
+  <file name="index.html" crc="4258955009" seo="true" mt="1461422280926" redirect="true"/>
 </manifest>
