@@ -16,6 +16,46 @@
     </itunes:owner>
     <itunes:image href="http://vitalityrecs.com/cover.jpg" />
     <itunes:category text="Music"/>
+	<!--Start of new episode-->
+	<item>
+        <title>Vitality Podcast - EP:06</title>
+        <itunes:explicit>clean</itunes:explicit>
+        <itunes:author>Vitality Records</itunes:author>
+        <itunes:subtitle>Vitality Podcast - EP:06</itunes:subtitle>
+		<description><![CDATA[Welcome to this week's episode of the Vitality Records Podcast!
+
+-Tracklist-
+
+1. Somber - Oversight [Somber]
+2. Facing Jinx - All My Love [Fokuz Recordings]
+3. 64:INIT - darkness. [Vitality Records]
+4. Muzzy - Play (feat. UK:ID) [Monstercat]
+5. Maduk - Just Be Good (feat. Nymfo) [Hospital Records]
+6. Smooth - Eraser [Viper Recordings]
+7. BCee & Drifta - Ghost (feat. Hannah Eve) [Soul Trader Records]
+
+Thank you for tuning in to this week's podcast! See you next time!]]></description>
+        <itunes:summary><![CDATA[Welcome to this week's episode of the Vitality Records Podcast!
+
+-Tracklist-
+
+1. Somber - Oversight [Somber]
+2. Facing Jinx - All My Love [Fokuz Recordings]
+3. 64:INIT - darkness. [Vitality Records]
+4. Muzzy - Play (feat. UK:ID) [Monstercat]
+5. Maduk - Just Be Good (feat. Nymfo) [Hospital Records]
+6. Smooth - Eraser [Viper Recordings]
+7. BCee & Drifta - Ghost (feat. Hannah Eve) [Soul Trader Records]
+
+Thank you for tuning in to this week's podcast! See you next time!]]></itunes:summary>
+        <itunes:image href="http://vitalityrecs.com/assets/podcast/covers/6.jpg" />
+        <enclosure url="http://vitalityrecs.com/assets/podcast/vrpodcast6.mp3" length="328045795" type="audio/mpeg"/>
+        <guid>http://vitalityrecs.com/assets/podcast/vrpodcast6.mp3</guid>
+        <pubDate>Sun, 1 May 2016 17:00:00 EST</pubDate>
+        <itunes:duration>00:34:10</itunes:duration>
+        <category>Music</category>
+      </item>
+	<!--End of new episode-->
     <!--Start of new episode-->
 	<item>
         <title>Vitality Podcast - EP:05</title>
