@@ -1,33 +1,59 @@
 <!DOCTYPE html>
 <html>
-<head>
-<title>Vitality Records | Contact</title>
-<script src="//load.sumome.com/" data-sumo-site-id="ca10e52047f5d7482f2e8dc815e6b42a948cd5345bc697f5520fdbc23df69016" async="async"></script>
-<head profile="http://www.w3.org/2005/10/profile">
-<link rel="icon" 
-      type="image/png" 
-      href="img/fav.png">
-<link rel="stylesheet" type="text/css" href="style/master.css">
-</head>
-<body>
-<a class="headerlink" href="index.html">
-<img class="header" src="img/hero.png"/>
-</a>
-<header>
-<a class="nav" href="index.html">HOME</a><a class="nav" href="about.html">ABOUT</a><a class="nav" href="contact.html">CONTACT</a><a class="nav" href="demos.html">DEMOS</a><a class="nav" href="press.html">PRESS</a>
-</header>
-<p class="contact">
-	<span id="contact">Contact Us!</span>
-</p>
-	<table style="width: 950px;">
-		<tr>
-	<td><a href="https://twitter.com/vitalityrecs" style="text-decoration: none; border-bottom: 0px solid #000;"><button style="background-image: url(img/twitterbg.png)">Twitter</button></a></td>
-	<td><a href="https://fb.com/vitalityrecs" style="text-decoration: none; border-bottom: 0px solid #000;"><button style="background-image: url(img/facebookbg.png)">Facebook</button></a></td>
-	<td><a href="https://youtube.com/c/vitalityrecsofficial" style="text-decoration: none; border-bottom: 0px solid #000;"><button style="background-image: url(img/youtubebg.png)">YouTube</button></a></td>
-	<td><a href="mailto:mgmt@vitalityrecs.com" style="text-decoration: none; border-bottom: 0px solid #000;"><button style="background-image: url(img/emailbg.png)">E-Mail</button></a></td>
-	</tr>
-	</table>
-<footer></footer>
-<p style="opacity: 0.5; position: absolute; margin-bottom: 15px; width: 950px; text-align: center;">&copy; <script>new Date().getFullYear()>2010&&document.write(""+new Date().getFullYear());</script>, Vitality Records.</p>
-</body>
+	<head>
+		<title>Vitality Records</title>
+		<link rel="stylesheet" type="text/css" href="master.css">
+		<script src="jquery.scroll.js"></script>
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.1/jquery.min.js"></script>
+		<script>
+        $(document).ready(function(){
+            $("#wrapper").scroll()
+        });
+    </script>
+	</head>
+	<body>
+		<div id="content">
+			<header>
+				<a href="index.html"><div id="hero"><span></span></div></a>
+				<a id="herolinks" href="index.html">HOME</a>
+				<a id="herolinks" href="about.html">ABOUT</a>
+				<a id="herolinks" href="contact.html">CONTACT</a>
+				<a id="herolinks" href="demos.html">DEMOS</a>
+				<a id="herolinks" href="press.html">PRESS</a>
+			</header>
+				<form id="contact" method="POST" action="https://script.google.com/macros/s/AKfycbxIDqoBWxPlhIBggQpeYvwsxZ8EVejjh_ufc6O8nrSxF06309he/exec">
+					<ul class="form-style-1">
+    <li><label>Full Name <span class="required">*</span></label><input type="text" name="field1" class="field-divided" placeholder="First" />&nbsp;<input type="text" name="field2" class="field-divided" placeholder="Last" /></li>
+    <li>
+        <label>Email <span class="required">*</span></label>
+        <input type="email" name="field3" class="field-long" />
+    </li>
+
+    <li>
+        <label>Your Message <span class="required">*</span></label>
+        <textarea name="field5" id="field5" class="field-long field-textarea"></textarea>
+    </li>
+    <li>
+        <input type="submit" value="Submit" />
+    </li>
+</ul>
+				</form>
+			<footer>
+			<p id="footer">Copyright Vitality Records, 2016</p>
+			<div class="social">
+			<a href="https://twitter.com/vitalityrecs" target="_blank"><img id="footer" src="img/social/twitter.png" /></a>
+			<a href="https://fb.com/vitalityrecs" target="_blank"><img id="footer" src="img/social/facebook.png" /></a>
+			<a href="https://youtube.com/c/vitalityrecsofficial" target="_blank"><img id="footer" src="img/social/youtube.png" /></a>
+			<a href="https://soundcloud.com/vitalityrecs" target="_blank"><img id="footer" src="img/social/soundcloud.png" /></a>
+			<a href="https://plus.google.com/+vitalityrecsofficial" target="_blank"><img id="footer" src="img/social/googleplus.png" /></a>
+			<a href="https://open.spotify.com/user/vitalityrecords" target="_blank"><img id="footer" src="img/social/spotify.png" /></a>
+			<a href="http://vitalityrecs.com/feed.xml" target="_blank"><img id="footer" src="img/social/rss.png" /></a>
+			<a href="https://vitalityrecs.bandcamp.com" target="_blank"><img id="footer" src="img/social/bandcamp.png" /></a>
+			</div>
+		</footer>
+		</div>
+		<script data-cfasync="false" type="text/javascript"
+src="https://cdn.rawgit.com/dwyl/html-form-send-email-via-google-script-without-server/master/form-submission-handler.js"></script>
+
+	</body>
 </html>
